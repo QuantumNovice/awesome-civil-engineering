@@ -37,6 +37,7 @@ ul {
     list-style-type: square;
     list-style: none;
     list-style-type: "🥂  ";
+    font-size:1.1rem;
     
 }
 
@@ -89,7 +90,8 @@ h1{
   }
 }
 *{
-    animation: color-change 1s infinite;
+  font-family: Arial, Helvetica, sans-serif;
+  animation: color-change 1s infinite;
 }
 a{
     color:cyan; 
