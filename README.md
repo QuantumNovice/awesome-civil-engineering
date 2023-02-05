@@ -77,7 +77,8 @@ This is a list of softwares and resource used in civil engineering practice.
 - Midas Civil (Midas Information Technology)
 - SCIA Engineer (SCIA)
 - RAM Structural System (Bentley Systems)
-- STAAD Pro (Bentley Systems)
+- [STAAD.Pro V8i](https://www.bentley.com/en/products/product-line/structural-analysis-design/staadpro) - A comprehensive structural analysis and design software that offers a free trial period.
+- [RISA-3D](https://risa3d.com/) - A free 3D structural analysis software for building and bridge design.
 
 
 ## Structural Simulation Software
@@ -89,9 +90,9 @@ This is a list of softwares and resource used in civil engineering practice.
 - ETABS - Building analysis and design software
 - SAP2000 - Structural analysis and design software
 - MIDAS - Structural analysis and design software
-- SCIA Engineer - Structural engineering software
-- Prokon - Structural analysis and design software
+- [SCIA Engineer](https://www.scia.net/en/products/scia-engineer) - A versatile structural analysis software for design and engineering of all types of structures. It offers a free demo version.- Prokon - Structural analysis and design software
 - RAM Structural System - Building analysis and design software.
+- [ArchCalc](http://www.archcalc.com/) - A free, easy-to-use, online structural analysis calculator for architects, engineers, and construction professionals.
 
 ## GeoTechnical Engineering
 
@@ -234,7 +235,7 @@ Here is a list of popular web-based civil engineering software:
 ## Web Calculators
 
 ### Structure Analysis
-
+- [SkyCiv Engineering](https://www.skyciv.com/structural-analysis-software/) - A cloud-based structural analysis software that provides a user-friendly interface for analyzing structures.
 
 
 ## Programming Libraries
