@@ -18,11 +18,9 @@ This is a list of softwares and resource used in civil engineering practice.
 * [Structure Analysis and Design Software](#structure-analysis-and-design-software)
 * [Structural Simulation Software](#structural-simulation-software)
 * [GeoTechnical Engineering](#geotechnical-engineering)
-
 * [Transportation Engineering](#transportation-engineering)
 * [Calculations](#calculations)
 * [Drafting](#drafting)
-
 * [3D Modelling](#3d-modelling)
 * [GIS](#gis)
 * [Project Management](#project-management)
