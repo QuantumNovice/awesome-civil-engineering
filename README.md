@@ -21,6 +21,7 @@ This is a list of softwares and resource used in civil engineering practice.
 * [Transportation Engineering](#transportation-engineering)
 * [Environmental Engineering](#environmental-engineering)
 * [Calculations](#calculations)
+* [Web Calculators](#web-calculators)
 * [Drafting](#drafting)
 * [3D Modelling](#3d-modelling)
 * [GIS](#gis)
@@ -32,7 +33,6 @@ This is a list of softwares and resource used in civil engineering practice.
   * [Rust](#rust)
   * [C#](#C#)
 * [Machine Learning](#machine-learning)
-
 
 
 
@@ -139,7 +139,6 @@ This is a list of softwares and resource used in civil engineering practice.
 - SciPy - Scientific computing library for Python
 - Julia - High-level programming language for numerical and scientific computing.
 
-
 ## Drafting
 
 - AutoCAD - Computer-Aided Design (CAD) software
@@ -207,6 +206,16 @@ This is a list of softwares and resource used in civil engineering practice.
 Achievion - A construction project management software that offers tools for project planning, scheduling, budgeting, and collaboration.
 - Smartsheet - A cloud-based project management and collaboration tool that allows teams to manage projects, track tasks, and automate workflows.
 - Podio - A cloud-based project management tool that offers a range of tools for project management, communication, and file sharing.
+Here is a list of popular web-based civil engineering software:
+- [Autodesk BIM 360](https://www.autodesk.com/products/bim-360/overview) - A cloud-based project management platform for construction professionals.
+- [Procore](https://www.procore.com/) - A construction project management software with tools for scheduling, budgeting, and communication.
+- [Plangrid](https://www.plangrid.com/) - A construction project management platform that allows for collaboration and organization on a single platform.
+- [Buildertrend](https://www.buildertrend.com/) - A cloud-based construction management software that includes scheduling, budgeting, and communication tools.
+- [Bluebeam Revu](https://www.bluebeam.com/revu) - A software for document management and collaboration in the construction industry.
+- [PlanGrid](https://www.plangrid.com/) - A cloud-based construction project management platform that provides collaboration and organization on a single platform.
+- [Fieldwire](https://www.fieldwire.com/) - A construction project management software that allows for collaboration on tasks, plans, and punch lists.
+- [CoConstruct](https://www.coconstruct.com/) - A cloud-based construction project management software with tools for scheduling, budgeting, and communication.
+
 
 ## Spreadsheet
 
@@ -220,6 +229,12 @@ Achievion - A construction project management software that offers tools for pro
 - Zoho Sheet - Online spreadsheet software
 - Asana Tables - Online spreadsheet software for team collaboration
 - Quip Spreadsheets - Online spreadsheet software for team collaboration.
+
+
+## Web Calculators
+
+### Structure Analysis
+
 
 
 ## Programming Libraries
