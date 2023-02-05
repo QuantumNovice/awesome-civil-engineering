@@ -338,4 +338,7 @@ h1{
 *{
     color:white;
 }
+a{
+    color:cyan; 
+}
 </style>
