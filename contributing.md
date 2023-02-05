@@ -30,12 +30,14 @@ hr:hover{
 
 body{
     background-color: #24292e;
+    
 }
 
 ul {
     list-style-type: square;
     list-style: none;
     list-style-type: "🥂  ";
+    
 }
 
 
@@ -43,6 +45,7 @@ li:hover {
     content: "•";
     color: gold;
     transform: scale(1.02);
+    
     
 }
 
@@ -64,9 +67,9 @@ h1{
     animation: float 6s ease-in-out infinite;
 }
 @keyframes color-change {
-  0% { color: red; }
+  0% { color: gold; }
   50% { color: yellow; }
-  100% { color: red; }
+  100% { color: gold; }
 }
 
 @keyframes wiggle {
@@ -86,7 +89,7 @@ h1{
   }
 }
 *{
-    color:white;
+    animation: color-change 1s infinite;
 }
 a{
     color:cyan; 
