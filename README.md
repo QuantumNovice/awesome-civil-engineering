@@ -5,7 +5,7 @@ This is a list of softwares and resource used in civil engineering practice.
 
 
 ## Content
----
+
 * [Reporting & Documentation](#reporting-and-documentation)
 * [Water Resources](#water-resources)
 * [Structure Analysis and Design Software](#structure-analysis-and-design-software)
@@ -31,7 +31,7 @@ This is a list of softwares and resource used in civil engineering practice.
 
 
 ## Reporting and Documentation
----
+
 - Microsoft Word
 - Latex
 - Phantom PDF
@@ -47,7 +47,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - CoConstruct (CoConstruct, LLC)
 
 ## Water Resources
----
+
 - EPA SWMM - Urban drainage modeling software developed by the Environmental Protection Agency (EPA)
 - HEC-RAS - River hydraulic modeling software developed by the US Army Corps of Engineers (USACE)
 - TUFLOW - Hydrodynamic and hydraulic modeling software for floodplain management
@@ -60,7 +60,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - i-Water Flow - Integrated water management software.
 
 ## Structure Analysis and Design Software
----
+
 - SAP2000 (Computer and Structures, Inc.)
 - ETABS (Computers and Structures, Inc.)
 - Tekla Structural Designer 2020
@@ -74,7 +74,7 @@ This is a list of softwares and resource used in civil engineering practice.
 
 
 ## Structural Simulation Software
----
+
 - ANSYS - Multi-physics simulation software
 - ABAQUS - Finite Element Analysis (FEA) software
 - Autodesk Robot Structural Analysis Professional
@@ -87,7 +87,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - RAM Structural System - Building analysis and design software.
 
 ## GeoTechnical Engineering
----
+
 
 - PLAXIS - Finite Element Analysis Software
 - FLAC - Fast Lagrangian Analysis of Continua
@@ -101,7 +101,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - SoilVision Systems - Soil Mechanics and Geotechnical Modeling Software.
 
 ## Transportation Engineering
----
+
 
 - Synchro - Traffic Signal Timing and Analysis Software
 - VISSIM - Microscopic Traffic Simulation Software
@@ -115,7 +115,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - TransCAD - GIS-based Transportation Planning and Modeling Software
 
 ## Calculations
----
+
 - MATLAB - Numerical computing software developed by - - MathWorks
 - Octave - Free and open-source alternative to MATLAB
 - R - Programming language for statistical computing and data analysis
@@ -128,7 +128,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - Julia - High-level programming language for numerical and scientific computing.
 
 ## Drafting
----
+
 - AutoCAD - Computer-Aided Design (CAD) software
 - MicroStation - CAD software for architecture, engineering, and construction (AEC)
 - Revit - Building Information Modeling (BIM) software
@@ -141,7 +141,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - AutoCAD Map 3D - GIS and mapping software.
 
 ## 3D Modelling
----
+
 
 - AutoCAD - Computer-Aided Design (CAD) software
 - Revit - Building Information Modeling (BIM) software
@@ -155,7 +155,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - AutoCAD Map 3D - GIS and mapping software
 
 ## GIS
----
+
 - ArcGIS - GIS software by Esri
 - QGIS - Open source GIS software
 - AutoCAD Map 3D - GIS and mapping software
@@ -168,7 +168,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - Cesium - Open source platform for 3D geospatial mapping
 
 ## Project Management
----
+
 - Procore - A cloud-based construction project management platform that offers a range of tools for project management, document management, and communication.
 - Microsoft Project - A project management software that provides tools for project scheduling, resource allocation, and budget management.
 - Asana - A cloud-based collaboration and project management tool that allows teams to track tasks, communicate, and share files in one central place.
@@ -181,7 +181,7 @@ Achievion - A construction project management software that offers tools for pro
 - Podio - A cloud-based project management tool that offers a range of tools for project management, communication, and file sharing.
 
 ## Spreadsheet
----
+
 - Microsoft Excel - Spreadsheet software developed by Microsoft
 - Google Sheets - Online spreadsheet software developed by Google
 - LibreOffice Calc - Free and open-source spreadsheet software
@@ -194,7 +194,7 @@ Achievion - A construction project management software that offers tools for pro
 - Quip Spreadsheets - Online spreadsheet software for team collaboration.
 
 ## Programming Libraries
----
+
 
 ### Python 
 * PyFEM - Finite Element Modellingg
@@ -250,7 +250,7 @@ Achievion - A construction project management software that offers tools for pro
 ### 
 
 ## Machine Learning
----
+
 - TensorFlow - Machine learning library developed by Google
 - PyTorch - Machine learning library developed by Facebook
 - Scikit-learn - Machine learning library for Python
@@ -262,9 +262,6 @@ Achievion - A construction project management software that offers tools for pro
 - XGBoost - Machine learning library for gradient boosting trees
 - LightGBM - Machine learning library for gradient boosting trees.
 
-<foreignObject width="100%" height="100%">
-
-  
 <style>
 mark{
     color:red;
@@ -338,5 +335,7 @@ h1{
     transform: translatey(0px);
   }
 }
+*{
+    color:white;
+}
 </style>
- </foreignObject>
