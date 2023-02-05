@@ -19,6 +19,7 @@ This is a list of softwares and resource used in civil engineering practice.
 * [Structural Simulation Software](#structural-simulation-software)
 * [GeoTechnical Engineering](#geotechnical-engineering)
 * [Transportation Engineering](#transportation-engineering)
+* [Environmental Engineering](#environmental-engineering)
 * [Calculations](#calculations)
 * [Drafting](#drafting)
 * [3D Modelling](#3d-modelling)
@@ -94,7 +95,7 @@ This is a list of softwares and resource used in civil engineering practice.
 
 ## GeoTechnical Engineering
 
-
+- LPile - A special-purposeprogram based on rational procedures for analyzing a pile under lateral loading using the p-y method
 - PLAXIS - Finite Element Analysis Software
 - FLAC - Fast Lagrangian Analysis of Continua
 - SLOPE/W - Slope Stability Analysis Software
@@ -105,7 +106,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - GINT - Geotechnical Information System
 - TALREN - Terrain Analysis and Engineering Software
 - SoilVision Systems - Soil Mechanics and Geotechnical Modeling Software.
-- LPile - A special-purposeprogram based on rational procedures for analyzing a pile under lateral loading using the p-y method
+
 
 
 ## Transportation Engineering
@@ -178,6 +179,20 @@ This is a list of softwares and resource used in civil engineering practice.
 - Geospatial Modelling Environment (GME) - GIS software for environmental and ecological modeling
 - Cesium - Open source platform for 3D geospatial mapping
 
+## Environmental Engineering
+
+
+- [Wastewater Collection System Modeling Software (CSSM)](https://www.innovyze.com/products/collection-system-modeling) - A software used for the analysis and design of wastewater collection systems.
+- [WaterGEMS](https://www.bentley.com/en/products/product-line/water-and-wastewater) - A hydraulic and water quality modeling software for water distribution systems.
+- [StormCAD](https://www.bentley.com/en/products/product-line/water-and-wastewater) - A software for the design and analysis of stormwater conveyance systems.
+- [EPANET](https://www.epa.gov/water-research/epanet) - An open-source software tool for the analysis of water distribution systems.
+- [PCSWMM](https://www.innovyze.com/products/pc-swmm) - A software for the analysis of urban runoff, combined sewer overflows, and sanitary sewer systems.
+- [Air dispersion modeling software](https://www.enviro.space/products/air-dispersion-modeling-software) - A software used to simulate the dispersion of air pollutants from point, area, and line sources.
+
+- [AQUATOX](https://www.epa.gov/water-research/aquatox) - a software for modeling the ecological effects of stressors, such as pollutants, on aquatic ecosystems.
+
+- [SWMM5](https://www.epa.gov/water-research/storm-water-management-model-swmm) - a software for the design and analysis of stormwater management systems.
+
 ## Project Management
 
 - Procore - A cloud-based construction project management platform that offers a range of tools for project management, document management, and communication.
@@ -203,6 +218,7 @@ Achievion - A construction project management software that offers tools for pro
 - Zoho Sheet - Online spreadsheet software
 - Asana Tables - Online spreadsheet software for team collaboration
 - Quip Spreadsheets - Online spreadsheet software for team collaboration.
+
 
 ## Programming Libraries
 
