@@ -27,10 +27,10 @@ This is a list of softwares and resource used in civil engineering practice.
 * [Project Management](#project-management)
 * [Spreadsheet](#Spreadsheet)
 * [Programming Libraries](#programming-libraries)
-* [Python](#python)
-* [JavaScript](#javaScript)
-* [Rust](#rust)
-* [C#](#C#)
+  * [Python](#python)
+  * [JavaScript](#javaScript)
+  * [Rust](#rust)
+  * [C#](#C#)
 * [Machine Learning](#machine-learning)
 
 
@@ -126,7 +126,8 @@ This is a list of softwares and resource used in civil engineering practice.
 - [AutoTurn](https://www.transoftsolutions.com/emea/vehicle-swept-path/software/autoturn/) - Analyze and Design Highway Infrastructure such as intersections, roundabouts, bus terminals, loading bays, parking lots or any on/off-street assignments involving vehicle access checks, clearances, vehicle tracking and swept path maneuvers.
 
 ## Calculations
-
+- [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - A freeware, closed-source, mathematical notebook program for calculations.
+- [MathCAD](https://www.mathcad.com/en) - A program for the verification, validation, documentation and re-use of mathematical calculations in engineering.
 - MATLAB - Numerical computing software developed by - - MathWorks
 - Octave - Free and open-source alternative to MATLAB
 - R - Programming language for statistical computing and data analysis
@@ -137,6 +138,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - NumPy - Mathematical library for Python
 - SciPy - Scientific computing library for Python
 - Julia - High-level programming language for numerical and scientific computing.
+
 
 ## Drafting
 
