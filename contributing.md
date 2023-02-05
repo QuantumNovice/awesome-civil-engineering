@@ -11,6 +11,8 @@ filename: contributing.md
 * u/triangleman83
 * u/Rich_Carpenter8695
 * u/ruffroad715
+* u/tonycocacola
+* u/zschwheel
 
 <style>
 mark{
