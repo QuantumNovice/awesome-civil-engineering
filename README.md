@@ -7,7 +7,7 @@ This is a list of softwares and resource used in civil engineering practice.
 ## Content
 
 * [Reporting & Documentation](#reporting-and-documentation)
-* [Water Resources](#water-resources)
+* [Water Resources](#water-resources-drainage)
 * [Structure Analysis and Design Software](#structure-analysis-and-design-software)
 * [Structural Simulation Software](#structural-simulation-software)
 * [GeoTechnical Engineering](#geotechnical-engineering)
@@ -46,7 +46,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - BIM 360 (Autodesk)
 - CoConstruct (CoConstruct, LLC)
 
-## Water Resources
+## Water Resources-Drainage
 
 - EPA SWMM - Urban drainage modeling software developed by the Environmental Protection Agency (EPA)
 - HEC-RAS - River hydraulic modeling software developed by the US Army Corps of Engineers (USACE)
@@ -58,6 +58,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - Infoworks ICM - Integrated water management software
 - PCSWMM - Stormwater management software
 - i-Water Flow - Integrated water management software.
+- ICPR - A Hydraulic/Ground Water Modelling Software by Streamline Technologies
 
 ## Structure Analysis and Design Software
 
