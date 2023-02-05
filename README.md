@@ -107,6 +107,8 @@ This is a list of softwares and resource used in civil engineering practice.
 - GINT - Geotechnical Information System
 - TALREN - Terrain Analysis and Engineering Software
 - SoilVision Systems - Soil Mechanics and Geotechnical Modeling Software.
+- LPile - A special-purposeprogram based on rational procedures for analyzing a pile under lateral loading using the p-y method
+
 
 ## Transportation Engineering
 
@@ -121,6 +123,8 @@ This is a list of softwares and resource used in civil engineering practice.
 - SIDRA INTERSECTION - Intersection Capacity and Level of Service Analysis Software
 - PTV Vistro - Traffic Engineering and Analysis Software
 - TransCAD - GIS-based Transportation Planning and Modeling Software
+- [GuideSign](https://www.transoftsolutions.com/signage/guidesign/) - Powerful CAD Software for Designing Roadway and Highway Signs in Minutes
+- [AutoTurn](https://www.transoftsolutions.com/emea/vehicle-swept-path/software/autoturn/) - Analyze and Design Highway Infrastructure such as intersections, roundabouts, bus terminals, loading bays, parking lots or any on/off-street assignments involving vehicle access checks, clearances, vehicle tracking and swept path maneuvers.
 
 ## Calculations
 
@@ -161,6 +165,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - InfraWorks - Infrastructure design and engineering software
 - ArchiCAD - BIM software for architects
 - AutoCAD Map 3D - GIS and mapping software
+- FreeCAD - An OpenSource Multipurpose 3D modelling, drafting and engineering calculation software
 
 ## GIS
 

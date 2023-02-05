@@ -6,8 +6,11 @@ filename: contributing.md
 
 # Project Contributors
 
+## Reddit 
 
 * u/triangleman83
+* u/Rich_Carpenter8695
+* u/ruffroad715
 
 <style>
 mark{
