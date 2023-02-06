@@ -56,6 +56,8 @@ This is a list of softwares and resource used in civil engineering practice.
 
 - EPA SWMM - Urban drainage modeling software developed by the Environmental Protection Agency (EPA)
 - HEC-RAS - River hydraulic modeling software developed by the US Army Corps of Engineers (USACE)
+- [WaterGEMS](https://www.bentley.com/en/products/product-line/water-and-wastewater) - A hydraulic and water quality modeling software for water distribution systems.
+- [EPANET](https://www.epa.gov/water-research/epanet) - An open-source software tool for the analysis of water distribution systems.
 - TUFLOW - Hydrodynamic and hydraulic modeling software for floodplain management
 - HydroCAD - Stormwater management and hydraulic modeling software
 - XP-SWMM - Urban drainage modeling software
@@ -195,9 +197,7 @@ This is a list of softwares and resource used in civil engineering practice.
 
 
 - [Wastewater Collection System Modeling Software (CSSM)](https://www.innovyze.com/products/collection-system-modeling) - A software used for the analysis and design of wastewater collection systems.
-- [WaterGEMS](https://www.bentley.com/en/products/product-line/water-and-wastewater) - A hydraulic and water quality modeling software for water distribution systems.
 - [StormCAD](https://www.bentley.com/en/products/product-line/water-and-wastewater) - A software for the design and analysis of stormwater conveyance systems.
-- [EPANET](https://www.epa.gov/water-research/epanet) - An open-source software tool for the analysis of water distribution systems.
 - [PCSWMM](https://www.innovyze.com/products/pc-swmm) - A software for the analysis of urban runoff, combined sewer overflows, and sanitary sewer systems.
 - [Air dispersion modeling software](https://www.enviro.space/products/air-dispersion-modeling-software) - A software used to simulate the dispersion of air pollutants from point, area, and line sources.
 - [AQUATOX](https://www.epa.gov/water-research/aquatox) - a software for modeling the ecological effects of stressors, such as pollutants, on aquatic ecosystems.
