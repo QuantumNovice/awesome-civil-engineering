@@ -19,6 +19,7 @@ filename: contributing.md
 * u/redabhijit
 * u/StLHokie
 * u/carloselunicornio
+* u/WigglySpaghetti
 
 <style>
 mark{
