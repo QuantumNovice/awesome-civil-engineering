@@ -58,7 +58,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - HEC-RAS - River hydraulic modeling software developed by the US Army Corps of Engineers (USACE)
 - [WaterGEMS](https://www.bentley.com/en/products/product-line/water-and-wastewater) - A hydraulic and water quality modeling software for water distribution systems.
 - [EPANET](https://www.epa.gov/water-research/epanet) - An open-source software tool for the analysis of water distribution systems.
-- TUFLOW - Hydrodynamic and hydraulic modeling software for floodplain management
+- [TUFLOW](https://www.tuflow.com/) - Hydrodynamic and hydraulic modeling software for floodplain management
 - HydroCAD - Stormwater management and hydraulic modeling software
 - XP-SWMM - Urban drainage modeling software
 - HEC-HMS - Hydrologic modeling software developed by the US Army Corps of Engineers (USACE)
@@ -196,8 +196,8 @@ This is a list of softwares and resource used in civil engineering practice.
 - Geospatial Modelling Environment (GME) - GIS software for environmental and ecological modeling
 - Cesium - Open source platform for 3D geospatial mapping
 - [OpenCities Map](https://www.bentley.com/software/opencities-map/) 
-## Environmental Engineering
 
+## Environmental Engineering
 
 - [Wastewater Collection System Modeling Software (CSSM)](https://www.innovyze.com/products/collection-system-modeling) - A software used for the analysis and design of wastewater collection systems.
 - [StormCAD](https://www.bentley.com/en/products/product-line/water-and-wastewater) - A software for the design and analysis of stormwater conveyance systems.
