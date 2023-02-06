@@ -13,6 +13,7 @@ filename: contributing.md
 * u/ruffroad715
 * u/tonycocacola
 * u/zschwheel
+* u/the_flying_condor
 
 <style>
 mark{
