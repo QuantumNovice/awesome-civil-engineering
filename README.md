@@ -193,7 +193,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - GRASS GIS - Open source GIS software
 - Geospatial Modelling Environment (GME) - GIS software for environmental and ecological modeling
 - Cesium - Open source platform for 3D geospatial mapping
-
+- [OpenCities Map](https://www.bentley.com/software/opencities-map/) 
 ## Environmental Engineering
 
 
