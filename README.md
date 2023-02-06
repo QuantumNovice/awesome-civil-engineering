@@ -144,8 +144,6 @@ This is a list of softwares and resource used in civil engineering practice.
 - SageMath - Free and open-source mathematical software system
 - Maxima - Free and open-source computer algebra system
 - Scilab - Free and open-source numerical computing software
-- NumPy - Mathematical library for Python
-- SciPy - Scientific computing library for Python
 - Julia - High-level programming language for numerical and scientific computing.
 - [TEDDS](https://www.thestructuralengineer.info/software/tedds) - TEDDS is a productivity tool for day-to-day repetitive calculations which replaces hand written calculations.  
 
@@ -210,6 +208,8 @@ This is a list of softwares and resource used in civil engineering practice.
 
 ## Project Management
 - [AASHTO SiteManager](https://www.aashtowareproject.org/smr) - A comprehensive client/server based construction management tool for data entry, tracking, reporting, and analysis of contract data from contract award through finalization. 
+- [P6 Primavera](https://www.oracle.com/pk/industries/construction-engineering/primavera-p6/) - An enterprise project portfolio management software that can perform project management, scheduling, risk analysis, opportunity management, resource management, collaboration and control capabilities.
+
 - Procore - A cloud-based construction project management platform that offers a range of tools for project management, document management, and communication.
 - Microsoft Project - A project management software that provides tools for project scheduling, resource allocation, and budget management.
 - Asana - A cloud-based collaboration and project management tool that allows teams to track tasks, communicate, and share files in one central place.

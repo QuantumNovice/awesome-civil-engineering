@@ -25,6 +25,7 @@ filename: contributing.md
 * u/Large-At2022
 * u/alpaca-miles
 * u/appalachianengineer
+* u/wintercity00
 
 <style>
 mark{
