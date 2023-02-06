@@ -79,7 +79,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - RAM Structural System (Bentley Systems)
 - [STAAD.Pro V8i](https://www.bentley.com/en/products/product-line/structural-analysis-design/staadpro) - A comprehensive structural analysis and design software that offers a free trial period.
 - [RISA-3D](https://risa3d.com/) - A free 3D structural analysis software for building and bridge design.
-
+- [Dlubal RFEM](https://www.dlubal.com/en/products/rfem-fea-software/what-is-rfem) - A 3D finite element analysis software for structural analysis and design of membrane and tensile structures as well as for plant and mechanical engineering or dynamic analysis.
 
 ## Structural Simulation Software
 

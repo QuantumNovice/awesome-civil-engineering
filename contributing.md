@@ -17,6 +17,7 @@ filename: contributing.md
 * u/HWDstorm
 * u/h_david
 * u/redabhijit
+* u/StLHokie
 
 <style>
 mark{
