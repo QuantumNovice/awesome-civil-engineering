@@ -20,6 +20,8 @@ filename: contributing.md
 * u/StLHokie
 * u/carloselunicornio
 * u/WigglySpaghetti
+* u/ItsAlkron
+* u/frankyseven
 
 <style>
 mark{
