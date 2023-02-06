@@ -26,7 +26,7 @@ filename: contributing.md
 * u/alpaca-miles
 * u/appalachianengineer
 * u/wintercity00
-
+* u/teleportingpantaloon
 <style>
 mark{
     color:red;
