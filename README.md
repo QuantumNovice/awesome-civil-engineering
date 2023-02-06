@@ -162,6 +162,9 @@ This is a list of softwares and resource used in civil engineering practice.
 - ArchiCAD - BIM software for architects
 - AutoCAD Map 3D - GIS and mapping software.
 - [NanoCAD](https://nanocad.com/)
+- Openroads
+- Openrails
+- Openbuildings Designer
 
 ## 3D Modelling
 
