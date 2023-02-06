@@ -130,6 +130,7 @@ This is a list of softwares and resource used in civil engineering practice.
 ## Calculations
 - [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - A freeware, closed-source, mathematical notebook program for calculations.
 - [MathCAD](https://www.mathcad.com/en) - A program for the verification, validation, documentation and re-use of mathematical calculations in engineering.
+- [Blockpad](https://blockpad.net/) - A program where engineers can create dynamic calculation documents that work like a spreadsheet.
 - MATLAB - Numerical computing software developed by - - MathWorks
 - Octave - Free and open-source alternative to MATLAB
 - R - Programming language for statistical computing and data analysis
@@ -140,6 +141,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - NumPy - Mathematical library for Python
 - SciPy - Scientific computing library for Python
 - Julia - High-level programming language for numerical and scientific computing.
+- [TEDDS](https://www.thestructuralengineer.info/software/tedds) - TEDDS is a productivity tool for day-to-day repetitive calculations which replaces hand written calculations.  
 
 ## Drafting
 

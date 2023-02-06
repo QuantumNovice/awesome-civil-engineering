@@ -14,6 +14,7 @@ filename: contributing.md
 * u/tonycocacola
 * u/zschwheel
 * u/the_flying_condor
+* u/HWDstorm
 
 <style>
 mark{
