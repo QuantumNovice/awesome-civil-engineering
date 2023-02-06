@@ -179,6 +179,8 @@ This is a list of softwares and resource used in civil engineering practice.
 
 - ArcGIS - GIS software by Esri
 - QGIS - Open source GIS software
+- [SAGA](https://saga-gis.sourceforge.io/) - A GIS, used to edit and analyze spatial data
+- [GRASS](https://grass.osgeo.org/) - A GIS suite used for geospatial data management and analysis, image processing, producing graphics and maps, spatial and temporal modeling, and visualizing. 
 - AutoCAD Map 3D - GIS and mapping software
 - CityEngine - 3D urban design and modeling software
 - Global Mapper - GIS and remote sensing software
