@@ -209,7 +209,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - [SRH 2-D](https://www.usbr.gov/tsc/techreferences/computer%20software/models/srh2d/index.html) - A two dimensional Sedimentation and River Hydraulics solver
 
 ## Project Management
-- - [AASHTO SiteManager](https://www.aashtowareproject.org/smr) - A comprehensive client/server based construction management tool for data entry, tracking, reporting, and analysis of contract data from contract award through finalization. 
+- [AASHTO SiteManager](https://www.aashtowareproject.org/smr) - A comprehensive client/server based construction management tool for data entry, tracking, reporting, and analysis of contract data from contract award through finalization. 
 - Procore - A cloud-based construction project management platform that offers a range of tools for project management, document management, and communication.
 - Microsoft Project - A project management software that provides tools for project scheduling, resource allocation, and budget management.
 - Asana - A cloud-based collaboration and project management tool that allows teams to track tasks, communicate, and share files in one central place.
