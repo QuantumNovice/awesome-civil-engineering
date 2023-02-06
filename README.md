@@ -126,6 +126,8 @@ This is a list of softwares and resource used in civil engineering practice.
 - TransCAD - GIS-based Transportation Planning and Modeling Software
 - [GuideSign](https://www.transoftsolutions.com/signage/guidesign/) - Powerful CAD Software for Designing Roadway and Highway Signs in Minutes
 - [AutoTurn](https://www.transoftsolutions.com/emea/vehicle-swept-path/software/autoturn/) - Analyze and Design Highway Infrastructure such as intersections, roundabouts, bus terminals, loading bays, parking lots or any on/off-street assignments involving vehicle access checks, clearances, vehicle tracking and swept path maneuvers.
+- [OpenRoads](https://www.bentley.com/software/openroads-conceptstation/) - OpenRoads enables engineer to create conceptual road and bridge designs.
+- [MX Roads](https://communities.bentley.com/products/road___site_design/w/road_and_site_design__wiki/7147/steps-to-download-the-software-bentley-mx-v8i-from-select-server-tn) - An advanced, string-based modeling tool that enables rapid and accurate design of all road types
 
 ## Calculations
 - [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - A freeware, closed-source, mathematical notebook program for calculations.

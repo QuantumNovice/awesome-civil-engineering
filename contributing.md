@@ -16,6 +16,7 @@ filename: contributing.md
 * u/the_flying_condor
 * u/HWDstorm
 * u/h_david
+* u/redabhijit
 
 <style>
 mark{
