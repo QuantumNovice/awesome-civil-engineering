@@ -68,7 +68,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - i-Water Flow - Integrated water management software.
 - ICPR - A Hydraulic/Ground Water Modelling Software by Streamline Technologies
 - [InfoWater](https://www.autodesk.com/products/infowater-pro/overview) - A software to model water distribution systems in an easy-to-use GIS interface.
-
+- [CE-QUAL-W2](http://www.ce.pdx.edu/w2/) - A 2D water quality and hydrodynamic modelling  for rivers, estuaries, lakes, reservoirs and river basin systems.
 ## Structure Analysis and Design Software 
 
 - SAP2000 (Computer and Structures, Inc.)
