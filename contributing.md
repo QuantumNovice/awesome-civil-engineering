@@ -27,6 +27,7 @@ filename: contributing.md
 * u/appalachianengineer
 * u/wintercity00
 * u/teleportingpantaloon
+* u/SoftreeTech
 <style>
 mark{
     color:red;
