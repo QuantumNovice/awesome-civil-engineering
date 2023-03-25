@@ -138,6 +138,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - A freeware, closed-source, mathematical notebook program for calculations.
 - [MathCAD](https://www.mathcad.com/en) - A program for the verification, validation, documentation and re-use of mathematical calculations in engineering.
 - [Blockpad](https://blockpad.net/) - A program where engineers can create dynamic calculation documents that work like a spreadsheet.
+- [EngineeringPaper.xyz](https://engineeringpaper.xyz) - A free and open-source program for engineering calculations that runs in the browser.
 - MATLAB - Numerical computing software developed by - - MathWorks
 - Octave - Free and open-source alternative to MATLAB
 - R - Programming language for statistical computing and data analysis
