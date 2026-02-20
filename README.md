@@ -252,6 +252,9 @@ Here is a list of popular web-based civil engineering software:
 ### Structure Analysis
 - [SkyCiv Engineering](https://www.skyciv.com/structural-analysis-software/) - A cloud-based structural analysis software that provides a user-friendly interface for analyzing structures.
 
+### Concrete & Construction
+- [SlabCalc.co](https://slabcalc.co) - Free concrete calculator for slabs, driveways, patios, foundations, and more. Includes volume and cost estimation.
+
 
 ## Programming Libraries
 
