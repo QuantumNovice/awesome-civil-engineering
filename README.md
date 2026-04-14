@@ -209,6 +209,7 @@ This is a list of softwares and resource used in civil engineering practice.
 - [SRH 2-D](https://www.usbr.gov/tsc/techreferences/computer%20software/models/srh2d/index.html) - A two dimensional Sedimentation and River Hydraulics solver
 
 ## Project Management
+- [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction cost estimation and project management. BOQ, 4D/5D planning, CAD/BIM takeoff, AI estimation, 55,000+ cost items, 20 regional standards. AGPL-3.0.
 - [AASHTO SiteManager](https://www.aashtowareproject.org/smr) - A comprehensive client/server based construction management tool for data entry, tracking, reporting, and analysis of contract data from contract award through finalization. 
 - [P6 Primavera](https://www.oracle.com/pk/industries/construction-engineering/primavera-p6/) - An enterprise project portfolio management software that can perform project management, scheduling, risk analysis, opportunity management, resource management, collaboration and control capabilities.
 
