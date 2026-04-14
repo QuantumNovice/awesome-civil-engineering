@@ -6,6 +6,11 @@ filename: contributing.md
 
 # Project Contributors
 
+## Github
+- https://github.com/datadrivenconstruction
+- https://github.com/mgreminger
+- https://github.com/stoffis-git
+
 ## Reddit 
 
 * u/triangleman83
