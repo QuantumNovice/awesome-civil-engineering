@@ -1,409 +1,427 @@
-# 🙌Awesome Civil Engineering 🙌
+# Awesome Civil Engineering
 
 [List of Contributors](contributing.md) ||
 [Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering)
 
-
-
-
-
-This is a list of softwares and resource used in civil engineering practice.  
-
-
+Software, libraries, calculators, and resources used in civil engineering practice.
 
 ## Content
 
-* [Reporting & Documentation](#reporting-and-documentation)
-* [Water Resources](#water-resources-drainage)
-* [Structure Analysis and Design Software](#structure-analysis-and-design-software)
-* [Structural Simulation Software](#structural-simulation-software)
-* [GeoTechnical Engineering](#geotechnical-engineering)
-* [Transportation Engineering](#transportation-engineering)
-* [Environmental Engineering](#environmental-engineering)
-* [Calculations](#calculations)
-* [Web Calculators](#web-calculators)
-* [Drafting](#drafting)
-* [3D Modelling](#3d-modelling)
-* [GIS](#gis)
-* [Project Management](#project-management)
-* [Spreadsheet](#Spreadsheet)
-* [Programming Libraries](#programming-libraries)
-  * [Python](#python)
-  * [JavaScript](#javaScript)
-  * [Rust](#rust)
-  * [C#](#C#)
-* [Machine Learning](#machine-learning)
-
-
+- [Reporting and Documentation](#reporting-and-documentation)
+- [Water Resources and Drainage](#water-resources-and-drainage)
+- [Structural Analysis and Design Software](#structural-analysis-and-design-software)
+- [Structural Simulation Software](#structural-simulation-software)
+- [Geotechnical Engineering](#geotechnical-engineering)
+- [Transportation Engineering](#transportation-engineering)
+- [Environmental Engineering](#environmental-engineering)
+- [Digital Twins, BIM, and Construction Tech](#digital-twins-bim-and-construction-tech)
+- [Reality Capture and Surveying](#reality-capture-and-surveying)
+- [Calculations](#calculations)
+- [Web Calculators](#web-calculators)
+- [Drafting](#drafting)
+- [3D Modelling](#3d-modelling)
+- [GIS](#gis)
+- [Project Management](#project-management)
+- [Spreadsheet](#spreadsheet)
+- [Programming Libraries](#programming-libraries)
+  - [Python](#python)
+  - [JavaScript](#javascript)
+  - [Rust](#rust)
+  - [C#](#c)
+- [Machine Learning and AI](#machine-learning-and-ai)
 
 ## Reporting and Documentation
 
-- Microsoft Word
-- Latex
-- Phantom PDF
-- Autodesk Revit (Autodesk)
-- Bluebeam Revu (Bluebeam, Inc.)
-- Procore (Procore Technologies)
-- PlanGrid (Autodesk)
-- Newforma Project Center (Newforma, Inc.)
-- Microsoft Project (Microsoft Corporation)
-- Asana (Asana, Inc.)
-- Trello (Atlassian)
-- BIM 360 (Autodesk)
-- CoConstruct (CoConstruct, LLC)
+- [Microsoft Word](https://www.microsoft.com/microsoft-365/word) - Word processing and report production.
+- [LaTeX](https://www.latex-project.org/) - Typesetting system widely used for technical reports, standards, and academic papers.
+- [Foxit PDF Editor](https://www.foxit.com/pdf-editor/) - PDF editing software formerly associated with PhantomPDF.
+- [Autodesk Revit](https://www.autodesk.com/products/revit/overview) - BIM authoring for buildings and multidisciplinary coordination.
+- [Bluebeam Revu](https://www.bluebeam.com/revu/) - PDF markup, review, and construction document collaboration.
+- [Procore](https://www.procore.com/) - Construction project management, drawings, RFIs, submittals, and field workflows.
+- [PlanGrid](https://construction.autodesk.com/products/autodesk-build/) - Autodesk field collaboration workflow now part of Autodesk Build.
+- [Newforma Project Center](https://www.newforma.com/project-information-management/) - Project information management for AEC teams.
+- [Microsoft Project](https://www.microsoft.com/microsoft-365/project/project-management-software) - Project scheduling and portfolio management.
+- [Asana](https://asana.com/) - Team work management and task tracking.
+- [Trello](https://trello.com/) - Kanban-style task tracking by Atlassian.
+- [Autodesk BIM 360](https://www.autodesk.com/bim-360/) - Legacy Autodesk construction management platform, now within Autodesk Construction Cloud.
+- [CoConstruct](https://www.buildertrend.com/coconstruct/) - Residential construction management product now part of Buildertrend.
+- [Autodesk Construction Cloud](https://construction.autodesk.com/) - Cloud platform for design collaboration, model coordination, build workflows, and operations handover.
+- [Trimble Connect](https://connect.trimble.com/) - Common data environment for BIM and construction collaboration.
 
-## Water Resources-Drainage
+## Water Resources and Drainage
 
-- EPA SWMM - Urban drainage modeling software developed by the Environmental Protection Agency (EPA)
-- HEC-RAS - River hydraulic modeling software developed by the US Army Corps of Engineers (USACE)
-- [WaterGEMS](https://www.bentley.com/en/products/product-line/water-and-wastewater) - A hydraulic and water quality modeling software for water distribution systems.
-- [EPANET](https://www.epa.gov/water-research/epanet) - An open-source software tool for the analysis of water distribution systems.
-- [TUFLOW](https://www.tuflow.com/) - Hydrodynamic and hydraulic modeling software for floodplain management
-- HydroCAD - Stormwater management and hydraulic modeling software
-- XP-SWMM - Urban drainage modeling software
-- HEC-HMS - Hydrologic modeling software developed by the US Army Corps of Engineers (USACE)
-- MIKE FLOOD - Flood modeling software developed by DHI
-- Infoworks ICM - Integrated water management software
-- PCSWMM - Stormwater management software
-- i-Water Flow - Integrated water management software.
-- ICPR - A Hydraulic/Ground Water Modelling Software by Streamline Technologies
-- [InfoWater](https://www.autodesk.com/products/infowater-pro/overview) - A software to model water distribution systems in an easy-to-use GIS interface.
-- [CE-QUAL-W2](http://www.ce.pdx.edu/w2/) - A 2D water quality and hydrodynamic modelling  for rivers, estuaries, lakes, reservoirs and river basin systems.
-## Structure Analysis and Design Software 
+- [EPA SWMM](https://www.epa.gov/water-research/storm-water-management-model-swmm) - Urban drainage modeling software developed by the Environmental Protection Agency.
+- [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/) - River hydraulic modeling software developed by the US Army Corps of Engineers.
+- [WaterGEMS](https://www.bentley.com/software/openflows-watergems/) - Hydraulic and water quality modeling software for water distribution systems.
+- [EPANET](https://www.epa.gov/water-research/epanet) - Open-source software for analysis of water distribution systems.
+- [TUFLOW](https://www.tuflow.com/) - Hydrodynamic and hydraulic modeling software for floodplain management.
+- [HydroCAD](https://www.hydrocad.net/) - Stormwater management and hydraulic modeling software.
+- [XP-SWMM](https://www.autodesk.com/products/xpswmm/overview) - Urban drainage and stormwater modeling software.
+- [HEC-HMS](https://www.hec.usace.army.mil/software/hec-hms/) - Hydrologic modeling software developed by the US Army Corps of Engineers.
+- [MIKE FLOOD](https://www.dhigroup.com/technologies/mikepoweredbydhi) - Flood modeling software by DHI.
+- [InfoWorks ICM](https://www.autodesk.com/products/infoworks-icm/overview) - Integrated catchment modeling for drainage, sewer, and flood networks.
+- [PCSWMM](https://www.pcswmm.com/) - Stormwater, wastewater, and watershed modeling software.
+- [i-Water Flow](https://i-water.org/) - Integrated water management software.
+- [ICPR](https://streamnologies.com/icpr/) - Hydraulic and groundwater modeling software by Streamline Technologies.
+- [InfoWater Pro](https://www.autodesk.com/products/infowater-pro/overview) - Water distribution modeling in an ArcGIS-based interface.
+- [CE-QUAL-W2](http://www.ce.pdx.edu/w2/) - 2D water quality and hydrodynamic modeling for rivers, estuaries, lakes, reservoirs, and river basin systems.
+- [OpenFlows SewerGEMS](https://www.bentley.com/software/openflows-sewergems/) - Sanitary and combined sewer modeling.
+- [OpenFlows Flood](https://www.bentley.com/software/openflows-flood/) - Flood modeling for coastal, riverine, and urban systems.
+- [Flood Modeller](https://www.floodmodeller.com/) - 1D/2D hydraulic modeling for rivers, floodplains, and drainage.
 
-- SAP2000 (Computer and Structures, Inc.)
-- ETABS (Computers and Structures, Inc.)
-- Tekla Structural Designer 2020
-- Autodesk Robot Structure Analysis
-- Prokon (PROKON Structural Analysis and Design)
-- TEKLA Structures (Trimble Solutions)
-- Midas Civil (Midas Information Technology)
-- SCIA Engineer (SCIA)
-- RAM Structural System (Bentley Systems)
-- [STAAD.Pro V8i](https://www.bentley.com/en/products/product-line/structural-analysis-design/staadpro) - A comprehensive structural analysis and design software that offers a free trial period.
-- [RISA-3D](https://risa3d.com/) - A free 3D structural analysis software for building and bridge design.
-- [Dlubal RFEM](https://www.dlubal.com/en/products/rfem-fea-software/what-is-rfem) - A 3D finite element analysis software for structural analysis and design of membrane and tensile structures as well as for plant and mechanical engineering or dynamic analysis.
-- [SpaceGASS](https://spacegass.com/) - Amulti-purpose 3D analysis and design program for structural engineers for analysis of beams, trusses and frames to buildings, towers, tanks, cable structures and bridges. 
+## Structural Analysis and Design Software
+
+- [SAP2000](https://www.csiamerica.com/products/sap2000) - General-purpose structural analysis and design by Computers and Structures, Inc.
+- [ETABS](https://www.csiamerica.com/products/etabs) - Building analysis and design by Computers and Structures, Inc.
+- [Tekla Structural Designer](https://www.tekla.com/products/tekla-structural-designer) - Structural analysis and design for buildings.
+- [Autodesk Robot Structural Analysis Professional](https://www.autodesk.com/products/robot-structural-analysis/overview) - Structural analysis and simulation software.
+- [PROKON](https://www.prokon.com/) - Structural analysis and design suite.
+- [Tekla Structures](https://www.tekla.com/products/tekla-structures) - Constructible BIM for steel and concrete detailing.
+- [midas Civil](https://www.midasoft.com/bridge-library/civil) - Bridge and civil structural analysis software.
+- [SCIA Engineer](https://www.scia.net/en/products/scia-engineer) - Structural analysis and design software.
+- [RAM Structural System](https://www.bentley.com/software/ram-structural-system/) - Building analysis and design by Bentley Systems.
+- [STAAD.Pro](https://www.bentley.com/software/staad/) - Structural analysis and design software.
+- [RISA-3D](https://risa.com/risa-3d/) - 3D structural analysis software for buildings and bridges.
+- [Dlubal RFEM](https://www.dlubal.com/en/products/rfem-fea-software/what-is-rfem) - 3D finite element analysis software for structural analysis and design.
+- [SpaceGASS](https://spacegass.com/) - 3D analysis and design for beams, trusses, frames, buildings, towers, tanks, cable structures, and bridges.
+- [SkyCiv Structural 3D](https://skyciv.com/structural-analysis-software/) - Cloud structural analysis and design software.
+- [SOFiSTiK](https://www.sofistik.com/) - Analysis, design, and BIM-integrated workflows for buildings, bridges, and infrastructure.
+- [IDEA StatiCa](https://www.ideastatica.com/) - Steel, concrete, and connection design and code checking.
+- [StruSoft FEM-Design](https://strusoft.com/software/fem-design/) - 3D finite element structural analysis and design.
 
 ## Structural Simulation Software
 
-- ANSYS - Multi-physics simulation software
-- ABAQUS - Finite Element Analysis (FEA) software
-- Autodesk Robot Structural Analysis Professional
-- LS-DYNA - Dynamic and non-linear simulation software
-- ETABS - Building analysis and design software
-- SAP2000 - Structural analysis and design software
-- MIDAS - Structural analysis and design software
-- [SCIA Engineer](https://www.scia.net/en/products/scia-engineer) - A versatile structural analysis software for design and engineering of all types of structures. It offers a free demo version.- Prokon - Structural analysis and design software
-- RAM Structural System - Building analysis and design software.
-- [ArchCalc](http://www.archcalc.com/) - A free, easy-to-use, online structural analysis calculator for architects, engineers, and construction professionals.
+- [Ansys](https://www.ansys.com/) - Multiphysics simulation software.
+- [Abaqus](https://www.3ds.com/products/simulia/abaqus) - Finite element analysis software.
+- [Autodesk Robot Structural Analysis Professional](https://www.autodesk.com/products/robot-structural-analysis/overview) - Structural analysis and simulation software.
+- [LS-DYNA](https://www.ansys.com/products/structures/ansys-ls-dyna) - Dynamic and nonlinear simulation software.
+- [ETABS](https://www.csiamerica.com/products/etabs) - Building analysis and design software.
+- [SAP2000](https://www.csiamerica.com/products/sap2000) - Structural analysis and design software.
+- [midas](https://www.midasoft.com/) - Structural analysis and design software.
+- [SCIA Engineer](https://www.scia.net/en/products/scia-engineer) - Structural analysis software for design and engineering of many structure types.
+- [PROKON](https://www.prokon.com/) - Structural analysis and design software.
+- [RAM Structural System](https://www.bentley.com/software/ram-structural-system/) - Building analysis and design software.
+- [ArchCalc](http://www.archcalc.com/) - Online structural analysis calculator for architects, engineers, and construction professionals.
+- [OpenSees](https://opensees.berkeley.edu/) - Open-source framework for nonlinear structural and geotechnical simulation.
 
-## GeoTechnical Engineering
+## Geotechnical Engineering
 
-- LPile - A special-purposeprogram based on rational procedures for analyzing a pile under lateral loading using the p-y method
-- PLAXIS - Finite Element Analysis Software
-- FLAC - Fast Lagrangian Analysis of Continua
-- SLOPE/W - Slope Stability Analysis Software
-- FLOW-3D - 3D Hydro-Geological Modeling Software
-- SEEP/W - Seepage and Steady-State Flow Analysis  Software
-- SIGMA/W - Stress-Deformation Analysis Software
-- GeoStudio - Geotechnical Modeling Software
-- GINT - Geotechnical Information System
-- TALREN - Terrain Analysis and Engineering Software
-- SoilVision Systems - Soil Mechanics and Geotechnical Modeling Software.
-- [UDEC](https://www.itascacg.com/software/new-in-udec-7-0) - A Discrete Element Method program that is often used by to model rock and for detailed analysis of Unreinforced Masonry.
-- [Carlson Geotech](https://www.carlsones.com/product/carlson-geotech/)  
-
-
+- [LPile](https://www.ensoftinc.com/products/lpile/) - Program for analyzing laterally loaded piles using p-y methods.
+- [PLAXIS](https://www.bentley.com/software/plaxis/) - Geotechnical finite element analysis software.
+- [FLAC](https://www.itascacg.com/software/flac2d) - Fast Lagrangian Analysis of Continua.
+- [SLOPE/W](https://www.geoslope.com/products/slope-w) - Slope stability analysis software.
+- [FLOW-3D](https://www.flow3d.com/) - CFD software used for hydraulic and hydro-geological modeling.
+- [SEEP/W](https://www.geoslope.com/products/seep-w) - Seepage and groundwater flow analysis software.
+- [SIGMA/W](https://www.geoslope.com/products/sigma-w) - Stress-deformation analysis software.
+- [GeoStudio](https://www.geoslope.com/products/geostudio) - Geotechnical modeling suite.
+- [gINT](https://www.bentley.com/software/gint/) - Geotechnical information management software.
+- [TALREN](https://www.terrasol.com/software/talren-v6/) - Slope stability and retaining structure analysis software.
+- [SoilVision Systems](https://soilvision.com/) - Soil mechanics and geotechnical modeling software.
+- [UDEC](https://www.itascacg.com/software/new-in-udec-7-0) - Discrete Element Method program used for rock mechanics and unreinforced masonry analysis.
+- [Carlson Geotech](https://www.carlsones.com/product/carlson-geotech/) - Borehole, strata, and geotechnical CAD workflows.
+- [Settle3](https://www.rocscience.com/software/settle3) - 3D settlement and consolidation analysis.
+- [RS2](https://www.rocscience.com/software/rs2) - 2D finite element analysis for excavation, slope, and support systems.
+- [RS3](https://www.rocscience.com/software/rs3) - 3D finite element analysis for geotechnical engineering.
 
 ## Transportation Engineering
-- Synchro - Traffic Signal Timing and Analysis Software
-- VISSIM - Microscopic Traffic Simulation Software
-- AIMSUN - Microscopic and Mesoscopic Traffic Simulation Software
-- TransModeler - Traffic Simulation Software
-- Paramics - Microscopic Traffic Simulation Software
-- HCS - Highway Capacity Software
-- CORSIM - Traffic Simulation Software
-- SIDRA INTERSECTION - Intersection Capacity and Level of Service Analysis Software
-- PTV Vistro - Traffic Engineering and Analysis Software
-- TransCAD - GIS-based Transportation Planning and Modeling Software
-- [GuideSign](https://www.transoftsolutions.com/signage/guidesign/) - Powerful CAD Software for Designing Roadway and Highway Signs in Minutes
-- [AutoTurn](https://www.transoftsolutions.com/emea/vehicle-swept-path/software/autoturn/) - Analyze and Design Highway Infrastructure such as intersections, roundabouts, bus terminals, loading bays, parking lots or any on/off-street assignments involving vehicle access checks, clearances, vehicle tracking and swept path maneuvers.
-- [OpenRoads](https://www.bentley.com/software/openroads-conceptstation/) - OpenRoads enables engineer to create conceptual road and bridge designs.
-- [MX Roads](https://communities.bentley.com/products/road___site_design/w/road_and_site_design__wiki/7147/steps-to-download-the-software-bentley-mx-v8i-from-select-server-tn) - An advanced, string-based modeling tool that enables rapid and accurate design of all road types
-- [Carlson Civil](https://www.carlsones.com/product/carlson-civil/) - A complete CAD-based, design software for highways and a wide variety of land development projects.
-- [RoadEng Civil Engineer](www.softree.com) -  A geometric road and site design software for design of rural roads and highways, access roads, pipelines, streams, bridge site design, culvert replacements and earthwork calculations. 
 
-## Calculations
-- [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - A freeware, closed-source, mathematical notebook program for calculations.
-- [MathCAD](https://www.mathcad.com/en) - A program for the verification, validation, documentation and re-use of mathematical calculations in engineering.
-- [Blockpad](https://blockpad.net/) - A program where engineers can create dynamic calculation documents that work like a spreadsheet.
-- [EngineeringPaper.xyz](https://engineeringpaper.xyz) - A free and open-source program for engineering calculations that runs in the browser.
-- MATLAB - Numerical computing software developed by - - MathWorks
-- Octave - Free and open-source alternative to MATLAB
-- R - Programming language for statistical computing and data analysis
-- Mathematica - Technical computing software developed by Wolfram Research
-- SageMath - Free and open-source mathematical software system
-- Maxima - Free and open-source computer algebra system
-- Scilab - Free and open-source numerical computing software
-- Julia - High-level programming language for numerical and scientific computing.
-- [TEDDS](https://www.thestructuralengineer.info/software/tedds) - TEDDS is a productivity tool for day-to-day repetitive calculations which replaces hand written calculations.  
-
-## Drafting
-
-- AutoCAD - Computer-Aided Design (CAD) software
-- MicroStation - CAD software for architecture, engineering, and construction (AEC)
-- Revit - Building Information Modeling (BIM) software
-- BricsCAD - CAD software for AEC
-- SketchUp - 3D modeling software
-- Civil 3D - Civil engineering design and documentation software
-- InfraWorks - Infrastructure design and engineering software
-- AutoCAD Architecture - CAD software for architectural design
-- ArchiCAD - BIM software for architects
-- AutoCAD Map 3D - GIS and mapping software.
-- [NanoCAD](https://nanocad.com/)
-- Openroads
-- Openrails
-- Openbuildings Designer
-
-## 3D Modelling
-
-
-- AutoCAD - Computer-Aided Design (CAD) software
-- Revit - Building Information Modeling (BIM) software
-- 3ds Max - 3D modeling, animation, and rendering software
-- SketchUp - 3D modeling software
-- Blender - Open source 3D creation software
-- Rhino - 3D modeling software for architectural and product design
-- Civil 3D - Civil engineering design and documentation software
-- InfraWorks - Infrastructure design and engineering software
-- ArchiCAD - BIM software for architects
-- AutoCAD Map 3D - GIS and mapping software
-- FreeCAD - An OpenSource Multipurpose 3D modelling, drafting and engineering calculation software
-- [BricsCAD](https://www.bricsys.com/en-eu)
-
-## GIS
-
-- ArcGIS - GIS software by Esri
-- QGIS - Open source GIS software
-- [SAGA](https://saga-gis.sourceforge.io/) - A GIS, used to edit and analyze spatial data
-- [GRASS](https://grass.osgeo.org/) - A GIS suite used for geospatial data management and analysis, image processing, producing graphics and maps, spatial and temporal modeling, and visualizing. 
-- AutoCAD Map 3D - GIS and mapping software
-- CityEngine - 3D urban design and modeling software
-- Global Mapper - GIS and remote sensing software
-- GeoServer - Open source server for sharing geospatial data
-- ENVI - Remote sensing and image analysis software
-- GRASS GIS - Open source GIS software
-- Geospatial Modelling Environment (GME) - GIS software for environmental and ecological modeling
-- Cesium - Open source platform for 3D geospatial mapping
-- [OpenCities Map](https://www.bentley.com/software/opencities-map/) 
+- [Synchro](https://www.trafficware.com/synchro-studio/) - Traffic signal timing and analysis software.
+- [PTV Vissim](https://www.ptvgroup.com/en/products/ptv-vissim) - Microscopic multimodal traffic simulation software.
+- [Aimsun Next](https://www.aimsun.com/aimsun-next/) - Microscopic and mesoscopic traffic simulation software.
+- [TransModeler](https://www.caliper.com/transmodeler/) - Traffic simulation software.
+- [Paramics](https://www.paramics.co.uk/) - Microscopic traffic simulation software.
+- [Highway Capacity Software](https://mctrans.ce.ufl.edu/mct/index.php/hcs/) - Highway Capacity Manual analysis software.
+- [CORSIM](https://mctrans.ce.ufl.edu/mct/index.php/corsim/) - Traffic simulation software.
+- [SIDRA INTERSECTION](https://www.sidrasolutions.com/software/sidra-intersection) - Intersection capacity and level-of-service analysis software.
+- [PTV Vistro](https://www.ptvgroup.com/en/products/ptv-vistro) - Traffic engineering and analysis software.
+- [TransCAD](https://www.caliper.com/tcovu.htm) - GIS-based transportation planning and modeling software.
+- [GuideSign](https://www.transoftsolutions.com/signage/guidesign/) - CAD software for designing roadway and highway signs.
+- [AutoTurn](https://www.transoftsolutions.com/vehicle-swept-path/autoturn/) - Vehicle swept path analysis and turning simulation.
+- [OpenRoads Designer](https://www.bentley.com/software/openroads-designer/) - Roadway design, modeling, and documentation software.
+- [MX Roads](https://communities.bentley.com/products/road___site_design/w/road_and_site_design__wiki/7147/steps-to-download-the-software-bentley-mx-v8i-from-select-server-tn) - Legacy string-based road design tool.
+- [Carlson Civil](https://www.carlsones.com/product/carlson-civil/) - CAD-based design software for highways and land development.
+- [RoadEng Civil Engineer](https://www.softree.com/) - Geometric road and site design for rural roads, highways, access roads, pipelines, culverts, and earthwork.
+- [Eclipse SUMO](https://eclipse.dev/sumo/) - Open-source microscopic and multimodal traffic simulation.
+- [MATSim](https://www.matsim.org/) - Open-source agent-based transport simulation framework.
+- [OpenTripPlanner](https://www.opentripplanner.org/) - Open-source multimodal trip planning and network analysis.
+- [OSMnx](https://osmnx.readthedocs.io/) - Python package for downloading, modeling, analyzing, and visualizing street networks from OpenStreetMap.
 
 ## Environmental Engineering
 
-- [Wastewater Collection System Modeling Software (CSSM)](https://www.innovyze.com/products/collection-system-modeling) - A software used for the analysis and design of wastewater collection systems.
-- [StormCAD](https://www.bentley.com/en/products/product-line/water-and-wastewater) - A software for the design and analysis of stormwater conveyance systems.
-- [PCSWMM](https://www.innovyze.com/products/pc-swmm) - A software for the analysis of urban runoff, combined sewer overflows, and sanitary sewer systems.
-- [Air dispersion modeling software](https://www.enviro.space/products/air-dispersion-modeling-software) - A software used to simulate the dispersion of air pollutants from point, area, and line sources.
-- [AQUATOX](https://www.epa.gov/water-research/aquatox) - a software for modeling the ecological effects of stressors, such as pollutants, on aquatic ecosystems.
-- [SWMM5](https://www.epa.gov/water-research/storm-water-management-model-swmm) - a software for the design and analysis of stormwater management systems.
-- [SRH 2-D](https://www.usbr.gov/tsc/techreferences/computer%20software/models/srh2d/index.html) - A two dimensional Sedimentation and River Hydraulics solver
+- [Wastewater Collection System Modeling Software](https://www.autodesk.com/products/infoworks-icm/overview) - Collection system modeling, now commonly covered by Autodesk InfoWorks ICM.
+- [StormCAD](https://www.bentley.com/software/openflows-stormcad/) - Design and analysis of stormwater conveyance systems.
+- [PCSWMM](https://www.pcswmm.com/) - Urban runoff, combined sewer overflow, and sanitary sewer modeling.
+- [Enviro.Space Air Dispersion Modeling Software](https://www.enviro.space/products/air-dispersion-modeling-software) - Air pollutant dispersion modeling.
+- [AQUATOX](https://www.epa.gov/water-research/aquatox) - EPA model for ecological effects of pollutants and other stressors on aquatic ecosystems.
+- [SWMM5](https://www.epa.gov/water-research/storm-water-management-model-swmm) - Stormwater management model.
+- [SRH-2D](https://www.usbr.gov/tsc/techreferences/computer%20software/models/srh2d/index.html) - Two-dimensional Sedimentation and River Hydraulics solver.
+- [AERMOD](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models) - EPA-preferred steady-state plume model for air dispersion.
+- [OpenLCA](https://www.openlca.org/) - Open-source life cycle assessment software.
+- [SimaPro](https://simapro.com/) - Life cycle assessment software for sustainability and environmental product analysis.
+- [Sphera LCA for Experts](https://sphera.com/product-sustainability-software/lca-software/) - Life cycle assessment and product sustainability software.
 
-## Project Management
-- [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction cost estimation and project management. BOQ, 4D/5D planning, CAD/BIM takeoff, AI estimation, 55,000+ cost items, 20 regional standards. AGPL-3.0.
-- [AASHTO SiteManager](https://www.aashtowareproject.org/smr) - A comprehensive client/server based construction management tool for data entry, tracking, reporting, and analysis of contract data from contract award through finalization. 
-- [P6 Primavera](https://www.oracle.com/pk/industries/construction-engineering/primavera-p6/) - An enterprise project portfolio management software that can perform project management, scheduling, risk analysis, opportunity management, resource management, collaboration and control capabilities.
+## Digital Twins, BIM, and Construction Tech
 
-- Procore - A cloud-based construction project management platform that offers a range of tools for project management, document management, and communication.
-- Microsoft Project - A project management software that provides tools for project scheduling, resource allocation, and budget management.
-- Asana - A cloud-based collaboration and project management tool that allows teams to track tasks, communicate, and share files in one central place.
-- Trello - A visual project management tool that uses boards, lists, and cards to help teams organize and prioritize tasks.
-- Wrike - A cloud-based project management tool that offers real-time collaboration, task tracking, and customizable workflows.
-- Monday.com - A visual project management tool that helps teams track projects, allocate resources, and collaborate in real-time.
-- Basecamp - A project management and collaboration tool that provides a centralized place for teams to manage projects, store files, and communicate.
-Achievion - A construction project management software that offers tools for project planning, scheduling, budgeting, and collaboration.
-- Smartsheet - A cloud-based project management and collaboration tool that allows teams to manage projects, track tasks, and automate workflows.
-- Podio - A cloud-based project management tool that offers a range of tools for project management, communication, and file sharing.
-Here is a list of popular web-based civil engineering software:
-- [Autodesk BIM 360](https://www.autodesk.com/products/bim-360/overview) - A cloud-based project management platform for construction professionals.
-- [Procore](https://www.procore.com/) - A construction project management software with tools for scheduling, budgeting, and communication.
-- [Plangrid](https://www.plangrid.com/) - A construction project management platform that allows for collaboration and organization on a single platform.
-- [Buildertrend](https://www.buildertrend.com/) - A cloud-based construction management software that includes scheduling, budgeting, and communication tools.
-- [Bluebeam Revu](https://www.bluebeam.com/revu) - A software for document management and collaboration in the construction industry.
-- [PlanGrid](https://www.plangrid.com/) - A cloud-based construction project management platform that provides collaboration and organization on a single platform.
-- [Fieldwire](https://www.fieldwire.com/) - A construction project management software that allows for collaboration on tasks, plans, and punch lists.
-- [CoConstruct](https://www.coconstruct.com/) - A cloud-based construction project management software with tools for scheduling, budgeting, and communication.
+- [Bentley iTwin Platform](https://www.bentley.com/software/itwin-platform/) - Infrastructure digital twin platform for engineering data, visualization, analytics, and operations.
+- [Autodesk Forma](https://www.autodesk.com/products/forma/overview) - Cloud-based early-stage planning and design analysis for AEC.
+- [Autodesk Tandem](https://intandem.autodesk.com/) - Digital twin platform for facility handover and operations.
+- [Esri ArcGIS GeoBIM](https://www.esri.com/en-us/arcgis/products/arcgis-geobim/overview) - Connects GIS and BIM data for project and asset context.
+- [Speckle](https://speckle.systems/) - Open-source data platform for AEC interoperability and automation.
+- [Bonsai](https://bonsaibim.org/) - Open-source BIM authoring built around IFC workflows.
+- [IfcOpenShell](https://ifcopenshell.org/) - Open-source IFC toolkit for BIM automation and interoperability.
+- [BlenderBIM Add-on](https://blenderbim.org/) - Open-source BIM authoring add-on for Blender, now part of the Bonsai ecosystem.
+- [Solibri](https://www.solibri.com/) - Model checking, coordination, and information takeoff for BIM.
+- [Navisworks](https://www.autodesk.com/products/navisworks/overview) - Model coordination, clash detection, and 4D review.
+- [Revizto](https://revizto.com/) - BIM coordination, issue tracking, and model-based collaboration.
+- [OpenSpace](https://www.openspace.ai/) - 360-degree construction capture and AI-powered field documentation.
+- [Buildots](https://buildots.com/) - AI-based construction progress tracking using site imagery and BIM.
+- [DroneDeploy](https://www.dronedeploy.com/) - Reality capture, drone mapping, and site documentation.
 
+## Reality Capture and Surveying
 
-## Spreadsheet
+- [Leica Cyclone 3DR](https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone/leica-cyclone-3dr) - Point cloud processing, mesh creation, and deliverables for laser scanning.
+- [Leica Infinity](https://leica-geosystems.com/products/gnss-systems/software/leica-infinity) - Survey data processing software.
+- [Trimble Business Center](https://geospatial.trimble.com/products-and-solutions/trimble-business-center) - Survey CAD, GNSS, scanning, photogrammetry, and construction data workflows.
+- [Autodesk ReCap Pro](https://www.autodesk.com/products/recap/overview) - Reality capture and point cloud processing.
+- [RealityCapture](https://www.capturingreality.com/) - Photogrammetry software for 3D reconstruction.
+- [Agisoft Metashape](https://www.agisoft.com/) - Photogrammetry software for processing imagery into point clouds, meshes, and orthomosaics.
+- [Pix4Dmapper](https://www.pix4d.com/product/pix4dmapper-photogrammetry-software/) - Photogrammetry and drone mapping software.
+- [CloudCompare](https://www.cloudcompare.org/) - Open-source point cloud and mesh processing software.
+- [Potree](https://potree.org/) - Web-based point cloud renderer.
 
-- Microsoft Excel - Spreadsheet software developed by Microsoft
-- Google Sheets - Online spreadsheet software developed by Google
-- LibreOffice Calc - Free and open-source spreadsheet software
-- Apple Numbers - Spreadsheet software developed by Apple
-- WPS Spreadsheets - Free and open-source spreadsheet software
-- Airtable - Online spreadsheet software with a database-like interface
-- Smartsheet - Online spreadsheet software for project management
-- Zoho Sheet - Online spreadsheet software
-- Asana Tables - Online spreadsheet software for team collaboration
-- Quip Spreadsheets - Online spreadsheet software for team collaboration.
+## Calculations
 
+- [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - Free mathematical notebook program for engineering calculations.
+- [Mathcad](https://www.mathcad.com/en) - Engineering calculation worksheet software.
+- [Blockpad](https://blockpad.net/) - Dynamic calculation documents that work like a spreadsheet.
+- [EngineeringPaper.xyz](https://engineeringpaper.xyz) - Free and open-source browser-based engineering calculations.
+- [MATLAB](https://www.mathworks.com/products/matlab.html) - Numerical computing software by MathWorks.
+- [GNU Octave](https://octave.org/) - Free and open-source alternative to MATLAB.
+- [R](https://www.r-project.org/) - Programming language for statistical computing and data analysis.
+- [Wolfram Mathematica](https://www.wolfram.com/mathematica/) - Technical computing software.
+- [SageMath](https://www.sagemath.org/) - Free and open-source mathematical software system.
+- [Maxima](https://maxima.sourceforge.io/) - Free and open-source computer algebra system.
+- [Scilab](https://www.scilab.org/) - Free and open-source numerical computing software.
+- [Julia](https://julialang.org/) - High-level programming language for numerical and scientific computing.
+- [TEDDS](https://www.tekla.com/products/tekla-tedds) - Productivity tool for repetitive structural calculations.
 
 ## Web Calculators
 
 ### Structure Analysis
-- [SkyCiv Engineering](https://www.skyciv.com/structural-analysis-software/) - A cloud-based structural analysis software that provides a user-friendly interface for analyzing structures.
 
-### Concrete & Construction
-- [SlabCalc.co](https://slabcalc.co) - Free concrete calculator for slabs, driveways, patios, foundations, and more. Includes volume and cost estimation.
+- [SkyCiv Engineering](https://www.skyciv.com/structural-analysis-software/) - Cloud-based structural analysis software.
 
+### Concrete and Construction
+
+- [SlabCalc.co](https://slabcalc.co) - Concrete calculator for slabs, driveways, patios, foundations, volume, and cost estimation.
+
+## Drafting
+
+- [AutoCAD](https://www.autodesk.com/products/autocad/overview) - CAD software.
+- [MicroStation](https://www.bentley.com/software/microstation/) - CAD software for architecture, engineering, and construction.
+- [Revit](https://www.autodesk.com/products/revit/overview) - BIM software.
+- [BricsCAD](https://www.bricsys.com/bricscad/) - CAD software for AEC.
+- [SketchUp](https://www.sketchup.com/) - 3D modeling software.
+- [Civil 3D](https://www.autodesk.com/products/civil-3d/overview) - Civil engineering design and documentation software.
+- [InfraWorks](https://www.autodesk.com/products/infraworks/overview) - Infrastructure design and engineering software.
+- [AutoCAD Architecture](https://www.autodesk.com/products/autocad/included-toolsets/autocad-architecture) - CAD software for architectural design.
+- [ArchiCAD](https://graphisoft.com/solutions/archicad) - BIM software for architects.
+- [AutoCAD Map 3D](https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d) - GIS and mapping software.
+- [nanoCAD](https://nanocad.com/) - CAD platform.
+- [OpenRoads Designer](https://www.bentley.com/software/openroads-designer/) - Civil roadway design software.
+- [OpenRail Designer](https://www.bentley.com/software/openrail-designer/) - Rail design software.
+- [OpenBuildings Designer](https://www.bentley.com/software/openbuildings-designer/) - BIM software for building design and documentation.
+
+## 3D Modelling
+
+- [AutoCAD](https://www.autodesk.com/products/autocad/overview) - CAD software.
+- [Revit](https://www.autodesk.com/products/revit/overview) - BIM software.
+- [3ds Max](https://www.autodesk.com/products/3ds-max/overview) - 3D modeling, animation, and rendering software.
+- [SketchUp](https://www.sketchup.com/) - 3D modeling software.
+- [Blender](https://www.blender.org/) - Open-source 3D creation software.
+- [Rhino](https://www.rhino3d.com/) - 3D modeling software for architecture, engineering, and product design.
+- [Civil 3D](https://www.autodesk.com/products/civil-3d/overview) - Civil engineering design and documentation software.
+- [InfraWorks](https://www.autodesk.com/products/infraworks/overview) - Infrastructure design and engineering software.
+- [ArchiCAD](https://graphisoft.com/solutions/archicad) - BIM software for architects.
+- [AutoCAD Map 3D](https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d) - GIS and mapping software.
+- [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D modeler for drafting, modeling, and engineering workflows.
+- [BricsCAD](https://www.bricsys.com/bricscad/) - CAD and BIM platform.
+- [Rhino.Inside.Revit](https://www.rhino3d.com/inside/revit/) - Rhino and Grasshopper inside Revit.
+- [Grasshopper](https://www.grasshopper3d.com/) - Visual programming environment for Rhino.
+
+## GIS
+
+- [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - GIS software by Esri.
+- [QGIS](https://qgis.org/) - Open-source GIS software.
+- [SAGA](https://saga-gis.sourceforge.io/) - GIS for editing and analyzing spatial data.
+- [GRASS GIS](https://grass.osgeo.org/) - GIS suite for geospatial data management, analysis, modeling, and visualization.
+- [AutoCAD Map 3D](https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d) - GIS and mapping software.
+- [ArcGIS CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - 3D urban design and modeling software.
+- [Global Mapper](https://www.bluemarblegeo.com/global-mapper/) - GIS and remote sensing software.
+- [GeoServer](https://geoserver.org/) - Open-source server for sharing geospatial data.
+- [ENVI](https://www.nv5geospatialsoftware.com/Products/ENVI) - Remote sensing and image analysis software.
+- [Geospatial Modelling Environment](https://www.spatialecology.com/gme/) - GIS software for environmental and ecological modeling.
+- [Cesium](https://cesium.com/) - Platform for 3D geospatial visualization.
+- [OpenCities Map](https://www.bentley.com/software/opencities-map/) - Bentley geospatial mapping and infrastructure GIS.
+- [PostGIS](https://postgis.net/) - Spatial database extender for PostgreSQL.
+- [Mapbox](https://www.mapbox.com/) - Maps, geocoding, routing, and location APIs.
+- [Google Earth Engine](https://earthengine.google.com/) - Planetary-scale geospatial analysis platform.
+- [Kepler.gl](https://kepler.gl/) - Open-source geospatial analysis and visualization tool.
+
+## Project Management
+
+- [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+- [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
+- [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
+- [Procore](https://www.procore.com/) - Cloud-based construction project management.
+- [Microsoft Project](https://www.microsoft.com/microsoft-365/project/project-management-software) - Project scheduling, resource allocation, and budget management.
+- [Asana](https://asana.com/) - Cloud-based collaboration and work management.
+- [Trello](https://trello.com/) - Visual project management using boards, lists, and cards.
+- [Wrike](https://www.wrike.com/) - Cloud project management with task tracking and workflows.
+- [monday.com](https://monday.com/) - Work management and project tracking platform.
+- [Basecamp](https://basecamp.com/) - Project management and collaboration.
+- [Achievion](https://achievion.com/) - Construction project management and software development services.
+- [Smartsheet](https://www.smartsheet.com/) - Work management, collaboration, and automation.
+- [Podio](https://www.podio.com/) - Work management and collaboration platform.
+- [Autodesk Build](https://construction.autodesk.com/products/autodesk-build/) - Construction management platform within Autodesk Construction Cloud.
+- [Buildertrend](https://www.buildertrend.com/) - Residential construction management software.
+- [Bluebeam Revu](https://www.bluebeam.com/revu/) - Document management, markup, and collaboration.
+- [Fieldwire](https://www.fieldwire.com/) - Construction task, plan, punch list, and field coordination software.
+- [PlanGrid](https://construction.autodesk.com/products/autodesk-build/) - Field collaboration product now part of Autodesk Build.
+
+## Spreadsheet
+
+- [Microsoft Excel](https://www.microsoft.com/microsoft-365/excel) - Spreadsheet software by Microsoft.
+- [Google Sheets](https://www.google.com/sheets/about/) - Online spreadsheet software by Google.
+- [LibreOffice Calc](https://www.libreoffice.org/discover/calc/) - Free and open-source spreadsheet software.
+- [Apple Numbers](https://www.apple.com/numbers/) - Spreadsheet software by Apple.
+- [WPS Spreadsheets](https://www.wps.com/office/spreadsheets/) - Spreadsheet software by WPS Office.
+- [Airtable](https://www.airtable.com/) - Database-style spreadsheet and app platform.
+- [Smartsheet](https://www.smartsheet.com/) - Online work management spreadsheet platform.
+- [Zoho Sheet](https://www.zoho.com/sheet/) - Online spreadsheet software.
+- [Asana Tables](https://asana.com/) - Table views and project tracking inside Asana.
+- [Quip Spreadsheets](https://quip.com/) - Collaborative spreadsheets inside Salesforce Quip.
 
 ## Programming Libraries
 
+### Python
 
-### Python 
-* PyFEM - Finite Element Modellingg
-* Pandas - Spreadsheet
-* NumPy - Vector Operations and Matrix Manipulation
-* SciPy - Scientific Python
-* SfePy - Finite Element Software
-* OpenSees - Structural Analysis Software
-* NumPy - Numerical computing library
-* SciPy - Scientific computing library
-* Pandas - Data analysis and manipulation library
-* Matplotlib - Plotting library
-* Seaborn - Data visualization library
-* Shapely - Library for manipulating and analyzing planar geometric objects
-* Fiona - Library for reading and writing geospatial data
-* PySAL - Library for spatial analysis
-* GeoPandas - Library for geospatial data analysis
-* Rasterio - Library for reading and writing raster datasets
+- [PyFEM](https://github.com/jjcremmers/PyFEM) - Finite element modeling.
+- [pandas](https://pandas.pydata.org/) - Data analysis and spreadsheet-like workflows.
+- [NumPy](https://numpy.org/) - Numerical arrays, vector operations, and matrix manipulation.
+- [SciPy](https://scipy.org/) - Scientific computing.
+- [SfePy](https://sfepy.org/) - Finite element software in Python.
+- [OpenSeesPy](https://openseespydoc.readthedocs.io/) - Python interface for OpenSees structural and geotechnical analysis.
+- [Matplotlib](https://matplotlib.org/) - Plotting library.
+- [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
+- [Shapely](https://shapely.readthedocs.io/) - Manipulation and analysis of planar geometric objects.
+- [Fiona](https://fiona.readthedocs.io/) - Reading and writing geospatial vector data.
+- [PySAL](https://pysal.org/) - Spatial analysis.
+- [GeoPandas](https://geopandas.org/) - Geospatial data analysis.
+- [Rasterio](https://rasterio.readthedocs.io/) - Reading and writing raster datasets.
+- [xarray](https://docs.xarray.dev/) - Labeled multidimensional arrays, useful for climate, hydrology, and raster workflows.
+- [rioxarray](https://corteva.github.io/rioxarray/stable/) - Rasterio integration for xarray.
+- [PyVista](https://pyvista.org/) - 3D plotting and mesh analysis.
+- [COMPAS](https://compas.dev/) - Computational framework for architecture, engineering, and digital fabrication.
+- [TopologicPy](https://topologic.app/) - Spatial modeling and topology tools for architecture, engineering, and construction.
 
 ### JavaScript
-- Leaflet - Library for creating interactive maps
-- OpenLayers - Library for displaying maps and adding layers to them
-- D3.js - Library for creating dynamic and interactive data visualizations
-- Three.js - Library for creating 3D graphics in a web browser
-- Cesium - Open source platform for 3D geospatial mapping
-- Mapbox GL JS - Library for creating vector maps and custom map styles
-- Turf.js - Library for performing spatial analysis in a browser
-- Plotly.js - Library for creating interactive and animated charts and graphs
-- Deck.gl - Library for large-scale data visualization
-- Mapv - Library for fast and efficient data visualization on maps.
+
+- [Leaflet](https://leafletjs.com/) - Interactive maps.
+- [OpenLayers](https://openlayers.org/) - Web maps and geospatial layers.
+- [D3.js](https://d3js.org/) - Dynamic and interactive data visualizations.
+- [Three.js](https://threejs.org/) - 3D graphics in a web browser.
+- [CesiumJS](https://cesium.com/platform/cesiumjs/) - 3D geospatial visualization.
+- [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/) - Vector maps and custom map styles.
+- [Turf.js](https://turfjs.org/) - Spatial analysis in the browser.
+- [Plotly.js](https://plotly.com/javascript/) - Interactive charts and graphs.
+- [deck.gl](https://deck.gl/) - Large-scale geospatial visualization.
+- [MapV](https://mapv.baidu.com/) - Map-based data visualization.
+- [That Open Engine](https://thatopen.com/) - Open web components for IFC and BIM applications.
+
 ### Rust
-- nalgebra - Library for linear algebra
-- num - Library for numerical computing
-- image - Library for image processing
-- rust-geo - Library for geographic and geospatial data
-- rust-htslib - Library for reading and writing high-throughput sequencing (HTS) data
-- rust-postgis - Library for working with PostGIS, a spatial database
-- rust-scikit-learn - Library for machine learning in Rust
-- rust-stats - Library for statistical computing
-- rust-vis - Library for data visualization in Rust
-- geojson - Library for working with GeoJSON data.
+
+- [nalgebra](https://nalgebra.org/) - Linear algebra.
+- [num](https://github.com/rust-num/num) - Numerical computing.
+- [image](https://github.com/image-rs/image) - Image processing.
+- [geo](https://github.com/georust/geo) - Geographic and geospatial algorithms.
+- [rust-htslib](https://github.com/rust-bio/rust-htslib) - Reading and writing high-throughput sequencing data.
+- [postgis](https://crates.io/crates/postgis) - Rust support for PostGIS geometries.
+- [linfa](https://github.com/rust-ml/linfa) - Machine learning in Rust.
+- [statrs](https://github.com/statrs-dev/statrs) - Statistical computing.
+- [plotters](https://plotters-rs.github.io/) - Data visualization in Rust.
+- [geojson](https://github.com/georust/geojson) - GeoJSON support.
+
 ### C#
-- NetTopologySuite - Library for working with geospatial data
-- SharpMap - Library for creating and working with maps
-- GeoAPI - Library for geospatial data processing
-- MapWindow - Open source GIS software
-- Artisan - Library for creating 3D models in C#
-- DotSpatial - Library for working with geospatial data in .NET
-- ProjNet - Library for coordinate system and map projection transformations
-- GeoJSON.Net - Library for working with GeoJSON data in .NET
-- Microsoft.Maps - Library for working with maps and geospatial data in .NET
-- SharpKml - Library for working with KML, a common file format for geospatial data.
-### 
 
-## Machine Learning
+- [NetTopologySuite](https://nettopologysuite.github.io/NetTopologySuite/) - Geospatial geometry library for .NET.
+- [SharpMap](https://github.com/SharpMap/SharpMap) - Mapping library for .NET.
+- [GeoAPI](https://github.com/NetTopologySuite/GeoAPI) - Geospatial interfaces historically used in the .NET GIS ecosystem.
+- [MapWindow](https://www.mapwindow.org/) - Open-source GIS software.
+- [Artisan](https://artisanrender.com/) - 3D modeling and rendering workflow for SketchUp.
+- [DotSpatial](https://github.com/DotSpatial/DotSpatial) - Geospatial data, analysis, and mapping in .NET.
+- [ProjNet](https://github.com/NetTopologySuite/ProjNet4GeoAPI) - Coordinate system and map projection transformations.
+- [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) - GeoJSON support for .NET.
+- [Microsoft Maps](https://www.microsoft.com/maps) - Microsoft mapping APIs and services.
+- [SharpKml](https://github.com/samcragg/sharpkml) - KML support for .NET.
 
-- TensorFlow - Machine learning library developed by Google
-- PyTorch - Machine learning library developed by Facebook
-- Scikit-learn - Machine learning library for Python
-- R - Programming language for statistical computing and data analysis
-- Weka - Machine learning software for data mining and analysis
-- KNIME - Machine learning platform for data analysis and visualization
-- Orange - Machine learning software for data mining and predictive modeling
-- RapidMiner - Machine learning platform for data preparation, analysis, and prediction
-- XGBoost - Machine learning library for gradient boosting trees
-- LightGBM - Machine learning library for gradient boosting trees.
+## Machine Learning and AI
+
+- [TensorFlow](https://www.tensorflow.org/) - Machine learning library developed by Google.
+- [PyTorch](https://pytorch.org/) - Machine learning library.
+- [scikit-learn](https://scikit-learn.org/) - Machine learning library for Python.
+- [R](https://www.r-project.org/) - Statistical computing and data analysis.
+- [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Machine learning software for data mining and analysis.
+- [KNIME](https://www.knime.com/) - Analytics and machine learning platform.
+- [Orange](https://orangedatamining.com/) - Data mining and predictive modeling.
+- [RapidMiner](https://altair.com/rapidminer) - Data preparation, machine learning, and predictive analytics.
+- [XGBoost](https://xgboost.ai/) - Gradient boosting library.
+- [LightGBM](https://lightgbm.readthedocs.io/) - Gradient boosting library.
+- [Ultralytics YOLO](https://www.ultralytics.com/) - Computer vision models often used for defect detection, traffic analysis, and site imagery workflows.
+- [Segment Anything](https://segment-anything.com/) - Foundation model for image segmentation workflows.
+- [Hugging Face](https://huggingface.co/) - Model, dataset, and machine learning application hub.
+- [LangChain](https://www.langchain.com/) - Framework for building LLM applications and retrieval workflows.
+- [LlamaIndex](https://www.llamaindex.ai/) - Data framework for LLM applications over documents and structured data.
 
 <style>
-mark{
-    color:red;
+:root {
+  color-scheme: light dark;
+  --bg: #0f172a;
+  --text: #e5e7eb;
+  --link: #67e8f9;
+  --link-hover: #fde047;
+  --border: #334155;
 }
 
-hr{
-    color:red;
-    background-color:yellow;
-    height: 2px; 
-    border: 0;
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
 }
 
-hr:hover{
-    background-color:gold;
+a {
+  color: var(--link);
 }
 
-body{
-    background-color: #24292e;
+a:hover {
+  color: var(--link-hover);
 }
 
-ul {
-    list-style-type: square;
-    list-style: none;
-    list-style-type: "🌟  ";
+li {
+  margin: 0.25rem 0;
 }
 
-
-
-li:hover {
-    content: "•";
-    color: gold;
-    transform: scale(1.02);
-    
+h1,
+h2,
+h3 {
+  color: #ffffff;
+  line-height: 1.25;
 }
 
-h2:hover {
-    transform: scale(1.02);
-    animation: color-change 1s infinite;
-}
-
-h3:hover {
-    transform: scale(1.02);
-    animation: color-change 1s infinite;
-}
-
-h1:hover{
-    animation: wiggle 1s infinite;
-}
-
-h1{
-    animation: float 6s ease-in-out infinite;
-}
-@keyframes color-change {
-  0% { color: red; }
-  50% { color: yellow; }
-  100% { color: red; }
-}
-
-@keyframes wiggle {
-  0% { transform: scale(1.02); }
-  50% { transform: scale(1);}
-  100% { transform: scale(1.02); }
-}
-@keyframes float {
-  0% {
-    transform: translatey(0px);
-  }
-  50% {
-    transform: translatey(-10px);
-  }
-  100% {
-    transform: translatey(0px);
-  }
-}
-*{
-    color:white;
-}
-a{
-    color:cyan; 
+h2 {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
 }
 </style>
