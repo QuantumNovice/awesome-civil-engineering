@@ -214,6 +214,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 ### Concrete and Construction
 
 - [SlabCalc.co](https://slabcalc.co) - Concrete calculator for slabs, driveways, patios, foundations, volume, and cost estimation.
+- [Concrete Calculate](https://concrete-calculate.com) - Concrete volume, bag count (40/60/80 lb), weight, and 2026 cost calculator for slabs, columns, steps, and curbs. Imperial and metric.
+- [Asphalt Calculate](https://asphalt-calculate.com) - Asphalt tonnage, cost, and thickness calculator for driveways, parking lots, and paths. Supports rectangle, circle, triangle, and L-shaped areas.
 
 ## Drafting
 
