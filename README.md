@@ -7,7 +7,6 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Content
 
-<<<<<<< HEAD
 * [Reporting & Documentation](#reporting-and-documentation)
 * [Water Resources](#water-resources-drainage)
 * [Structure Analysis and Design Software](#structure-analysis-and-design-software)
@@ -31,31 +30,6 @@ Software, libraries, calculators, and resources used in civil engineering practi
   * [C# and .NET](#c-and-net)
   * [Rust](#rust)
 
-
-=======
-- [Reporting and Documentation](#reporting-and-documentation)
-- [Water Resources and Drainage](#water-resources-and-drainage)
-- [Structural Analysis and Design Software](#structural-analysis-and-design-software)
-- [Structural Simulation Software](#structural-simulation-software)
-- [Geotechnical Engineering](#geotechnical-engineering)
-- [Transportation Engineering](#transportation-engineering)
-- [Environmental Engineering](#environmental-engineering)
-- [Digital Twins, BIM, and Construction Tech](#digital-twins-bim-and-construction-tech)
-- [Reality Capture and Surveying](#reality-capture-and-surveying)
-- [Calculations](#calculations)
-- [Web Calculators](#web-calculators)
-- [Drafting](#drafting)
-- [3D Modelling](#3d-modelling)
-- [GIS](#gis)
-- [Project Management](#project-management)
-- [Spreadsheet](#spreadsheet)
-- [Programming Libraries](#programming-libraries)
-  - [Python](#python)
-  - [JavaScript](#javascript)
-  - [Rust](#rust)
-  - [C#](#c)
-- [Machine Learning and AI](#machine-learning-and-ai)
->>>>>>> 4810749664a800a2628a91767ac0a60fb9482433
 
 ## Reporting and Documentation
 
