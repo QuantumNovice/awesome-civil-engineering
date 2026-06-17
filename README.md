@@ -26,13 +26,15 @@ This is a list of softwares and resource used in civil engineering practice.
 * [3D Modelling](#3d-modelling)
 * [GIS](#gis)
 * [Project Management](#project-management)
-* [Spreadsheet](#Spreadsheet)
-* [Programming Libraries](#programming-libraries)
-  * [Python](#python)
-  * [JavaScript](#javaScript)
-  * [Rust](#rust)
-  * [C#](#C#)
+* [Spreadsheet](#spreadsheet)
 * [Machine Learning](#machine-learning)
+* [Programming Resources and Libraries](#programming-resources-and-libraries)
+  * [Python](#python)
+  * [JavaScript](#javascript)
+  * [Julia](#julia)
+  * [R](#r)
+  * [C# and .NET](#c-and-net)
+  * [Rust](#rust)
 
 
 
@@ -257,62 +259,6 @@ Here is a list of popular web-based civil engineering software:
 - [SlabCalc.co](https://slabcalc.co) - Free concrete calculator for slabs, driveways, patios, foundations, and more. Includes volume and cost estimation.
 
 
-## Programming Libraries
-
-
-### Python 
-* PyFEM - Finite Element Modellingg
-* Pandas - Spreadsheet
-* NumPy - Vector Operations and Matrix Manipulation
-* SciPy - Scientific Python
-* SfePy - Finite Element Software
-* OpenSees - Structural Analysis Software
-* NumPy - Numerical computing library
-* SciPy - Scientific computing library
-* Pandas - Data analysis and manipulation library
-* Matplotlib - Plotting library
-* Seaborn - Data visualization library
-* Shapely - Library for manipulating and analyzing planar geometric objects
-* Fiona - Library for reading and writing geospatial data
-* PySAL - Library for spatial analysis
-* GeoPandas - Library for geospatial data analysis
-* Rasterio - Library for reading and writing raster datasets
-
-### JavaScript
-- Leaflet - Library for creating interactive maps
-- OpenLayers - Library for displaying maps and adding layers to them
-- D3.js - Library for creating dynamic and interactive data visualizations
-- Three.js - Library for creating 3D graphics in a web browser
-- Cesium - Open source platform for 3D geospatial mapping
-- Mapbox GL JS - Library for creating vector maps and custom map styles
-- Turf.js - Library for performing spatial analysis in a browser
-- Plotly.js - Library for creating interactive and animated charts and graphs
-- Deck.gl - Library for large-scale data visualization
-- Mapv - Library for fast and efficient data visualization on maps.
-### Rust
-- nalgebra - Library for linear algebra
-- num - Library for numerical computing
-- image - Library for image processing
-- rust-geo - Library for geographic and geospatial data
-- rust-htslib - Library for reading and writing high-throughput sequencing (HTS) data
-- rust-postgis - Library for working with PostGIS, a spatial database
-- rust-scikit-learn - Library for machine learning in Rust
-- rust-stats - Library for statistical computing
-- rust-vis - Library for data visualization in Rust
-- geojson - Library for working with GeoJSON data.
-### C#
-- NetTopologySuite - Library for working with geospatial data
-- SharpMap - Library for creating and working with maps
-- GeoAPI - Library for geospatial data processing
-- MapWindow - Open source GIS software
-- Artisan - Library for creating 3D models in C#
-- DotSpatial - Library for working with geospatial data in .NET
-- ProjNet - Library for coordinate system and map projection transformations
-- GeoJSON.Net - Library for working with GeoJSON data in .NET
-- Microsoft.Maps - Library for working with maps and geospatial data in .NET
-- SharpKml - Library for working with KML, a common file format for geospatial data.
-### 
-
 ## Machine Learning
 
 - TensorFlow - Machine learning library developed by Google
@@ -325,6 +271,67 @@ Here is a list of popular web-based civil engineering software:
 - RapidMiner - Machine learning platform for data preparation, analysis, and prediction
 - XGBoost - Machine learning library for gradient boosting trees
 - LightGBM - Machine learning library for gradient boosting trees.
+
+## Programming Resources and Libraries
+
+### Python
+- [Python for Civil and Structural Engineers](https://github.com/DrSokac/Python-for-civil-and-structural-engineers) - Tutorials and examples for applying Python to civil and structural engineering problems.
+- [NumPy](https://numpy.org/) - Numerical arrays, vector operations, and matrix manipulation.
+- [SciPy](https://scipy.org/) - Scientific computing, optimization, sparse matrices, and numerical methods.
+- [Pandas](https://pandas.pydata.org/) - Tabular data analysis for reports, inspections, monitoring data, and spreadsheets.
+- [Matplotlib](https://matplotlib.org/) - Plotting for engineering calculations, reports, and design checks.
+- [SfePy](https://sfepy.org/doc-devel/index.html) - Finite element analysis in Python.
+- [OpenSeesPy](https://openseespydoc.readthedocs.io/) - Python interface for OpenSees structural and geotechnical simulation.
+- [sectionproperties](https://sectionproperties.readthedocs.io/) - Cross-section analysis for structural engineering.
+- [GeoPandas](https://geopandas.org/) - Geospatial data analysis using pandas-like workflows.
+- [Shapely](https://shapely.readthedocs.io/) - Planar geometry operations for GIS, CAD, and spatial workflows.
+- [Rasterio](https://rasterio.readthedocs.io/) - Reading, writing, and processing raster datasets.
+- [PySAL](https://pysal.org/) - Spatial analysis and geostatistics.
+
+### JavaScript
+- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Core JavaScript reference and learning material.
+- [Leaflet](https://leafletjs.com/) - Interactive web maps for GIS and infrastructure dashboards.
+- [OpenLayers](https://openlayers.org/) - Web mapping library for displaying and editing geospatial data.
+- [D3.js](https://d3js.org/) - Data visualization for engineering and monitoring dashboards.
+- [Three.js](https://threejs.org/) - 3D graphics in the browser for geometry, visualization, and digital twins.
+- [CesiumJS](https://cesium.com/platform/cesiumjs/) - 3D geospatial visualization for terrain, cities, and infrastructure.
+- [Turf.js](https://turfjs.org/) - Browser and Node.js geospatial analysis.
+- [deck.gl](https://deck.gl/) - Large-scale geospatial visualization.
+- [Plotly.js](https://plotly.com/javascript/) - Interactive charts for calculations and engineering reports.
+
+### Julia
+- [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
+- [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
+- [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) - Read and write vector geospatial data.
+- [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) - GDAL bindings for raster and vector geospatial workflows.
+- [JuMP](https://jump.dev/JuMP.jl/stable/) - Mathematical optimization for operations research, network design, and planning problems.
+- [DifferentialEquations.jl](https://diffeq.sciml.ai/stable/) - Numerical solvers for differential equations and simulation models.
+
+### R
+- [R for Data Science](https://r4ds.hadley.nz/) - Practical guide for data import, cleaning, analysis, and visualization.
+- [sf](https://r-spatial.github.io/sf/) - Simple features for geospatial vector data.
+- [terra](https://rspatial.github.io/terra/) - Raster and vector spatial data analysis.
+- [sp](https://cran.r-project.org/package=sp) - Classes and methods for spatial data.
+- [ggplot2](https://ggplot2.tidyverse.org/) - Visualization for reports, monitoring, and exploratory analysis.
+- [hydroGOF](https://cran.r-project.org/package=hydroGOF) - Goodness-of-fit functions for hydrological model evaluation.
+
+### C# and .NET
+- [Microsoft C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/) - Official C# language documentation.
+- [NetTopologySuite](https://nettopologysuite.github.io/NetTopologySuite/) - Geometry and spatial operations for .NET.
+- [ProjNet](https://github.com/NetTopologySuite/ProjNet4GeoAPI) - Coordinate system and projection transformations.
+- [SharpMap](https://github.com/SharpMap/SharpMap) - Mapping library for .NET applications.
+- [DotSpatial](https://github.com/DotSpatial/DotSpatial) - GIS library and desktop mapping components.
+- [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) - GeoJSON types and serialization for .NET.
+- [SharpKml](https://github.com/samcragg/sharpkml) - KML processing for geospatial data exchange.
+
+### Rust
+- [The Rust Book](https://doc.rust-lang.org/book/) - Official Rust learning resource.
+- [nalgebra](https://nalgebra.org/) - Linear algebra for engineering and scientific computing.
+- [geo](https://github.com/georust/geo) - Geospatial primitives, algorithms, and geometry operations.
+- [geojson](https://github.com/georust/geojson) - Read and write GeoJSON data.
+- [proj](https://github.com/georust/proj) - Coordinate projection bindings for Rust.
+- [gdal](https://github.com/georust/gdal) - GDAL bindings for geospatial raster and vector data.
+- [polars](https://pola.rs/) - Fast DataFrame library for data processing and analysis.
 
 <style>
 mark{
