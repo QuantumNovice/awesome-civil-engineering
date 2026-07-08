@@ -7,29 +7,30 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Content
 
-* [Reporting & Documentation](#reporting-and-documentation)
-* [Water Resources](#water-resources-drainage)
-* [Structure Analysis and Design Software](#structure-analysis-and-design-software)
-* [Structural Simulation Software](#structural-simulation-software)
-* [GeoTechnical Engineering](#geotechnical-engineering)
-* [Transportation Engineering](#transportation-engineering)
-* [Environmental Engineering](#environmental-engineering)
-* [Calculations](#calculations)
-* [Web Calculators](#web-calculators)
-* [Drafting](#drafting)
-* [3D Modelling](#3d-modelling)
-* [GIS](#gis)
-* [Project Management](#project-management)
-* [Spreadsheet](#spreadsheet)
-* [Machine Learning](#machine-learning)
-* [Programming Resources and Libraries](#programming-resources-and-libraries)
-  * [Python](#python)
-  * [JavaScript](#javascript)
-  * [Julia](#julia)
-  * [R](#r)
-  * [C# and .NET](#c-and-net)
-  * [Rust](#rust)
-
+- [Reporting and Documentation](#reporting-and-documentation)
+- [Water Resources and Drainage](#water-resources-and-drainage)
+- [Structural Analysis and Design Software](#structural-analysis-and-design-software)
+- [Structural Simulation Software](#structural-simulation-software)
+- [Geotechnical Engineering](#geotechnical-engineering)
+- [Transportation Engineering](#transportation-engineering)
+- [Environmental Engineering](#environmental-engineering)
+- [Digital Twins, BIM, and Construction Tech](#digital-twins-bim-and-construction-tech)
+- [Reality Capture and Surveying](#reality-capture-and-surveying)
+- [Calculations](#calculations)
+- [Web Calculators](#web-calculators)
+- [Drafting](#drafting)
+- [3D Modelling](#3d-modelling)
+- [GIS](#gis)
+- [Project Management](#project-management)
+- [Spreadsheet](#spreadsheet)
+- [Machine Learning and AI](#machine-learning-and-ai)
+- [Programming Resources and Libraries](#programming-resources-and-libraries)
+  - [Python](#python)
+  - [JavaScript](#javascript)
+  - [Julia](#julia)
+  - [R](#r)
+  - [C# and .NET](#c-and-net)
+  - [Rust](#rust)
 
 ## Reporting and Documentation
 
@@ -305,73 +306,6 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Zoho Sheet](https://www.zoho.com/sheet/) - Online spreadsheet software.
 - [Asana Tables](https://asana.com/) - Table views and project tracking inside Asana.
 - [Quip Spreadsheets](https://quip.com/) - Collaborative spreadsheets inside Salesforce Quip.
-
-<<<<<<< HEAD
-## Machine Learning
-=======
-## Programming Libraries
-
-### Python
-
-- [PyFEM](https://github.com/jjcremmers/PyFEM) - Finite element modeling.
-- [pandas](https://pandas.pydata.org/) - Data analysis and spreadsheet-like workflows.
-- [NumPy](https://numpy.org/) - Numerical arrays, vector operations, and matrix manipulation.
-- [SciPy](https://scipy.org/) - Scientific computing.
-- [SfePy](https://sfepy.org/) - Finite element software in Python.
-- [OpenSeesPy](https://openseespydoc.readthedocs.io/) - Python interface for OpenSees structural and geotechnical analysis.
-- [Matplotlib](https://matplotlib.org/) - Plotting library.
-- [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
-- [Shapely](https://shapely.readthedocs.io/) - Manipulation and analysis of planar geometric objects.
-- [Fiona](https://fiona.readthedocs.io/) - Reading and writing geospatial vector data.
-- [PySAL](https://pysal.org/) - Spatial analysis.
-- [GeoPandas](https://geopandas.org/) - Geospatial data analysis.
-- [Rasterio](https://rasterio.readthedocs.io/) - Reading and writing raster datasets.
-- [xarray](https://docs.xarray.dev/) - Labeled multidimensional arrays, useful for climate, hydrology, and raster workflows.
-- [rioxarray](https://corteva.github.io/rioxarray/stable/) - Rasterio integration for xarray.
-- [PyVista](https://pyvista.org/) - 3D plotting and mesh analysis.
-- [COMPAS](https://compas.dev/) - Computational framework for architecture, engineering, and digital fabrication.
-- [TopologicPy](https://topologic.app/) - Spatial modeling and topology tools for architecture, engineering, and construction.
-
-### JavaScript
-
-- [Leaflet](https://leafletjs.com/) - Interactive maps.
-- [OpenLayers](https://openlayers.org/) - Web maps and geospatial layers.
-- [D3.js](https://d3js.org/) - Dynamic and interactive data visualizations.
-- [Three.js](https://threejs.org/) - 3D graphics in a web browser.
-- [CesiumJS](https://cesium.com/platform/cesiumjs/) - 3D geospatial visualization.
-- [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/) - Vector maps and custom map styles.
-- [Turf.js](https://turfjs.org/) - Spatial analysis in the browser.
-- [Plotly.js](https://plotly.com/javascript/) - Interactive charts and graphs.
-- [deck.gl](https://deck.gl/) - Large-scale geospatial visualization.
-- [MapV](https://mapv.baidu.com/) - Map-based data visualization.
-- [That Open Engine](https://thatopen.com/) - Open web components for IFC and BIM applications.
-
-### Rust
-
-- [nalgebra](https://nalgebra.org/) - Linear algebra.
-- [num](https://github.com/rust-num/num) - Numerical computing.
-- [image](https://github.com/image-rs/image) - Image processing.
-- [geo](https://github.com/georust/geo) - Geographic and geospatial algorithms.
-- [rust-htslib](https://github.com/rust-bio/rust-htslib) - Reading and writing high-throughput sequencing data.
-- [postgis](https://crates.io/crates/postgis) - Rust support for PostGIS geometries.
-- [linfa](https://github.com/rust-ml/linfa) - Machine learning in Rust.
-- [statrs](https://github.com/statrs-dev/statrs) - Statistical computing.
-- [plotters](https://plotters-rs.github.io/) - Data visualization in Rust.
-- [geojson](https://github.com/georust/geojson) - GeoJSON support.
-
-### C#
-
-- [NetTopologySuite](https://nettopologysuite.github.io/NetTopologySuite/) - Geospatial geometry library for .NET.
-- [SharpMap](https://github.com/SharpMap/SharpMap) - Mapping library for .NET.
-- [GeoAPI](https://github.com/NetTopologySuite/GeoAPI) - Geospatial interfaces historically used in the .NET GIS ecosystem.
-- [MapWindow](https://www.mapwindow.org/) - Open-source GIS software.
-- [Artisan](https://artisanrender.com/) - 3D modeling and rendering workflow for SketchUp.
-- [DotSpatial](https://github.com/DotSpatial/DotSpatial) - Geospatial data, analysis, and mapping in .NET.
-- [ProjNet](https://github.com/NetTopologySuite/ProjNet4GeoAPI) - Coordinate system and map projection transformations.
-- [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) - GeoJSON support for .NET.
-- [Microsoft Maps](https://www.microsoft.com/maps) - Microsoft mapping APIs and services.
-- [SharpKml](https://github.com/samcragg/sharpkml) - KML support for .NET.
->>>>>>> 4810749664a800a2628a91767ac0a60fb9482433
 
 ## Machine Learning and AI
 
