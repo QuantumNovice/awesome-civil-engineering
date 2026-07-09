@@ -1,4 +1,5 @@
 # Awesome Civil Engineering
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [List of Contributors](contributing.md) ||
 [Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering)
