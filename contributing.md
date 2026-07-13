@@ -10,6 +10,12 @@ filename: contributing.md
 - https://github.com/datadrivenconstruction
 - https://github.com/mgreminger
 - https://github.com/stoffis-git
+- https://github.com/mgreminger
+- https://github.com/nico1993nuscheler-cloud
+- https://github.com/roughed
+- https://github.com/datadrivenconstruction
+- https://github.com/xuhp630-bot
+- 
 
 ## Reddit 
 
