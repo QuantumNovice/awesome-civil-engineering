@@ -4,41 +4,57 @@ layout: template
 filename: contributing.md
 --- 
 
-# Project Contributors
+# Contributing
 
-## Github
+Thanks for helping improve Awesome Civil Engineering. The catalog data lives in
+[`data/resources.json`](data/resources.json); `README.md` is generated and should
+not be edited directly.
+
+## Add or update a resource
+
+1. Edit the appropriate section in `data/resources.json`. Each resource requires
+   a `name`, `url`, and concise `description`.
+2. Install the generator dependency with `python -m pip install -r requirements.txt`.
+3. Run `python generate.py`.
+4. Run `python generate.py --check` before opening a pull request.
+
+Keep entries relevant to civil engineering practice, use the resource's canonical
+HTTPS URL when one is available, and avoid promotional language.
+
+## Project contributors
+
+### GitHub
+
 - https://github.com/datadrivenconstruction
 - https://github.com/mgreminger
 - https://github.com/stoffis-git
-- https://github.com/mgreminger
 - https://github.com/nico1993nuscheler-cloud
 - https://github.com/roughed
-- https://github.com/datadrivenconstruction
 - https://github.com/xuhp630-bot
-- 
 
-## Reddit 
+### Reddit
 
-* u/triangleman83
-* u/Rich_Carpenter8695
-* u/ruffroad715
-* u/tonycocacola
-* u/zschwheel
-* u/the_flying_condor
-* u/HWDstorm
-* u/h_david
-* u/redabhijit
-* u/StLHokie
-* u/carloselunicornio
-* u/WigglySpaghetti
-* u/ItsAlkron
-* u/frankyseven
-* u/Large-At2022
-* u/alpaca-miles
-* u/appalachianengineer
-* u/wintercity00
-* u/teleportingpantaloon
-* u/SoftreeTech
+- u/triangleman83
+- u/Rich_Carpenter8695
+- u/ruffroad715
+- u/tonycocacola
+- u/zschwheel
+- u/the_flying_condor
+- u/HWDstorm
+- u/h_david
+- u/redabhijit
+- u/StLHokie
+- u/carloselunicornio
+- u/WigglySpaghetti
+- u/ItsAlkron
+- u/frankyseven
+- u/Large-At2022
+- u/alpaca-miles
+- u/appalachianengineer
+- u/wintercity00
+- u/teleportingpantaloon
+- u/SoftreeTech
+
 <style>
 mark{
     color:red;
@@ -124,3 +140,4 @@ a{
     color:cyan; 
 }
 </style>
+
