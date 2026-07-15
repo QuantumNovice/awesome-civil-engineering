@@ -1,0 +1,80 @@
+<!-- This file is generated. Edit data/resources.json and run `python generate.py`. -->
+# {{ catalog.title }}
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[List of Contributors](contributing.md) ||
+[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering)
+
+{{ catalog.description }}
+
+## Content
+
+{% for section in catalog.sections %}
+- [{{ section.title }}](#{{ section.title | github_anchor }})
+{% for subsection in section.sections %}
+  - [{{ subsection.title }}](#{{ subsection.title | github_anchor }})
+{% endfor %}
+{% endfor %}
+{% for section in catalog.sections %}
+
+## {{ section.title }}
+{% if section.items %}
+
+{% endif %}
+{% for item in section.items -%}
+- [{{ item.name }}]({{ item.url }}) - {{ item.description }}
+{% endfor %}
+{% for subsection in section.sections %}
+
+### {{ subsection.title }}
+{% if subsection.items %}
+
+{% endif %}
+{% for item in subsection.items -%}
+- [{{ item.name }}]({{ item.url }}) - {{ item.description }}
+{% endfor %}
+{% endfor %}
+{% endfor %}
+
+<style>
+:root {
+  color-scheme: light dark;
+  --bg: #0f172a;
+  --text: #e5e7eb;
+  --link: #67e8f9;
+  --link-hover: #fde047;
+  --border: #334155;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  color: var(--link);
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+li {
+  margin: 0.25rem 0;
+}
+
+h1,
+h2,
+h3 {
+  color: #ffffff;
+  line-height: 1.25;
+}
+
+h2 {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+}
+</style>
