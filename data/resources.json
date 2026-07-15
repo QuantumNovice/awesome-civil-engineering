@@ -1,0 +1,1688 @@
+{
+  "title": "Awesome Civil Engineering",
+  "description": "Software, libraries, calculators, and resources used in civil engineering practice.",
+  "sections": [
+    {
+      "title": "Reporting and Documentation",
+      "items": [
+        {
+          "name": "Microsoft Word",
+          "url": "https://www.microsoft.com/microsoft-365/word",
+          "description": "Word processing and report production."
+        },
+        {
+          "name": "LaTeX",
+          "url": "https://www.latex-project.org/",
+          "description": "Typesetting system widely used for technical reports, standards, and academic papers."
+        },
+        {
+          "name": "Foxit PDF Editor",
+          "url": "https://www.foxit.com/pdf-editor/",
+          "description": "PDF editing software formerly associated with PhantomPDF."
+        },
+        {
+          "name": "Autodesk Revit",
+          "url": "https://www.autodesk.com/products/revit/overview",
+          "description": "BIM authoring for buildings and multidisciplinary coordination."
+        },
+        {
+          "name": "Bluebeam Revu",
+          "url": "https://www.bluebeam.com/revu/",
+          "description": "PDF markup, review, and construction document collaboration."
+        },
+        {
+          "name": "Procore",
+          "url": "https://www.procore.com/",
+          "description": "Construction project management, drawings, RFIs, submittals, and field workflows."
+        },
+        {
+          "name": "PlanGrid",
+          "url": "https://construction.autodesk.com/products/autodesk-build/",
+          "description": "Autodesk field collaboration workflow now part of Autodesk Build."
+        },
+        {
+          "name": "Newforma Project Center",
+          "url": "https://www.newforma.com/project-information-management/",
+          "description": "Project information management for AEC teams."
+        },
+        {
+          "name": "Microsoft Project",
+          "url": "https://www.microsoft.com/microsoft-365/project/project-management-software",
+          "description": "Project scheduling and portfolio management."
+        },
+        {
+          "name": "Asana",
+          "url": "https://asana.com/",
+          "description": "Team work management and task tracking."
+        },
+        {
+          "name": "Trello",
+          "url": "https://trello.com/",
+          "description": "Kanban-style task tracking by Atlassian."
+        },
+        {
+          "name": "Autodesk BIM 360",
+          "url": "https://www.autodesk.com/bim-360/",
+          "description": "Legacy Autodesk construction management platform, now within Autodesk Construction Cloud."
+        },
+        {
+          "name": "CoConstruct",
+          "url": "https://www.buildertrend.com/coconstruct/",
+          "description": "Residential construction management product now part of Buildertrend."
+        },
+        {
+          "name": "Autodesk Construction Cloud",
+          "url": "https://construction.autodesk.com/",
+          "description": "Cloud platform for design collaboration, model coordination, build workflows, and operations handover."
+        },
+        {
+          "name": "Trimble Connect",
+          "url": "https://connect.trimble.com/",
+          "description": "Common data environment for BIM and construction collaboration."
+        },
+        {
+          "name": "Typst",
+          "url": "https://typst.app/docs/",
+          "description": "Open-source markup-based typesetting system for fast, reproducible technical reports with equations, references, and templates."
+        }
+      ]
+    },
+    {
+      "title": "Water Resources and Drainage",
+      "items": [
+        {
+          "name": "EPA SWMM",
+          "url": "https://www.epa.gov/water-research/storm-water-management-model-swmm",
+          "description": "Urban drainage modeling software developed by the Environmental Protection Agency."
+        },
+        {
+          "name": "HEC-RAS",
+          "url": "https://www.hec.usace.army.mil/software/hec-ras/",
+          "description": "River hydraulic modeling software developed by the US Army Corps of Engineers."
+        },
+        {
+          "name": "WaterGEMS",
+          "url": "https://www.bentley.com/software/openflows-watergems/",
+          "description": "Hydraulic and water quality modeling software for water distribution systems."
+        },
+        {
+          "name": "EPANET",
+          "url": "https://www.epa.gov/water-research/epanet",
+          "description": "Open-source software for analysis of water distribution systems."
+        },
+        {
+          "name": "TUFLOW",
+          "url": "https://www.tuflow.com/",
+          "description": "Hydrodynamic and hydraulic modeling software for floodplain management."
+        },
+        {
+          "name": "HydroCAD",
+          "url": "https://www.hydrocad.net/",
+          "description": "Stormwater management and hydraulic modeling software."
+        },
+        {
+          "name": "XP-SWMM",
+          "url": "https://www.autodesk.com/products/xpswmm/overview",
+          "description": "Urban drainage and stormwater modeling software."
+        },
+        {
+          "name": "HEC-HMS",
+          "url": "https://www.hec.usace.army.mil/software/hec-hms/",
+          "description": "Hydrologic modeling software developed by the US Army Corps of Engineers."
+        },
+        {
+          "name": "MIKE FLOOD",
+          "url": "https://www.dhigroup.com/technologies/mikepoweredbydhi",
+          "description": "Flood modeling software by DHI."
+        },
+        {
+          "name": "InfoWorks ICM",
+          "url": "https://www.autodesk.com/products/infoworks-icm/overview",
+          "description": "Integrated catchment modeling for drainage, sewer, and flood networks."
+        },
+        {
+          "name": "PCSWMM",
+          "url": "https://www.pcswmm.com/",
+          "description": "Stormwater, wastewater, and watershed modeling software."
+        },
+        {
+          "name": "i-Water Flow",
+          "url": "https://i-water.org/",
+          "description": "Integrated water management software."
+        },
+        {
+          "name": "ICPR",
+          "url": "https://streamnologies.com/icpr/",
+          "description": "Hydraulic and groundwater modeling software by Streamline Technologies."
+        },
+        {
+          "name": "InfoWater Pro",
+          "url": "https://www.autodesk.com/products/infowater-pro/overview",
+          "description": "Water distribution modeling in an ArcGIS-based interface."
+        },
+        {
+          "name": "CE-QUAL-W2",
+          "url": "http://www.ce.pdx.edu/w2/",
+          "description": "2D water quality and hydrodynamic modeling for rivers, estuaries, lakes, reservoirs, and river basin systems."
+        },
+        {
+          "name": "OpenFlows SewerGEMS",
+          "url": "https://www.bentley.com/software/openflows-sewergems/",
+          "description": "Sanitary and combined sewer modeling."
+        },
+        {
+          "name": "OpenFlows Flood",
+          "url": "https://www.bentley.com/software/openflows-flood/",
+          "description": "Flood modeling for coastal, riverine, and urban systems."
+        },
+        {
+          "name": "Flood Modeller",
+          "url": "https://www.floodmodeller.com/",
+          "description": "1D/2D hydraulic modeling for rivers, floodplains, and drainage."
+        },
+        {
+          "name": "MODFLOW 6",
+          "url": "https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs",
+          "description": "USGS open-source modular hydrologic model for groundwater flow and groundwater/surface-water interactions."
+        }
+      ]
+    },
+    {
+      "title": "Structural Analysis and Design Software",
+      "items": [
+        {
+          "name": "SAP2000",
+          "url": "https://www.csiamerica.com/products/sap2000",
+          "description": "General-purpose structural analysis and design by Computers and Structures, Inc."
+        },
+        {
+          "name": "ETABS",
+          "url": "https://www.csiamerica.com/products/etabs",
+          "description": "Building analysis and design by Computers and Structures, Inc."
+        },
+        {
+          "name": "Tekla Structural Designer",
+          "url": "https://www.tekla.com/products/tekla-structural-designer",
+          "description": "Structural analysis and design for buildings."
+        },
+        {
+          "name": "Autodesk Robot Structural Analysis Professional",
+          "url": "https://www.autodesk.com/products/robot-structural-analysis/overview",
+          "description": "Structural analysis and simulation software."
+        },
+        {
+          "name": "PROKON",
+          "url": "https://www.prokon.com/",
+          "description": "Structural analysis and design suite."
+        },
+        {
+          "name": "Tekla Structures",
+          "url": "https://www.tekla.com/products/tekla-structures",
+          "description": "Constructible BIM for steel and concrete detailing."
+        },
+        {
+          "name": "midas Civil",
+          "url": "https://www.midasoft.com/bridge-library/civil",
+          "description": "Bridge and civil structural analysis software."
+        },
+        {
+          "name": "SCIA Engineer",
+          "url": "https://www.scia.net/en/products/scia-engineer",
+          "description": "Structural analysis and design software."
+        },
+        {
+          "name": "RAM Structural System",
+          "url": "https://www.bentley.com/software/ram-structural-system/",
+          "description": "Building analysis and design by Bentley Systems."
+        },
+        {
+          "name": "STAAD.Pro",
+          "url": "https://www.bentley.com/software/staad/",
+          "description": "Structural analysis and design software."
+        },
+        {
+          "name": "RISA-3D",
+          "url": "https://risa.com/risa-3d/",
+          "description": "3D structural analysis software for buildings and bridges."
+        },
+        {
+          "name": "Dlubal RFEM",
+          "url": "https://www.dlubal.com/en/products/rfem-fea-software/what-is-rfem",
+          "description": "3D finite element analysis software for structural analysis and design."
+        },
+        {
+          "name": "SpaceGASS",
+          "url": "https://spacegass.com/",
+          "description": "3D analysis and design for beams, trusses, frames, buildings, towers, tanks, cable structures, and bridges."
+        },
+        {
+          "name": "SkyCiv Structural 3D",
+          "url": "https://skyciv.com/structural-analysis-software/",
+          "description": "Cloud structural analysis and design software."
+        },
+        {
+          "name": "SOFiSTiK",
+          "url": "https://www.sofistik.com/",
+          "description": "Analysis, design, and BIM-integrated workflows for buildings, bridges, and infrastructure."
+        },
+        {
+          "name": "IDEA StatiCa",
+          "url": "https://www.ideastatica.com/",
+          "description": "Steel, concrete, and connection design and code checking."
+        },
+        {
+          "name": "StruSoft FEM-Design",
+          "url": "https://strusoft.com/software/fem-design/",
+          "description": "3D finite element structural analysis and design."
+        },
+        {
+          "name": "CalculiX",
+          "url": "https://www.calculix.de/",
+          "description": "Free finite element package for linear and nonlinear structural, dynamic, and thermal analysis with Abaqus-compatible input."
+        }
+      ]
+    },
+    {
+      "title": "Structural Simulation Software",
+      "items": [
+        {
+          "name": "Ansys",
+          "url": "https://www.ansys.com/",
+          "description": "Multiphysics simulation software."
+        },
+        {
+          "name": "Abaqus",
+          "url": "https://www.3ds.com/products/simulia/abaqus",
+          "description": "Finite element analysis software."
+        },
+        {
+          "name": "Autodesk Robot Structural Analysis Professional",
+          "url": "https://www.autodesk.com/products/robot-structural-analysis/overview",
+          "description": "Structural analysis and simulation software."
+        },
+        {
+          "name": "LS-DYNA",
+          "url": "https://www.ansys.com/products/structures/ansys-ls-dyna",
+          "description": "Dynamic and nonlinear simulation software."
+        },
+        {
+          "name": "ETABS",
+          "url": "https://www.csiamerica.com/products/etabs",
+          "description": "Building analysis and design software."
+        },
+        {
+          "name": "SAP2000",
+          "url": "https://www.csiamerica.com/products/sap2000",
+          "description": "Structural analysis and design software."
+        },
+        {
+          "name": "midas",
+          "url": "https://www.midasoft.com/",
+          "description": "Structural analysis and design software."
+        },
+        {
+          "name": "SCIA Engineer",
+          "url": "https://www.scia.net/en/products/scia-engineer",
+          "description": "Structural analysis software for design and engineering of many structure types."
+        },
+        {
+          "name": "PROKON",
+          "url": "https://www.prokon.com/",
+          "description": "Structural analysis and design software."
+        },
+        {
+          "name": "RAM Structural System",
+          "url": "https://www.bentley.com/software/ram-structural-system/",
+          "description": "Building analysis and design software."
+        },
+        {
+          "name": "ArchCalc",
+          "url": "http://www.archcalc.com/",
+          "description": "Online structural analysis calculator for architects, engineers, and construction professionals."
+        },
+        {
+          "name": "OpenSees",
+          "url": "https://opensees.berkeley.edu/",
+          "description": "Open-source framework for nonlinear structural and geotechnical simulation."
+        },
+        {
+          "name": "Code_Aster",
+          "url": "https://code-aster.org/",
+          "description": "Open-source finite element solver for structural mechanics, nonlinear analysis, thermomechanics, and coupled problems."
+        }
+      ]
+    },
+    {
+      "title": "Geotechnical Engineering",
+      "items": [
+        {
+          "name": "LPile",
+          "url": "https://www.ensoftinc.com/products/lpile/",
+          "description": "Program for analyzing laterally loaded piles using p-y methods."
+        },
+        {
+          "name": "PLAXIS",
+          "url": "https://www.bentley.com/software/plaxis/",
+          "description": "Geotechnical finite element analysis software."
+        },
+        {
+          "name": "FLAC",
+          "url": "https://www.itascacg.com/software/flac2d",
+          "description": "Fast Lagrangian Analysis of Continua."
+        },
+        {
+          "name": "SLOPE/W",
+          "url": "https://www.geoslope.com/products/slope-w",
+          "description": "Slope stability analysis software."
+        },
+        {
+          "name": "FLOW-3D",
+          "url": "https://www.flow3d.com/",
+          "description": "CFD software used for hydraulic and hydro-geological modeling."
+        },
+        {
+          "name": "SEEP/W",
+          "url": "https://www.geoslope.com/products/seep-w",
+          "description": "Seepage and groundwater flow analysis software."
+        },
+        {
+          "name": "SIGMA/W",
+          "url": "https://www.geoslope.com/products/sigma-w",
+          "description": "Stress-deformation analysis software."
+        },
+        {
+          "name": "GeoStudio",
+          "url": "https://www.geoslope.com/products/geostudio",
+          "description": "Geotechnical modeling suite."
+        },
+        {
+          "name": "gINT",
+          "url": "https://www.bentley.com/software/gint/",
+          "description": "Geotechnical information management software."
+        },
+        {
+          "name": "TALREN",
+          "url": "https://www.terrasol.com/software/talren-v6/",
+          "description": "Slope stability and retaining structure analysis software."
+        },
+        {
+          "name": "SoilVision Systems",
+          "url": "https://soilvision.com/",
+          "description": "Soil mechanics and geotechnical modeling software."
+        },
+        {
+          "name": "UDEC",
+          "url": "https://www.itascacg.com/software/new-in-udec-7-0",
+          "description": "Discrete Element Method program used for rock mechanics and unreinforced masonry analysis."
+        },
+        {
+          "name": "Carlson Geotech",
+          "url": "https://www.carlsones.com/product/carlson-geotech/",
+          "description": "Borehole, strata, and geotechnical CAD workflows."
+        },
+        {
+          "name": "Settle3",
+          "url": "https://www.rocscience.com/software/settle3",
+          "description": "3D settlement and consolidation analysis."
+        },
+        {
+          "name": "RS2",
+          "url": "https://www.rocscience.com/software/rs2",
+          "description": "2D finite element analysis for excavation, slope, and support systems."
+        },
+        {
+          "name": "RS3",
+          "url": "https://www.rocscience.com/software/rs3",
+          "description": "3D finite element analysis for geotechnical engineering."
+        },
+        {
+          "name": "OpenGeoSys",
+          "url": "https://www.opengeosys.org/stable/",
+          "description": "Open-source multiphysics simulator for thermo-hydro-mechanical-chemical processes in porous and fractured media."
+        }
+      ]
+    },
+    {
+      "title": "Transportation Engineering",
+      "items": [
+        {
+          "name": "Synchro",
+          "url": "https://www.trafficware.com/synchro-studio/",
+          "description": "Traffic signal timing and analysis software."
+        },
+        {
+          "name": "PTV Vissim",
+          "url": "https://www.ptvgroup.com/en/products/ptv-vissim",
+          "description": "Microscopic multimodal traffic simulation software."
+        },
+        {
+          "name": "Aimsun Next",
+          "url": "https://www.aimsun.com/aimsun-next/",
+          "description": "Microscopic and mesoscopic traffic simulation software."
+        },
+        {
+          "name": "TransModeler",
+          "url": "https://www.caliper.com/transmodeler/",
+          "description": "Traffic simulation software."
+        },
+        {
+          "name": "Paramics",
+          "url": "https://www.paramics.co.uk/",
+          "description": "Microscopic traffic simulation software."
+        },
+        {
+          "name": "Highway Capacity Software",
+          "url": "https://mctrans.ce.ufl.edu/mct/index.php/hcs/",
+          "description": "Highway Capacity Manual analysis software."
+        },
+        {
+          "name": "CORSIM",
+          "url": "https://mctrans.ce.ufl.edu/mct/index.php/corsim/",
+          "description": "Traffic simulation software."
+        },
+        {
+          "name": "SIDRA INTERSECTION",
+          "url": "https://www.sidrasolutions.com/software/sidra-intersection",
+          "description": "Intersection capacity and level-of-service analysis software."
+        },
+        {
+          "name": "PTV Vistro",
+          "url": "https://www.ptvgroup.com/en/products/ptv-vistro",
+          "description": "Traffic engineering and analysis software."
+        },
+        {
+          "name": "TransCAD",
+          "url": "https://www.caliper.com/tcovu.htm",
+          "description": "GIS-based transportation planning and modeling software."
+        },
+        {
+          "name": "GuideSign",
+          "url": "https://www.transoftsolutions.com/signage/guidesign/",
+          "description": "CAD software for designing roadway and highway signs."
+        },
+        {
+          "name": "AutoTurn",
+          "url": "https://www.transoftsolutions.com/vehicle-swept-path/autoturn/",
+          "description": "Vehicle swept path analysis and turning simulation."
+        },
+        {
+          "name": "OpenRoads Designer",
+          "url": "https://www.bentley.com/software/openroads-designer/",
+          "description": "Roadway design, modeling, and documentation software."
+        },
+        {
+          "name": "MX Roads",
+          "url": "https://communities.bentley.com/products/road___site_design/w/road_and_site_design__wiki/7147/steps-to-download-the-software-bentley-mx-v8i-from-select-server-tn",
+          "description": "Legacy string-based road design tool."
+        },
+        {
+          "name": "Carlson Civil",
+          "url": "https://www.carlsones.com/product/carlson-civil/",
+          "description": "CAD-based design software for highways and land development."
+        },
+        {
+          "name": "RoadEng Civil Engineer",
+          "url": "https://www.softree.com/",
+          "description": "Geometric road and site design for rural roads, highways, access roads, pipelines, culverts, and earthwork."
+        },
+        {
+          "name": "Eclipse SUMO",
+          "url": "https://eclipse.dev/sumo/",
+          "description": "Open-source microscopic and multimodal traffic simulation."
+        },
+        {
+          "name": "MATSim",
+          "url": "https://www.matsim.org/",
+          "description": "Open-source agent-based transport simulation framework."
+        },
+        {
+          "name": "OpenTripPlanner",
+          "url": "https://www.opentripplanner.org/",
+          "description": "Open-source multimodal trip planning and network analysis."
+        },
+        {
+          "name": "OSMnx",
+          "url": "https://osmnx.readthedocs.io/",
+          "description": "Python package for downloading, modeling, analyzing, and visualizing street networks from OpenStreetMap."
+        },
+        {
+          "name": "CityFlow",
+          "url": "https://cityflow-project.github.io/",
+          "description": "Open-source large-scale urban traffic simulator with a Python interface for traffic control and transportation research."
+        }
+      ]
+    },
+    {
+      "title": "Environmental Engineering",
+      "items": [
+        {
+          "name": "Wastewater Collection System Modeling Software",
+          "url": "https://www.autodesk.com/products/infoworks-icm/overview",
+          "description": "Collection system modeling, now commonly covered by Autodesk InfoWorks ICM."
+        },
+        {
+          "name": "StormCAD",
+          "url": "https://www.bentley.com/software/openflows-stormcad/",
+          "description": "Design and analysis of stormwater conveyance systems."
+        },
+        {
+          "name": "PCSWMM",
+          "url": "https://www.pcswmm.com/",
+          "description": "Urban runoff, combined sewer overflow, and sanitary sewer modeling."
+        },
+        {
+          "name": "Enviro.Space Air Dispersion Modeling Software",
+          "url": "https://www.enviro.space/products/air-dispersion-modeling-software",
+          "description": "Air pollutant dispersion modeling."
+        },
+        {
+          "name": "AQUATOX",
+          "url": "https://www.epa.gov/water-research/aquatox",
+          "description": "EPA model for ecological effects of pollutants and other stressors on aquatic ecosystems."
+        },
+        {
+          "name": "SWMM5",
+          "url": "https://www.epa.gov/water-research/storm-water-management-model-swmm",
+          "description": "Stormwater management model."
+        },
+        {
+          "name": "SRH-2D",
+          "url": "https://www.usbr.gov/tsc/techreferences/computer%20software/models/srh2d/index.html",
+          "description": "Two-dimensional Sedimentation and River Hydraulics solver."
+        },
+        {
+          "name": "AERMOD",
+          "url": "https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models",
+          "description": "EPA-preferred steady-state plume model for air dispersion."
+        },
+        {
+          "name": "OpenLCA",
+          "url": "https://www.openlca.org/",
+          "description": "Open-source life cycle assessment software."
+        },
+        {
+          "name": "SimaPro",
+          "url": "https://simapro.com/",
+          "description": "Life cycle assessment software for sustainability and environmental product analysis."
+        },
+        {
+          "name": "Sphera LCA for Experts",
+          "url": "https://sphera.com/product-sustainability-software/lca-software/",
+          "description": "Life cycle assessment and product sustainability software."
+        },
+        {
+          "name": "Brightway",
+          "url": "https://docs.brightway.dev/en/latest/",
+          "description": "Open-source Python framework for life-cycle inventory and environmental impact assessment using large datasets."
+        }
+      ]
+    },
+    {
+      "title": "Digital Twins, BIM, and Construction Tech",
+      "items": [
+        {
+          "name": "Bentley iTwin Platform",
+          "url": "https://www.bentley.com/software/itwin-platform/",
+          "description": "Infrastructure digital twin platform for engineering data, visualization, analytics, and operations."
+        },
+        {
+          "name": "Autodesk Forma",
+          "url": "https://www.autodesk.com/products/forma/overview",
+          "description": "Cloud-based early-stage planning and design analysis for AEC."
+        },
+        {
+          "name": "Autodesk Tandem",
+          "url": "https://intandem.autodesk.com/",
+          "description": "Digital twin platform for facility handover and operations."
+        },
+        {
+          "name": "Esri ArcGIS GeoBIM",
+          "url": "https://www.esri.com/en-us/arcgis/products/arcgis-geobim/overview",
+          "description": "Connects GIS and BIM data for project and asset context."
+        },
+        {
+          "name": "Speckle",
+          "url": "https://speckle.systems/",
+          "description": "Open-source data platform for AEC interoperability and automation."
+        },
+        {
+          "name": "Bonsai",
+          "url": "https://bonsaibim.org/",
+          "description": "Open-source BIM authoring built around IFC workflows."
+        },
+        {
+          "name": "IfcOpenShell",
+          "url": "https://ifcopenshell.org/",
+          "description": "Open-source IFC toolkit for BIM automation and interoperability."
+        },
+        {
+          "name": "BlenderBIM Add-on",
+          "url": "https://blenderbim.org/",
+          "description": "Open-source BIM authoring add-on for Blender, now part of the Bonsai ecosystem."
+        },
+        {
+          "name": "Solibri",
+          "url": "https://www.solibri.com/",
+          "description": "Model checking, coordination, and information takeoff for BIM."
+        },
+        {
+          "name": "Navisworks",
+          "url": "https://www.autodesk.com/products/navisworks/overview",
+          "description": "Model coordination, clash detection, and 4D review."
+        },
+        {
+          "name": "Revizto",
+          "url": "https://revizto.com/",
+          "description": "BIM coordination, issue tracking, and model-based collaboration."
+        },
+        {
+          "name": "OpenSpace",
+          "url": "https://www.openspace.ai/",
+          "description": "360-degree construction capture and AI-powered field documentation."
+        },
+        {
+          "name": "Buildots",
+          "url": "https://buildots.com/",
+          "description": "AI-based construction progress tracking using site imagery and BIM."
+        },
+        {
+          "name": "DroneDeploy",
+          "url": "https://www.dronedeploy.com/",
+          "description": "Reality capture, drone mapping, and site documentation."
+        },
+        {
+          "name": "buildingSMART Data Dictionary",
+          "url": "https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/",
+          "description": "Free service for shared built-environment terms, classifications, properties, and machine-readable BIM definitions."
+        }
+      ]
+    },
+    {
+      "title": "Reality Capture and Surveying",
+      "items": [
+        {
+          "name": "Leica Cyclone 3DR",
+          "url": "https://leica-geosystems.com/products/laser-scanners/software/leica-cyclone/leica-cyclone-3dr",
+          "description": "Point cloud processing, mesh creation, and deliverables for laser scanning."
+        },
+        {
+          "name": "Leica Infinity",
+          "url": "https://leica-geosystems.com/products/gnss-systems/software/leica-infinity",
+          "description": "Survey data processing software."
+        },
+        {
+          "name": "Trimble Business Center",
+          "url": "https://geospatial.trimble.com/products-and-solutions/trimble-business-center",
+          "description": "Survey CAD, GNSS, scanning, photogrammetry, and construction data workflows."
+        },
+        {
+          "name": "Autodesk ReCap Pro",
+          "url": "https://www.autodesk.com/products/recap/overview",
+          "description": "Reality capture and point cloud processing."
+        },
+        {
+          "name": "RealityCapture",
+          "url": "https://www.capturingreality.com/",
+          "description": "Photogrammetry software for 3D reconstruction."
+        },
+        {
+          "name": "Agisoft Metashape",
+          "url": "https://www.agisoft.com/",
+          "description": "Photogrammetry software for processing imagery into point clouds, meshes, and orthomosaics."
+        },
+        {
+          "name": "Pix4Dmapper",
+          "url": "https://www.pix4d.com/product/pix4dmapper-photogrammetry-software/",
+          "description": "Photogrammetry and drone mapping software."
+        },
+        {
+          "name": "CloudCompare",
+          "url": "https://www.cloudcompare.org/",
+          "description": "Open-source point cloud and mesh processing software."
+        },
+        {
+          "name": "Potree",
+          "url": "https://potree.org/",
+          "description": "Web-based point cloud renderer."
+        },
+        {
+          "name": "OpenDroneMap",
+          "url": "https://opendronemap.org/odm/",
+          "description": "Open-source aerial imagery toolkit that produces orthophotos, elevation models, point clouds, and textured 3D models."
+        }
+      ]
+    },
+    {
+      "title": "Calculations",
+      "items": [
+        {
+          "name": "SMath Studio",
+          "url": "https://en.smath.com/view/SMathStudio/summary",
+          "description": "Free mathematical notebook program for engineering calculations."
+        },
+        {
+          "name": "Mathcad",
+          "url": "https://www.mathcad.com/en",
+          "description": "Engineering calculation worksheet software."
+        },
+        {
+          "name": "Blockpad",
+          "url": "https://blockpad.net/",
+          "description": "Dynamic calculation documents that work like a spreadsheet."
+        },
+        {
+          "name": "EngineeringPaper.xyz",
+          "url": "https://engineeringpaper.xyz",
+          "description": "Free and open-source browser-based engineering calculations."
+        },
+        {
+          "name": "MATLAB",
+          "url": "https://www.mathworks.com/products/matlab.html",
+          "description": "Numerical computing software by MathWorks."
+        },
+        {
+          "name": "GNU Octave",
+          "url": "https://octave.org/",
+          "description": "Free and open-source alternative to MATLAB."
+        },
+        {
+          "name": "R",
+          "url": "https://www.r-project.org/",
+          "description": "Programming language for statistical computing and data analysis."
+        },
+        {
+          "name": "Wolfram Mathematica",
+          "url": "https://www.wolfram.com/mathematica/",
+          "description": "Technical computing software."
+        },
+        {
+          "name": "SageMath",
+          "url": "https://www.sagemath.org/",
+          "description": "Free and open-source mathematical software system."
+        },
+        {
+          "name": "Maxima",
+          "url": "https://maxima.sourceforge.io/",
+          "description": "Free and open-source computer algebra system."
+        },
+        {
+          "name": "Scilab",
+          "url": "https://www.scilab.org/",
+          "description": "Free and open-source numerical computing software."
+        },
+        {
+          "name": "Julia",
+          "url": "https://julialang.org/",
+          "description": "High-level programming language for numerical and scientific computing."
+        },
+        {
+          "name": "TEDDS",
+          "url": "https://www.tekla.com/products/tekla-tedds",
+          "description": "Productivity tool for repetitive structural calculations."
+        },
+        {
+          "name": "SymPy",
+          "url": "https://docs.sympy.org/",
+          "description": "Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics."
+        }
+      ]
+    },
+    {
+      "title": "Web Calculators",
+      "items": [],
+      "sections": [
+        {
+          "title": "Structure Analysis",
+          "items": [
+            {
+              "name": "SkyCiv Engineering",
+              "url": "https://www.skyciv.com/structural-analysis-software/",
+              "description": "Cloud-based structural analysis software."
+            },
+            {
+              "name": "BeamGuru Beam Calculator",
+              "url": "https://beamguru.com/beam/",
+              "description": "Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams."
+            }
+          ]
+        },
+        {
+          "title": "Concrete and Construction",
+          "items": [
+            {
+              "name": "SlabCalc.co",
+              "url": "https://slabcalc.co",
+              "description": "Concrete calculator for slabs, driveways, patios, foundations, volume, and cost estimation."
+            },
+            {
+              "name": "Concrete Calculate",
+              "url": "https://concrete-calculate.com",
+              "description": "Concrete volume, bag count (40/60/80 lb), weight, and 2026 cost calculator for slabs, columns, steps, and curbs. Imperial and metric."
+            },
+            {
+              "name": "Concrete Calculator Hub",
+              "url": "https://concreteestimatorhub.com/",
+              "description": "Free concrete calculators and reference guides for concrete volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning."
+            },
+            {
+              "name": "Asphalt Calculate",
+              "url": "https://asphalt-calculate.com",
+              "description": "Asphalt tonnage, cost, and thickness calculator for driveways, parking lots, and paths. Supports rectangle, circle, triangle, and L-shaped areas."
+            },
+            {
+              "name": "RoofingCalculatorHQ",
+              "url": "https://roofingcalculatorhq.com",
+              "description": "Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports."
+            },
+            {
+              "name": "BuildRefs",
+              "url": "https://buildrefs.com",
+              "description": "Free construction calculators for concrete, framing, electrical (NEC), HVAC (Manual J), structural, and earthwork, plus steel section-property tables and code guides. Each tool cites the standard it implements; no login."
+            },
+            {
+              "name": "Concrete Network Calculator",
+              "url": "https://www.concretenetwork.com/concrete/howmuch/calculator.htm",
+              "description": "Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Drafting",
+      "items": [
+        {
+          "name": "AutoCAD",
+          "url": "https://www.autodesk.com/products/autocad/overview",
+          "description": "CAD software."
+        },
+        {
+          "name": "MicroStation",
+          "url": "https://www.bentley.com/software/microstation/",
+          "description": "CAD software for architecture, engineering, and construction."
+        },
+        {
+          "name": "Revit",
+          "url": "https://www.autodesk.com/products/revit/overview",
+          "description": "BIM software."
+        },
+        {
+          "name": "BricsCAD",
+          "url": "https://www.bricsys.com/bricscad/",
+          "description": "CAD software for AEC."
+        },
+        {
+          "name": "SketchUp",
+          "url": "https://www.sketchup.com/",
+          "description": "3D modeling software."
+        },
+        {
+          "name": "Civil 3D",
+          "url": "https://www.autodesk.com/products/civil-3d/overview",
+          "description": "Civil engineering design and documentation software."
+        },
+        {
+          "name": "InfraWorks",
+          "url": "https://www.autodesk.com/products/infraworks/overview",
+          "description": "Infrastructure design and engineering software."
+        },
+        {
+          "name": "AutoCAD Architecture",
+          "url": "https://www.autodesk.com/products/autocad/included-toolsets/autocad-architecture",
+          "description": "CAD software for architectural design."
+        },
+        {
+          "name": "ArchiCAD",
+          "url": "https://graphisoft.com/solutions/archicad",
+          "description": "BIM software for architects."
+        },
+        {
+          "name": "AutoCAD Map 3D",
+          "url": "https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d",
+          "description": "GIS and mapping software."
+        },
+        {
+          "name": "nanoCAD",
+          "url": "https://nanocad.com/",
+          "description": "CAD platform."
+        },
+        {
+          "name": "OpenRoads Designer",
+          "url": "https://www.bentley.com/software/openroads-designer/",
+          "description": "Civil roadway design software."
+        },
+        {
+          "name": "OpenRail Designer",
+          "url": "https://www.bentley.com/software/openrail-designer/",
+          "description": "Rail design software."
+        },
+        {
+          "name": "OpenBuildings Designer",
+          "url": "https://www.bentley.com/software/openbuildings-designer/",
+          "description": "BIM software for building design and documentation."
+        },
+        {
+          "name": "QCAD",
+          "url": "https://www.qcad.org/en/",
+          "description": "Open-source 2D CAD application for technical drawings, plans, details, schematics, and DXF/DWG workflows."
+        }
+      ]
+    },
+    {
+      "title": "3D Modelling",
+      "items": [
+        {
+          "name": "AutoCAD",
+          "url": "https://www.autodesk.com/products/autocad/overview",
+          "description": "CAD software."
+        },
+        {
+          "name": "Revit",
+          "url": "https://www.autodesk.com/products/revit/overview",
+          "description": "BIM software."
+        },
+        {
+          "name": "3ds Max",
+          "url": "https://www.autodesk.com/products/3ds-max/overview",
+          "description": "3D modeling, animation, and rendering software."
+        },
+        {
+          "name": "SketchUp",
+          "url": "https://www.sketchup.com/",
+          "description": "3D modeling software."
+        },
+        {
+          "name": "Blender",
+          "url": "https://www.blender.org/",
+          "description": "Open-source 3D creation software."
+        },
+        {
+          "name": "Rhino",
+          "url": "https://www.rhino3d.com/",
+          "description": "3D modeling software for architecture, engineering, and product design."
+        },
+        {
+          "name": "Civil 3D",
+          "url": "https://www.autodesk.com/products/civil-3d/overview",
+          "description": "Civil engineering design and documentation software."
+        },
+        {
+          "name": "InfraWorks",
+          "url": "https://www.autodesk.com/products/infraworks/overview",
+          "description": "Infrastructure design and engineering software."
+        },
+        {
+          "name": "ArchiCAD",
+          "url": "https://graphisoft.com/solutions/archicad",
+          "description": "BIM software for architects."
+        },
+        {
+          "name": "AutoCAD Map 3D",
+          "url": "https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d",
+          "description": "GIS and mapping software."
+        },
+        {
+          "name": "FreeCAD",
+          "url": "https://www.freecad.org/",
+          "description": "Open-source parametric 3D modeler for drafting, modeling, and engineering workflows."
+        },
+        {
+          "name": "BricsCAD",
+          "url": "https://www.bricsys.com/bricscad/",
+          "description": "CAD and BIM platform."
+        },
+        {
+          "name": "Rhino.Inside.Revit",
+          "url": "https://www.rhino3d.com/inside/revit/",
+          "description": "Rhino and Grasshopper inside Revit."
+        },
+        {
+          "name": "Grasshopper",
+          "url": "https://www.grasshopper3d.com/",
+          "description": "Visual programming environment for Rhino."
+        },
+        {
+          "name": "OpenSCAD",
+          "url": "https://openscad.org/about.html",
+          "description": "Open-source script-based solid 3D CAD modeler for precise, reproducible, and parameterized geometry."
+        }
+      ]
+    },
+    {
+      "title": "GIS",
+      "items": [
+        {
+          "name": "ArcGIS",
+          "url": "https://www.esri.com/en-us/arcgis/about-arcgis/overview",
+          "description": "GIS software by Esri."
+        },
+        {
+          "name": "QGIS",
+          "url": "https://qgis.org/",
+          "description": "Open-source GIS software."
+        },
+        {
+          "name": "SAGA",
+          "url": "https://saga-gis.sourceforge.io/",
+          "description": "GIS for editing and analyzing spatial data."
+        },
+        {
+          "name": "GRASS GIS",
+          "url": "https://grass.osgeo.org/",
+          "description": "GIS suite for geospatial data management, analysis, modeling, and visualization."
+        },
+        {
+          "name": "AutoCAD Map 3D",
+          "url": "https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d",
+          "description": "GIS and mapping software."
+        },
+        {
+          "name": "ArcGIS CityEngine",
+          "url": "https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview",
+          "description": "3D urban design and modeling software."
+        },
+        {
+          "name": "Global Mapper",
+          "url": "https://www.bluemarblegeo.com/global-mapper/",
+          "description": "GIS and remote sensing software."
+        },
+        {
+          "name": "GeoServer",
+          "url": "https://geoserver.org/",
+          "description": "Open-source server for sharing geospatial data."
+        },
+        {
+          "name": "ENVI",
+          "url": "https://www.nv5geospatialsoftware.com/Products/ENVI",
+          "description": "Remote sensing and image analysis software."
+        },
+        {
+          "name": "Geospatial Modelling Environment",
+          "url": "https://www.spatialecology.com/gme/",
+          "description": "GIS software for environmental and ecological modeling."
+        },
+        {
+          "name": "Cesium",
+          "url": "https://cesium.com/",
+          "description": "Platform for 3D geospatial visualization."
+        },
+        {
+          "name": "OpenCities Map",
+          "url": "https://www.bentley.com/software/opencities-map/",
+          "description": "Bentley geospatial mapping and infrastructure GIS."
+        },
+        {
+          "name": "PostGIS",
+          "url": "https://postgis.net/",
+          "description": "Spatial database extender for PostgreSQL."
+        },
+        {
+          "name": "Mapbox",
+          "url": "https://www.mapbox.com/",
+          "description": "Maps, geocoding, routing, and location APIs."
+        },
+        {
+          "name": "Google Earth Engine",
+          "url": "https://earthengine.google.com/",
+          "description": "Planetary-scale geospatial analysis platform."
+        },
+        {
+          "name": "Kepler.gl",
+          "url": "https://kepler.gl/",
+          "description": "Open-source geospatial analysis and visualization tool."
+        },
+        {
+          "name": "Felt",
+          "url": "https://www.felt.com/platform/web-gis",
+          "description": "Collaborative cloud GIS for spatial analysis, infrastructure mapping, dashboards, and stakeholder-facing web maps."
+        }
+      ]
+    },
+    {
+      "title": "Project Management",
+      "items": [
+        {
+          "name": "OpenConstructionERP",
+          "url": "https://github.com/datadrivenconstruction/OpenConstructionERP",
+          "description": "Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items."
+        },
+        {
+          "name": "AASHTOWare Project SiteManager",
+          "url": "https://www.aashtowareproject.org/smr",
+          "description": "Construction contract administration, tracking, reporting, and analysis."
+        },
+        {
+          "name": "Oracle Primavera P6",
+          "url": "https://www.oracle.com/industries/construction-engineering/primavera-p6/",
+          "description": "Enterprise project portfolio management and scheduling."
+        },
+        {
+          "name": "Procore",
+          "url": "https://www.procore.com/",
+          "description": "Cloud-based construction project management."
+        },
+        {
+          "name": "Microsoft Project",
+          "url": "https://www.microsoft.com/microsoft-365/project/project-management-software",
+          "description": "Project scheduling, resource allocation, and budget management."
+        },
+        {
+          "name": "Asana",
+          "url": "https://asana.com/",
+          "description": "Cloud-based collaboration and work management."
+        },
+        {
+          "name": "Trello",
+          "url": "https://trello.com/",
+          "description": "Visual project management using boards, lists, and cards."
+        },
+        {
+          "name": "Wrike",
+          "url": "https://www.wrike.com/",
+          "description": "Cloud project management with task tracking and workflows."
+        },
+        {
+          "name": "monday.com",
+          "url": "https://monday.com/",
+          "description": "Work management and project tracking platform."
+        },
+        {
+          "name": "Basecamp",
+          "url": "https://basecamp.com/",
+          "description": "Project management and collaboration."
+        },
+        {
+          "name": "Achievion",
+          "url": "https://achievion.com/",
+          "description": "Construction project management and software development services."
+        },
+        {
+          "name": "Smartsheet",
+          "url": "https://www.smartsheet.com/",
+          "description": "Work management, collaboration, and automation."
+        },
+        {
+          "name": "Podio",
+          "url": "https://www.podio.com/",
+          "description": "Work management and collaboration platform."
+        },
+        {
+          "name": "Autodesk Build",
+          "url": "https://construction.autodesk.com/products/autodesk-build/",
+          "description": "Construction management platform within Autodesk Construction Cloud."
+        },
+        {
+          "name": "Buildertrend",
+          "url": "https://www.buildertrend.com/",
+          "description": "Residential construction management software."
+        },
+        {
+          "name": "Bluebeam Revu",
+          "url": "https://www.bluebeam.com/revu/",
+          "description": "Document management, markup, and collaboration."
+        },
+        {
+          "name": "Fieldwire",
+          "url": "https://www.fieldwire.com/",
+          "description": "Construction task, plan, punch list, and field coordination software."
+        },
+        {
+          "name": "PlanGrid",
+          "url": "https://construction.autodesk.com/products/autodesk-build/",
+          "description": "Field collaboration product now part of Autodesk Build."
+        },
+        {
+          "name": "OpenProject BIM",
+          "url": "https://www.openproject.org/bim-project-management/",
+          "description": "Open-source construction project management with scheduling, cost tracking, IFC viewing, and BCF issue workflows."
+        }
+      ]
+    },
+    {
+      "title": "Spreadsheet",
+      "items": [
+        {
+          "name": "Microsoft Excel",
+          "url": "https://www.microsoft.com/microsoft-365/excel",
+          "description": "Spreadsheet software by Microsoft."
+        },
+        {
+          "name": "Google Sheets",
+          "url": "https://www.google.com/sheets/about/",
+          "description": "Online spreadsheet software by Google."
+        },
+        {
+          "name": "LibreOffice Calc",
+          "url": "https://www.libreoffice.org/discover/calc/",
+          "description": "Free and open-source spreadsheet software."
+        },
+        {
+          "name": "Apple Numbers",
+          "url": "https://www.apple.com/numbers/",
+          "description": "Spreadsheet software by Apple."
+        },
+        {
+          "name": "WPS Spreadsheets",
+          "url": "https://www.wps.com/office/spreadsheets/",
+          "description": "Spreadsheet software by WPS Office."
+        },
+        {
+          "name": "Airtable",
+          "url": "https://www.airtable.com/",
+          "description": "Database-style spreadsheet and app platform."
+        },
+        {
+          "name": "Smartsheet",
+          "url": "https://www.smartsheet.com/",
+          "description": "Online work management spreadsheet platform."
+        },
+        {
+          "name": "Zoho Sheet",
+          "url": "https://www.zoho.com/sheet/",
+          "description": "Online spreadsheet software."
+        },
+        {
+          "name": "Asana Tables",
+          "url": "https://asana.com/",
+          "description": "Table views and project tracking inside Asana."
+        },
+        {
+          "name": "Quip Spreadsheets",
+          "url": "https://quip.com/",
+          "description": "Collaborative spreadsheets inside Salesforce Quip."
+        },
+        {
+          "name": "Gnumeric",
+          "url": "https://www.gnumeric.org/",
+          "description": "Open-source spreadsheet focused on responsive handling of large workbooks and accurate numerical calculations."
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning and AI",
+      "items": [
+        {
+          "name": "TensorFlow",
+          "url": "https://www.tensorflow.org/",
+          "description": "Machine learning library developed by Google."
+        },
+        {
+          "name": "PyTorch",
+          "url": "https://pytorch.org/",
+          "description": "Machine learning library."
+        },
+        {
+          "name": "scikit-learn",
+          "url": "https://scikit-learn.org/",
+          "description": "Machine learning library for Python."
+        },
+        {
+          "name": "R",
+          "url": "https://www.r-project.org/",
+          "description": "Statistical computing and data analysis."
+        },
+        {
+          "name": "Weka",
+          "url": "https://www.cs.waikato.ac.nz/ml/weka/",
+          "description": "Machine learning software for data mining and analysis."
+        },
+        {
+          "name": "KNIME",
+          "url": "https://www.knime.com/",
+          "description": "Analytics and machine learning platform."
+        },
+        {
+          "name": "Orange",
+          "url": "https://orangedatamining.com/",
+          "description": "Data mining and predictive modeling."
+        },
+        {
+          "name": "RapidMiner",
+          "url": "https://altair.com/rapidminer",
+          "description": "Data preparation, machine learning, and predictive analytics."
+        },
+        {
+          "name": "XGBoost",
+          "url": "https://xgboost.ai/",
+          "description": "Gradient boosting library."
+        },
+        {
+          "name": "LightGBM",
+          "url": "https://lightgbm.readthedocs.io/",
+          "description": "Gradient boosting library."
+        },
+        {
+          "name": "Ultralytics YOLO",
+          "url": "https://www.ultralytics.com/",
+          "description": "Computer vision models often used for defect detection, traffic analysis, and site imagery workflows."
+        },
+        {
+          "name": "Segment Anything",
+          "url": "https://segment-anything.com/",
+          "description": "Foundation model for image segmentation workflows."
+        },
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/",
+          "description": "Model, dataset, and machine learning application hub."
+        },
+        {
+          "name": "LangChain",
+          "url": "https://www.langchain.com/",
+          "description": "Framework for building LLM applications and retrieval workflows."
+        },
+        {
+          "name": "LlamaIndex",
+          "url": "https://www.llamaindex.ai/",
+          "description": "Data framework for LLM applications over documents and structured data."
+        },
+        {
+          "name": "PyTorch Geometric",
+          "url": "https://pytorch-geometric.readthedocs.io/en/stable/",
+          "description": "Graph neural network library for infrastructure networks, meshes, point clouds, and other structured engineering data."
+        }
+      ]
+    },
+    {
+      "title": "Programming Resources and Libraries",
+      "items": [],
+      "sections": [
+        {
+          "title": "Python",
+          "items": [
+            {
+              "name": "Python for Civil and Structural Engineers",
+              "url": "https://github.com/DrSokac/Python-for-civil-and-structural-engineers",
+              "description": "Tutorials and examples for applying Python to civil and structural engineering problems."
+            },
+            {
+              "name": "NumPy",
+              "url": "https://numpy.org/",
+              "description": "Numerical arrays, vector operations, and matrix manipulation."
+            },
+            {
+              "name": "SciPy",
+              "url": "https://scipy.org/",
+              "description": "Scientific computing, optimization, sparse matrices, and numerical methods."
+            },
+            {
+              "name": "Pandas",
+              "url": "https://pandas.pydata.org/",
+              "description": "Tabular data analysis for reports, inspections, monitoring data, and spreadsheets."
+            },
+            {
+              "name": "Matplotlib",
+              "url": "https://matplotlib.org/",
+              "description": "Plotting for engineering calculations, reports, and design checks."
+            },
+            {
+              "name": "SfePy",
+              "url": "https://sfepy.org/doc-devel/index.html",
+              "description": "Finite element analysis in Python."
+            },
+            {
+              "name": "OpenSeesPy",
+              "url": "https://openseespydoc.readthedocs.io/",
+              "description": "Python interface for OpenSees structural and geotechnical simulation."
+            },
+            {
+              "name": "sectionproperties",
+              "url": "https://sectionproperties.readthedocs.io/",
+              "description": "Cross-section analysis for structural engineering."
+            },
+            {
+              "name": "GeoPandas",
+              "url": "https://geopandas.org/",
+              "description": "Geospatial data analysis using pandas-like workflows."
+            },
+            {
+              "name": "Shapely",
+              "url": "https://shapely.readthedocs.io/",
+              "description": "Planar geometry operations for GIS, CAD, and spatial workflows."
+            },
+            {
+              "name": "Rasterio",
+              "url": "https://rasterio.readthedocs.io/",
+              "description": "Reading, writing, and processing raster datasets."
+            },
+            {
+              "name": "PySAL",
+              "url": "https://pysal.org/",
+              "description": "Spatial analysis and geostatistics."
+            },
+            {
+              "name": "PyNite",
+              "url": "https://pynite.readthedocs.io/en/stable/",
+              "description": "Python finite element library for beams, frames, plates, load combinations, stability, and P-Delta analysis."
+            }
+          ]
+        },
+        {
+          "title": "JavaScript",
+          "items": [
+            {
+              "name": "MDN JavaScript Guide",
+              "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+              "description": "Core JavaScript reference and learning material."
+            },
+            {
+              "name": "Leaflet",
+              "url": "https://leafletjs.com/",
+              "description": "Interactive web maps for GIS and infrastructure dashboards."
+            },
+            {
+              "name": "OpenLayers",
+              "url": "https://openlayers.org/",
+              "description": "Web mapping library for displaying and editing geospatial data."
+            },
+            {
+              "name": "D3.js",
+              "url": "https://d3js.org/",
+              "description": "Data visualization for engineering and monitoring dashboards."
+            },
+            {
+              "name": "Three.js",
+              "url": "https://threejs.org/",
+              "description": "3D graphics in the browser for geometry, visualization, and digital twins."
+            },
+            {
+              "name": "CesiumJS",
+              "url": "https://cesium.com/platform/cesiumjs/",
+              "description": "3D geospatial visualization for terrain, cities, and infrastructure."
+            },
+            {
+              "name": "Turf.js",
+              "url": "https://turfjs.org/",
+              "description": "Browser and Node.js geospatial analysis."
+            },
+            {
+              "name": "deck.gl",
+              "url": "https://deck.gl/",
+              "description": "Large-scale geospatial visualization."
+            },
+            {
+              "name": "Plotly.js",
+              "url": "https://plotly.com/javascript/",
+              "description": "Interactive charts for calculations and engineering reports."
+            },
+            {
+              "name": "geotiff.js",
+              "url": "https://geotiffjs.github.io/geotiff.js/",
+              "description": "JavaScript library for reading GeoTIFF metadata and raster data in browsers and Node.js applications."
+            }
+          ]
+        },
+        {
+          "title": "Julia",
+          "items": [
+            {
+              "name": "Julia Documentation",
+              "url": "https://docs.julialang.org/",
+              "description": "Official language documentation for scientific and technical computing."
+            },
+            {
+              "name": "JuliaGeo",
+              "url": "https://juliageo.org/",
+              "description": "Geospatial packages for Julia."
+            },
+            {
+              "name": "GeoDataFrames.jl",
+              "url": "https://github.com/evetion/GeoDataFrames.jl",
+              "description": "Read and write vector geospatial data."
+            },
+            {
+              "name": "ArchGDAL.jl",
+              "url": "https://github.com/yeesian/ArchGDAL.jl",
+              "description": "GDAL bindings for raster and vector geospatial workflows."
+            },
+            {
+              "name": "JuMP",
+              "url": "https://jump.dev/JuMP.jl/stable/",
+              "description": "Mathematical optimization for operations research, network design, and planning problems."
+            },
+            {
+              "name": "DifferentialEquations.jl",
+              "url": "https://diffeq.sciml.ai/stable/",
+              "description": "Numerical solvers for differential equations and simulation models."
+            },
+            {
+              "name": "Ferrite.jl",
+              "url": "https://ferrite-fem.github.io/Ferrite.jl/stable/",
+              "description": "General and performant Julia finite element toolbox for implementing custom engineering analyses."
+            }
+          ]
+        },
+        {
+          "title": "R",
+          "items": [
+            {
+              "name": "R for Data Science",
+              "url": "https://r4ds.hadley.nz/",
+              "description": "Practical guide for data import, cleaning, analysis, and visualization."
+            },
+            {
+              "name": "sf",
+              "url": "https://r-spatial.github.io/sf/",
+              "description": "Simple features for geospatial vector data."
+            },
+            {
+              "name": "terra",
+              "url": "https://rspatial.github.io/terra/",
+              "description": "Raster and vector spatial data analysis."
+            },
+            {
+              "name": "sp",
+              "url": "https://cran.r-project.org/package=sp",
+              "description": "Classes and methods for spatial data."
+            },
+            {
+              "name": "ggplot2",
+              "url": "https://ggplot2.tidyverse.org/",
+              "description": "Visualization for reports, monitoring, and exploratory analysis."
+            },
+            {
+              "name": "hydroGOF",
+              "url": "https://cran.r-project.org/package=hydroGOF",
+              "description": "Goodness-of-fit functions for hydrological model evaluation."
+            },
+            {
+              "name": "tidyhydat",
+              "url": "https://docs.ropensci.org/tidyhydat/articles/tidyhydat_an_introduction.html",
+              "description": "R interface for Environment and Climate Change Canada hydrometric data and reproducible water-data analysis."
+            }
+          ]
+        },
+        {
+          "title": "C# and .NET",
+          "items": [
+            {
+              "name": "Microsoft C# Documentation",
+              "url": "https://learn.microsoft.com/en-us/dotnet/csharp/",
+              "description": "Official C# language documentation."
+            },
+            {
+              "name": "NetTopologySuite",
+              "url": "https://nettopologysuite.github.io/NetTopologySuite/",
+              "description": "Geometry and spatial operations for .NET."
+            },
+            {
+              "name": "ProjNet",
+              "url": "https://github.com/NetTopologySuite/ProjNet4GeoAPI",
+              "description": "Coordinate system and projection transformations."
+            },
+            {
+              "name": "SharpMap",
+              "url": "https://github.com/SharpMap/SharpMap",
+              "description": "Mapping library for .NET applications."
+            },
+            {
+              "name": "DotSpatial",
+              "url": "https://github.com/DotSpatial/DotSpatial",
+              "description": "GIS library and desktop mapping components."
+            },
+            {
+              "name": "GeoJSON.Net",
+              "url": "https://github.com/GeoJSON-Net/GeoJSON.Net",
+              "description": "GeoJSON types and serialization for .NET."
+            },
+            {
+              "name": "SharpKml",
+              "url": "https://github.com/samcragg/sharpkml",
+              "description": "KML processing for geospatial data exchange."
+            },
+            {
+              "name": "xBIM Toolkit",
+              "url": "https://docs.xbim.net/",
+              "description": "Open-source .NET toolkit for reading, creating, validating, querying, and visualizing IFC building models."
+            }
+          ]
+        },
+        {
+          "title": "Rust",
+          "items": [
+            {
+              "name": "The Rust Book",
+              "url": "https://doc.rust-lang.org/book/",
+              "description": "Official Rust learning resource."
+            },
+            {
+              "name": "nalgebra",
+              "url": "https://nalgebra.org/",
+              "description": "Linear algebra for engineering and scientific computing."
+            },
+            {
+              "name": "geo",
+              "url": "https://github.com/georust/geo",
+              "description": "Geospatial primitives, algorithms, and geometry operations."
+            },
+            {
+              "name": "geojson",
+              "url": "https://github.com/georust/geojson",
+              "description": "Read and write GeoJSON data."
+            },
+            {
+              "name": "proj",
+              "url": "https://github.com/georust/proj",
+              "description": "Coordinate projection bindings for Rust."
+            },
+            {
+              "name": "gdal",
+              "url": "https://github.com/georust/gdal",
+              "description": "GDAL bindings for geospatial raster and vector data."
+            },
+            {
+              "name": "polars",
+              "url": "https://pola.rs/",
+              "description": "Fast DataFrame library for data processing and analysis."
+            },
+            {
+              "name": "geoarrow-rs",
+              "url": "https://geoarrow.org/geoarrow-rs/",
+              "description": "Rust implementation of GeoArrow for efficient geospatial vector storage, interchange, and spatial processing."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
