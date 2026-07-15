@@ -1,3 +1,4 @@
+<!-- This file is generated. Edit data/resources.json and run `python generate.py`. -->
 # Awesome Civil Engineering
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -19,6 +20,8 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Reality Capture and Surveying](#reality-capture-and-surveying)
 - [Calculations](#calculations)
 - [Web Calculators](#web-calculators)
+  - [Structure Analysis](#structure-analysis)
+  - [Concrete and Construction](#concrete-and-construction)
 - [Drafting](#drafting)
 - [3D Modelling](#3d-modelling)
 - [GIS](#gis)
@@ -50,6 +53,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [CoConstruct](https://www.buildertrend.com/coconstruct/) - Residential construction management product now part of Buildertrend.
 - [Autodesk Construction Cloud](https://construction.autodesk.com/) - Cloud platform for design collaboration, model coordination, build workflows, and operations handover.
 - [Trimble Connect](https://connect.trimble.com/) - Common data environment for BIM and construction collaboration.
+- [Typst](https://typst.app/docs/) - Open-source markup-based typesetting system for fast, reproducible technical reports with equations, references, and templates.
 
 ## Water Resources and Drainage
 
@@ -71,6 +75,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [OpenFlows SewerGEMS](https://www.bentley.com/software/openflows-sewergems/) - Sanitary and combined sewer modeling.
 - [OpenFlows Flood](https://www.bentley.com/software/openflows-flood/) - Flood modeling for coastal, riverine, and urban systems.
 - [Flood Modeller](https://www.floodmodeller.com/) - 1D/2D hydraulic modeling for rivers, floodplains, and drainage.
+- [MODFLOW 6](https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs) - USGS open-source modular hydrologic model for groundwater flow and groundwater/surface-water interactions.
 
 ## Structural Analysis and Design Software
 
@@ -91,6 +96,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [SOFiSTiK](https://www.sofistik.com/) - Analysis, design, and BIM-integrated workflows for buildings, bridges, and infrastructure.
 - [IDEA StatiCa](https://www.ideastatica.com/) - Steel, concrete, and connection design and code checking.
 - [StruSoft FEM-Design](https://strusoft.com/software/fem-design/) - 3D finite element structural analysis and design.
+- [CalculiX](https://www.calculix.de/) - Free finite element package for linear and nonlinear structural, dynamic, and thermal analysis with Abaqus-compatible input.
 
 ## Structural Simulation Software
 
@@ -106,6 +112,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [RAM Structural System](https://www.bentley.com/software/ram-structural-system/) - Building analysis and design software.
 - [ArchCalc](http://www.archcalc.com/) - Online structural analysis calculator for architects, engineers, and construction professionals.
 - [OpenSees](https://opensees.berkeley.edu/) - Open-source framework for nonlinear structural and geotechnical simulation.
+- [Code_Aster](https://code-aster.org/) - Open-source finite element solver for structural mechanics, nonlinear analysis, thermomechanics, and coupled problems.
 
 ## Geotechnical Engineering
 
@@ -125,6 +132,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Settle3](https://www.rocscience.com/software/settle3) - 3D settlement and consolidation analysis.
 - [RS2](https://www.rocscience.com/software/rs2) - 2D finite element analysis for excavation, slope, and support systems.
 - [RS3](https://www.rocscience.com/software/rs3) - 3D finite element analysis for geotechnical engineering.
+- [OpenGeoSys](https://www.opengeosys.org/stable/) - Open-source multiphysics simulator for thermo-hydro-mechanical-chemical processes in porous and fractured media.
 
 ## Transportation Engineering
 
@@ -148,6 +156,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [MATSim](https://www.matsim.org/) - Open-source agent-based transport simulation framework.
 - [OpenTripPlanner](https://www.opentripplanner.org/) - Open-source multimodal trip planning and network analysis.
 - [OSMnx](https://osmnx.readthedocs.io/) - Python package for downloading, modeling, analyzing, and visualizing street networks from OpenStreetMap.
+- [CityFlow](https://cityflow-project.github.io/) - Open-source large-scale urban traffic simulator with a Python interface for traffic control and transportation research.
 
 ## Environmental Engineering
 
@@ -162,6 +171,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [OpenLCA](https://www.openlca.org/) - Open-source life cycle assessment software.
 - [SimaPro](https://simapro.com/) - Life cycle assessment software for sustainability and environmental product analysis.
 - [Sphera LCA for Experts](https://sphera.com/product-sustainability-software/lca-software/) - Life cycle assessment and product sustainability software.
+- [Brightway](https://docs.brightway.dev/en/latest/) - Open-source Python framework for life-cycle inventory and environmental impact assessment using large datasets.
 
 ## Digital Twins, BIM, and Construction Tech
 
@@ -179,6 +189,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [OpenSpace](https://www.openspace.ai/) - 360-degree construction capture and AI-powered field documentation.
 - [Buildots](https://buildots.com/) - AI-based construction progress tracking using site imagery and BIM.
 - [DroneDeploy](https://www.dronedeploy.com/) - Reality capture, drone mapping, and site documentation.
+- [buildingSMART Data Dictionary](https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/) - Free service for shared built-environment terms, classifications, properties, and machine-readable BIM definitions.
 
 ## Reality Capture and Surveying
 
@@ -191,6 +202,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Pix4Dmapper](https://www.pix4d.com/product/pix4dmapper-photogrammetry-software/) - Photogrammetry and drone mapping software.
 - [CloudCompare](https://www.cloudcompare.org/) - Open-source point cloud and mesh processing software.
 - [Potree](https://potree.org/) - Web-based point cloud renderer.
+- [OpenDroneMap](https://opendronemap.org/odm/) - Open-source aerial imagery toolkit that produces orthophotos, elevation models, point clouds, and textured 3D models.
 
 ## Calculations
 
@@ -207,12 +219,14 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Scilab](https://www.scilab.org/) - Free and open-source numerical computing software.
 - [Julia](https://julialang.org/) - High-level programming language for numerical and scientific computing.
 - [TEDDS](https://www.tekla.com/products/tekla-tedds) - Productivity tool for repetitive structural calculations.
+- [SymPy](https://docs.sympy.org/) - Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics.
 
 ## Web Calculators
 
 ### Structure Analysis
 
 - [SkyCiv Engineering](https://www.skyciv.com/structural-analysis-software/) - Cloud-based structural analysis software.
+- [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams.
 
 ### Concrete and Construction
 
@@ -222,6 +236,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Asphalt Calculate](https://asphalt-calculate.com) - Asphalt tonnage, cost, and thickness calculator for driveways, parking lots, and paths. Supports rectangle, circle, triangle, and L-shaped areas.
 - [RoofingCalculatorHQ](https://roofingcalculatorhq.com) - Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports.
 - [BuildRefs](https://buildrefs.com) - Free construction calculators for concrete, framing, electrical (NEC), HVAC (Manual J), structural, and earthwork, plus steel section-property tables and code guides. Each tool cites the standard it implements; no login.
+- [Concrete Network Calculator](https://www.concretenetwork.com/concrete/howmuch/calculator.htm) - Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags.
 
 ## Drafting
 
@@ -239,6 +254,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [OpenRoads Designer](https://www.bentley.com/software/openroads-designer/) - Civil roadway design software.
 - [OpenRail Designer](https://www.bentley.com/software/openrail-designer/) - Rail design software.
 - [OpenBuildings Designer](https://www.bentley.com/software/openbuildings-designer/) - BIM software for building design and documentation.
+- [QCAD](https://www.qcad.org/en/) - Open-source 2D CAD application for technical drawings, plans, details, schematics, and DXF/DWG workflows.
 
 ## 3D Modelling
 
@@ -256,6 +272,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [BricsCAD](https://www.bricsys.com/bricscad/) - CAD and BIM platform.
 - [Rhino.Inside.Revit](https://www.rhino3d.com/inside/revit/) - Rhino and Grasshopper inside Revit.
 - [Grasshopper](https://www.grasshopper3d.com/) - Visual programming environment for Rhino.
+- [OpenSCAD](https://openscad.org/about.html) - Open-source script-based solid 3D CAD modeler for precise, reproducible, and parameterized geometry.
 
 ## GIS
 
@@ -275,6 +292,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Mapbox](https://www.mapbox.com/) - Maps, geocoding, routing, and location APIs.
 - [Google Earth Engine](https://earthengine.google.com/) - Planetary-scale geospatial analysis platform.
 - [Kepler.gl](https://kepler.gl/) - Open-source geospatial analysis and visualization tool.
+- [Felt](https://www.felt.com/platform/web-gis) - Collaborative cloud GIS for spatial analysis, infrastructure mapping, dashboards, and stakeholder-facing web maps.
 
 ## Project Management
 
@@ -296,6 +314,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Bluebeam Revu](https://www.bluebeam.com/revu/) - Document management, markup, and collaboration.
 - [Fieldwire](https://www.fieldwire.com/) - Construction task, plan, punch list, and field coordination software.
 - [PlanGrid](https://construction.autodesk.com/products/autodesk-build/) - Field collaboration product now part of Autodesk Build.
+- [OpenProject BIM](https://www.openproject.org/bim-project-management/) - Open-source construction project management with scheduling, cost tracking, IFC viewing, and BCF issue workflows.
 
 ## Spreadsheet
 
@@ -309,6 +328,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Zoho Sheet](https://www.zoho.com/sheet/) - Online spreadsheet software.
 - [Asana Tables](https://asana.com/) - Table views and project tracking inside Asana.
 - [Quip Spreadsheets](https://quip.com/) - Collaborative spreadsheets inside Salesforce Quip.
+- [Gnumeric](https://www.gnumeric.org/) - Open-source spreadsheet focused on responsive handling of large workbooks and accurate numerical calculations.
 
 ## Machine Learning and AI
 
@@ -327,10 +347,12 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Hugging Face](https://huggingface.co/) - Model, dataset, and machine learning application hub.
 - [LangChain](https://www.langchain.com/) - Framework for building LLM applications and retrieval workflows.
 - [LlamaIndex](https://www.llamaindex.ai/) - Data framework for LLM applications over documents and structured data.
+- [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/stable/) - Graph neural network library for infrastructure networks, meshes, point clouds, and other structured engineering data.
 
 ## Programming Resources and Libraries
 
 ### Python
+
 - [Python for Civil and Structural Engineers](https://github.com/DrSokac/Python-for-civil-and-structural-engineers) - Tutorials and examples for applying Python to civil and structural engineering problems.
 - [NumPy](https://numpy.org/) - Numerical arrays, vector operations, and matrix manipulation.
 - [SciPy](https://scipy.org/) - Scientific computing, optimization, sparse matrices, and numerical methods.
@@ -343,8 +365,10 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Shapely](https://shapely.readthedocs.io/) - Planar geometry operations for GIS, CAD, and spatial workflows.
 - [Rasterio](https://rasterio.readthedocs.io/) - Reading, writing, and processing raster datasets.
 - [PySAL](https://pysal.org/) - Spatial analysis and geostatistics.
+- [PyNite](https://pynite.readthedocs.io/en/stable/) - Python finite element library for beams, frames, plates, load combinations, stability, and P-Delta analysis.
 
 ### JavaScript
+
 - [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Core JavaScript reference and learning material.
 - [Leaflet](https://leafletjs.com/) - Interactive web maps for GIS and infrastructure dashboards.
 - [OpenLayers](https://openlayers.org/) - Web mapping library for displaying and editing geospatial data.
@@ -354,24 +378,30 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Turf.js](https://turfjs.org/) - Browser and Node.js geospatial analysis.
 - [deck.gl](https://deck.gl/) - Large-scale geospatial visualization.
 - [Plotly.js](https://plotly.com/javascript/) - Interactive charts for calculations and engineering reports.
+- [geotiff.js](https://geotiffjs.github.io/geotiff.js/) - JavaScript library for reading GeoTIFF metadata and raster data in browsers and Node.js applications.
 
 ### Julia
+
 - [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
 - [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
 - [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) - Read and write vector geospatial data.
 - [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) - GDAL bindings for raster and vector geospatial workflows.
 - [JuMP](https://jump.dev/JuMP.jl/stable/) - Mathematical optimization for operations research, network design, and planning problems.
 - [DifferentialEquations.jl](https://diffeq.sciml.ai/stable/) - Numerical solvers for differential equations and simulation models.
+- [Ferrite.jl](https://ferrite-fem.github.io/Ferrite.jl/stable/) - General and performant Julia finite element toolbox for implementing custom engineering analyses.
 
 ### R
+
 - [R for Data Science](https://r4ds.hadley.nz/) - Practical guide for data import, cleaning, analysis, and visualization.
 - [sf](https://r-spatial.github.io/sf/) - Simple features for geospatial vector data.
 - [terra](https://rspatial.github.io/terra/) - Raster and vector spatial data analysis.
 - [sp](https://cran.r-project.org/package=sp) - Classes and methods for spatial data.
 - [ggplot2](https://ggplot2.tidyverse.org/) - Visualization for reports, monitoring, and exploratory analysis.
 - [hydroGOF](https://cran.r-project.org/package=hydroGOF) - Goodness-of-fit functions for hydrological model evaluation.
+- [tidyhydat](https://docs.ropensci.org/tidyhydat/articles/tidyhydat_an_introduction.html) - R interface for Environment and Climate Change Canada hydrometric data and reproducible water-data analysis.
 
 ### C# and .NET
+
 - [Microsoft C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/) - Official C# language documentation.
 - [NetTopologySuite](https://nettopologysuite.github.io/NetTopologySuite/) - Geometry and spatial operations for .NET.
 - [ProjNet](https://github.com/NetTopologySuite/ProjNet4GeoAPI) - Coordinate system and projection transformations.
@@ -379,8 +409,10 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [DotSpatial](https://github.com/DotSpatial/DotSpatial) - GIS library and desktop mapping components.
 - [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) - GeoJSON types and serialization for .NET.
 - [SharpKml](https://github.com/samcragg/sharpkml) - KML processing for geospatial data exchange.
+- [xBIM Toolkit](https://docs.xbim.net/) - Open-source .NET toolkit for reading, creating, validating, querying, and visualizing IFC building models.
 
 ### Rust
+
 - [The Rust Book](https://doc.rust-lang.org/book/) - Official Rust learning resource.
 - [nalgebra](https://nalgebra.org/) - Linear algebra for engineering and scientific computing.
 - [geo](https://github.com/georust/geo) - Geospatial primitives, algorithms, and geometry operations.
@@ -388,6 +420,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [proj](https://github.com/georust/proj) - Coordinate projection bindings for Rust.
 - [gdal](https://github.com/georust/gdal) - GDAL bindings for geospatial raster and vector data.
 - [polars](https://pola.rs/) - Fast DataFrame library for data processing and analysis.
+- [geoarrow-rs](https://geoarrow.org/geoarrow-rs/) - Rust implementation of GeoArrow for efficient geospatial vector storage, interchange, and spatial processing.
 
 <style>
 :root {
