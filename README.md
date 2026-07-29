@@ -209,7 +209,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - Free mathematical notebook program for engineering calculations.
 - [Mathcad](https://www.mathcad.com/en) - Engineering calculation worksheet software.
 - [Blockpad](https://blockpad.net/) - Dynamic calculation documents that work like a spreadsheet.
-- [EngineeringPaper.xyz](https://engineeringpaper.xyz) - Free and open-source browser-based engineering calculations.
+- [EngineeringPaper.xyz](https://engineeringpaper.xyz/) - Free and open-source browser-based engineering calculations.
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - Numerical computing software by MathWorks.
 - [GNU Octave](https://octave.org/) - Free and open-source alternative to MATLAB.
 - [R](https://www.r-project.org/) - Programming language for statistical computing and data analysis.
@@ -220,6 +220,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Julia](https://julialang.org/) - High-level programming language for numerical and scientific computing.
 - [TEDDS](https://www.tekla.com/products/tekla-tedds) - Productivity tool for repetitive structural calculations.
 - [SymPy](https://docs.sympy.org/) - Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics.
+- [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
 
 ## Web Calculators
 
@@ -230,12 +231,12 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ### Concrete and Construction
 
-- [SlabCalc.co](https://slabcalc.co) - Concrete calculator for slabs, driveways, patios, foundations, volume, and cost estimation.
-- [Concrete Calculate](https://concrete-calculate.com) - Concrete volume, bag count (40/60/80 lb), weight, and 2026 cost calculator for slabs, columns, steps, and curbs. Imperial and metric.
+- [SlabCalc.co](https://slabcalc.co/) - Concrete calculator for slabs, driveways, patios, foundations, volume, and cost estimation.
+- [Concrete Calculate](https://concrete-calculate.com/) - Concrete volume, bag count (40/60/80 lb), weight, and 2026 cost calculator for slabs, columns, steps, and curbs. Imperial and metric.
 - [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete calculators and reference guides for concrete volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning.
-- [Asphalt Calculate](https://asphalt-calculate.com) - Asphalt tonnage, cost, and thickness calculator for driveways, parking lots, and paths. Supports rectangle, circle, triangle, and L-shaped areas.
-- [RoofingCalculatorHQ](https://roofingcalculatorhq.com) - Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports.
-- [BuildRefs](https://buildrefs.com) - Free construction calculators for concrete, framing, electrical (NEC), HVAC (Manual J), structural, and earthwork, plus steel section-property tables and code guides. Each tool cites the standard it implements; no login.
+- [Asphalt Calculate](https://asphalt-calculate.com/) - Asphalt tonnage, cost, and thickness calculator for driveways, parking lots, and paths. Supports rectangle, circle, triangle, and L-shaped areas.
+- [RoofingCalculatorHQ](https://roofingcalculatorhq.com/) - Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports.
+- [BuildRefs](https://buildrefs.com/) - Free construction calculators for concrete, framing, electrical (NEC), HVAC (Manual J), structural, and earthwork, plus steel section-property tables and code guides. Each tool cites the standard it implements; no login.
 - [Concrete Network Calculator](https://www.concretenetwork.com/concrete/howmuch/calculator.htm) - Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags.
 
 ## Drafting

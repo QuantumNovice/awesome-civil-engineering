@@ -824,6 +824,11 @@
           "name": "SymPy",
           "url": "https://docs.sympy.org/",
           "description": "Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics."
+        },
+        {
+          "name": "Construction Takeoff Practice Plans",
+          "url": "https://github.com/krflol/takeoff-field-tools-practice-plans",
+          "description": "Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes."
         }
       ]
     },
