@@ -1459,7 +1459,12 @@
               "name": "PyNite",
               "url": "https://pynite.readthedocs.io/en/stable/",
               "description": "Python finite element library for beams, frames, plates, load combinations, stability, and P-Delta analysis."
-            }
+            },
+      {
+        "name": "GeoEq",
+        "url": "https://github.com/geoeq/geoeq",
+        "description": "Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis."
+      }
           ]
         },
         {

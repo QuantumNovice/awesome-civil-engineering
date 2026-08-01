@@ -367,6 +367,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [Rasterio](https://rasterio.readthedocs.io/) - Reading, writing, and processing raster datasets.
 - [PySAL](https://pysal.org/) - Spatial analysis and geostatistics.
 - [PyNite](https://pynite.readthedocs.io/en/stable/) - Python finite element library for beams, frames, plates, load combinations, stability, and P-Delta analysis.
+- [GeoEq](https://github.com/geoeq/geoeq) - Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
 
 ### JavaScript
 
