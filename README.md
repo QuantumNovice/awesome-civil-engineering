@@ -228,6 +228,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 - [SkyCiv Engineering](https://www.skyciv.com/structural-analysis-software/) - Cloud-based structural analysis software.
 - [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams.
+- [Xarpis 2D Frame & Beam FEA](https://www.xarpis.com/calculators/frame-fea-2d) - Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes.
 
 ### Concrete and Construction
 
