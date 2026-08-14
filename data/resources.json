@@ -888,7 +888,12 @@
               "name": "Concrete Network Calculator",
               "url": "https://www.concretenetwork.com/concrete/howmuch/calculator.htm",
               "description": "Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags."
-            }
+            },
+        {
+          "name": "Build Quantities",
+          "url": "https://buildquantities.com/calculators/",
+          "description": "Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations."
+        }
           ]
         }
       ]

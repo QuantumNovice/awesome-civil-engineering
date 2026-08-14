@@ -238,6 +238,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [RoofingCalculatorHQ](https://roofingcalculatorhq.com) - Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports.
 - [BuildRefs](https://buildrefs.com) - Free construction calculators for concrete, framing, electrical (NEC), HVAC (Manual J), structural, and earthwork, plus steel section-property tables and code guides. Each tool cites the standard it implements; no login.
 - [Concrete Network Calculator](https://www.concretenetwork.com/concrete/howmuch/calculator.htm) - Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags.
+- [Build Quantities](https://buildquantities.com/calculators/) - Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations.
 
 ## Drafting
 
