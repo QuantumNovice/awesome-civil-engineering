@@ -848,6 +848,11 @@
               "name": "BeamGuru Beam Calculator",
               "url": "https://beamguru.com/beam/",
               "description": "Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams."
+            },
+            {
+              "name": "Xarpis 2D Frame & Beam FEA",
+              "url": "https://www.xarpis.com/calculators/frame-fea-2d",
+              "description": "Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes."
             }
           ]
         },
