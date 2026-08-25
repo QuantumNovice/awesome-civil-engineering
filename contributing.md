@@ -31,6 +31,10 @@ HTTPS URL when one is available, and avoid promotional language.
 - https://github.com/nico1993nuscheler-cloud
 - https://github.com/roughed
 - https://github.com/xuhp630-bot
+- https://github.com/riponcm
+- https://github.com/BuildQuantities
+- https://github.com/keenan-fullbleed
+- https://github.com/Zeetox12345
 
 ### Reddit
 
