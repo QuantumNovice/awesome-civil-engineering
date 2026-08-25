@@ -834,7 +834,13 @@
     },
     {
       "title": "Web Calculators",
-      "items": [],
+      "items": [
+        {
+          "name": "UnitConv",
+          "url": "https://unitconv.online/",
+          "description": "Free browser-based converter for engineering units across length, area, volume, mass, pressure, energy, power, temperature, and related quantities; no login required."
+        }
+      ],
       "sections": [
         {
           "title": "Structure Analysis",
