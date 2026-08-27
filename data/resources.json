@@ -1083,6 +1083,11 @@
           "description": "Open-source GIS software."
         },
         {
+          "name": "AI Segmentation by TerraLab",
+          "url": "https://github.com/TerraLabAI/QGIS_AI-Segmentation",
+          "description": "QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons."
+        },
+        {
           "name": "SAGA",
           "url": "https://saga-gis.sourceforge.io/",
           "description": "GIS for editing and analyzing spatial data."

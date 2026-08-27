@@ -283,6 +283,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - GIS software by Esri.
 - [QGIS](https://qgis.org/) - Open-source GIS software.
+- [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) - QGIS plugin that segments buildings, trees and any object from satellite and drone imagery into vector polygons.
 - [SAGA](https://saga-gis.sourceforge.io/) - GIS for editing and analyzing spatial data.
 - [GRASS GIS](https://grass.osgeo.org/) - GIS suite for geospatial data management, analysis, modeling, and visualization.
 - [AutoCAD Map 3D](https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d) - GIS and mapping software.
