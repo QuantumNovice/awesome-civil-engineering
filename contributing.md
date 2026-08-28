@@ -18,12 +18,30 @@ not be edited directly.
 3. Run `python generate.py`.
 4. Run `python generate.py --check` before opening a pull request.
 
+The GitHub contributor list is maintained by
+[`sync_contributors.py`](sync_contributors.py). To refresh it locally, run
+`python sync_contributors.py`.
+
 Keep entries relevant to civil engineering practice, use the resource's canonical
 HTTPS URL when one is available, and avoid promotional language.
 
 ## Project contributors
 
-### GitHub
+### GitHub repository contributors
+
+This list is pulled automatically from the repository's GitHub commit history.
+Profiles already included in the manual acknowledgements are omitted here to
+avoid duplicates.
+
+<!-- github-contributors:start -->
+- [@QuantumNovice](https://github.com/QuantumNovice)
+- [@yvann-ba](https://github.com/yvann-ba)
+<!-- github-contributors:end -->
+
+### Additional GitHub acknowledgements
+
+These entries are maintained manually for contributions that may not be linked
+to a GitHub commit.
 
 - https://github.com/datadrivenconstruction
 - https://github.com/mgreminger
@@ -144,4 +162,3 @@ a{
     color:cyan; 
 }
 </style>
-
