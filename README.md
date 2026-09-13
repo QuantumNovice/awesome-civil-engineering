@@ -303,6 +303,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 ## Project Management
 
 - [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items.
+- [BidWright](https://github.com/braedonsaunders/bidwright) - Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes.
 - [AASHTOWare Project SiteManager](https://www.aashtowareproject.org/smr) - Construction contract administration, tracking, reporting, and analysis.
 - [Oracle Primavera P6](https://www.oracle.com/industries/construction-engineering/primavera-p6/) - Enterprise project portfolio management and scheduling.
 - [Procore](https://www.procore.com/) - Cloud-based construction project management.
