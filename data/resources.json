@@ -694,6 +694,11 @@
           "name": "buildingSMART Data Dictionary",
           "url": "https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/",
           "description": "Free service for shared built-environment terms, classifications, properties, and machine-readable BIM definitions."
+        },
+        {
+          "name": "House Planner",
+          "url": "https://github.com/egmalt/house-planner",
+          "description": "Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials."
         }
       ]
     },
