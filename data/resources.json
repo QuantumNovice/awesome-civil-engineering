@@ -699,6 +699,11 @@
           "name": "House Planner",
           "url": "https://github.com/egmalt/house-planner",
           "description": "Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials."
+        },
+        {
+          "name": "BIM Guard",
+          "url": "https://bim-guard.xyz/",
+          "description": "Open-source BIM compliance application: upload IFC models, check them against buildingSMART IDS rules and ISO 19650 naming, and generate reports with BCF issues."
         }
       ]
     },
