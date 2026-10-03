@@ -699,6 +699,11 @@
           "name": "House Planner",
           "url": "https://github.com/egmalt/house-planner",
           "description": "Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials."
+        },
+        {
+          "name": "Awesome AECO",
+          "url": "https://github.com/osama-ata/Awesome-AECO",
+          "description": "Curated list of open-source tools for architecture, engineering, construction and operations, covering BIM and IFC, CAD, Revit, simulation, digital twins, GIS and cost estimation."
         }
       ]
     },
