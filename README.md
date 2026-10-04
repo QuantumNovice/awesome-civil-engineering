@@ -226,6 +226,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 
 ## Web Calculators
 
+- [ComplyOnSite](https://complyonsite.com/tools) - Free browser tools for UK construction site teams, including HAVS and noise exposure calculators, a RAMS builder, waste notes, and EWC code lookup; no account required.
 - [UnitConv](https://unitconv.online/) - Free browser-based converter for engineering units across length, area, volume, mass, pressure, energy, power, temperature, and related quantities; no login required.
 
 ### Structure Analysis

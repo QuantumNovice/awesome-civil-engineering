@@ -846,6 +846,11 @@
       "title": "Web Calculators",
       "items": [
         {
+          "name": "ComplyOnSite",
+          "url": "https://complyonsite.com/tools",
+          "description": "Free browser tools for UK construction site teams, including HAVS and noise exposure calculators, a RAMS builder, waste notes, and EWC code lookup; no account required."
+        },
+        {
           "name": "UnitConv",
           "url": "https://unitconv.online/",
           "description": "Free browser-based converter for engineering units across length, area, volume, mass, pressure, energy, power, temperature, and related quantities; no login required."
