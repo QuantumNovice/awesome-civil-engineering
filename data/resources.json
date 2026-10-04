@@ -1569,7 +1569,7 @@
             {
               "name": "gdal",
               "url": "https://github.com/georust/gdal",
-              "description": "GDAL bindings for geospatial raster and vector data."
+              "description": "Rust bindings for the GDAL geospatial raster and vector library."
             },
             {
               "name": "polars",

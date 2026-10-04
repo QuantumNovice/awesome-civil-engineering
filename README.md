@@ -396,7 +396,7 @@
 - [geo](https://github.com/georust/geo) - Geospatial primitives, algorithms, and geometry operations.
 - [geojson](https://github.com/georust/geojson) - Read and write GeoJSON data.
 - [proj](https://github.com/georust/proj) - Coordinate projection bindings for Rust.
-- [gdal](https://github.com/georust/gdal) - GDAL bindings for geospatial raster and vector data.
+- [gdal](https://github.com/georust/gdal) - Rust bindings for the GDAL geospatial raster and vector library.
 - [polars](https://pola.rs/) - Fast DataFrame library for data processing and analysis.
 - [geoarrow-rs](https://geoarrow.org/geoarrow-rs/) - Rust implementation of GeoArrow for efficient geospatial vector storage, interchange, and spatial processing.
 
