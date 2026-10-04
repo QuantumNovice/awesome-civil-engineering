@@ -9,7 +9,14 @@ from pathlib import Path
 from typing import Annotated
 
 from jinja2 import Environment, FileSystemLoader, StrictUndefined
-from pydantic import BaseModel, ConfigDict, Field, HttpUrl, ValidationError
+from pydantic import (
+    BaseModel,
+    ConfigDict,
+    Field,
+    HttpUrl,
+    ValidationError,
+    model_validator,
+)
 
 
 ROOT = Path(__file__).resolve().parent
@@ -52,6 +59,29 @@ class Catalog(CatalogModel):
     title: str
     description: str
     sections: Annotated[tuple[Section, ...], Field(min_length=1)]
+
+    @model_validator(mode="after")
+    def check_unique_urls(self) -> Catalog:
+        """Reject resources linked more than once, as awesome-lint does."""
+        seen: dict[str, str] = {}
+        duplicates: list[str] = []
+
+        def visit(sections: tuple[Section, ...]) -> None:
+            for section in sections:
+                for item in section.items:
+                    key = re.sub(r"^https?://(www\.)?", "", str(item.url).lower()).rstrip("/")
+                    if key in seen:
+                        duplicates.append(
+                            f"{item.url} in {section.title!r} (already in {seen[key]!r})"
+                        )
+                    else:
+                        seen[key] = section.title
+                visit(section.sections)
+
+        visit(self.sections)
+        if duplicates:
+            raise ValueError("duplicate resource URLs: " + "; ".join(duplicates))
+        return self
 
 
 class ReadmeGenerator:
