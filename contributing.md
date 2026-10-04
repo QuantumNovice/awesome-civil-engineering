@@ -20,7 +20,8 @@ not be edited directly.
 
 The GitHub contributor list is maintained by
 [`sync_contributors.py`](sync_contributors.py). To refresh it locally, run
-`python sync_contributors.py`.
+`python sync_contributors.py`. The command also validates that the GitHub and
+Reddit acknowledgements do not contain duplicate accounts.
 
 Keep entries relevant to civil engineering practice, use the resource's canonical
 HTTPS URL when one is available, and avoid promotional language.

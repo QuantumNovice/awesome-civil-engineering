@@ -28,7 +28,11 @@ LOGIN_PATTERN = re.compile(
 PROFILE_PATTERN = re.compile(
     r"https://github\.com/"
     r"([A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?)"
-    r"(?=[\s)/?#]|$)",
+    r"/?(?=[\s)#?]|$)",
+    flags=re.IGNORECASE,
+)
+REDDIT_PATTERN = re.compile(
+    r"(?<![A-Za-z0-9_-])u/([A-Za-z0-9_-]+)(?=[\s),.;]|$)",
     flags=re.IGNORECASE,
 )
 
@@ -147,6 +151,51 @@ def render_contributors(contributors: tuple[Contributor, ...]) -> str:
     )
 
 
+def _duplicates(values: list[str]) -> tuple[str, ...]:
+    """Return each case-insensitive duplicate once."""
+    seen: dict[str, str] = {}
+    duplicates: dict[str, str] = {}
+    for value in values:
+        key = value.casefold()
+        if key in seen:
+            duplicates[key] = seen[key]
+        else:
+            seen[key] = value
+    return tuple(sorted(duplicates.values(), key=str.casefold))
+
+
+def validate_no_duplicate_contributors(document: str) -> None:
+    """Reject repeated GitHub or Reddit accounts in the contributor section."""
+    section_heading = "## Project contributors"
+    section_start = document.find(section_heading)
+    if section_start == -1:
+        raise ValueError("contributing.md is missing the project contributors section")
+
+    contributor_section = document[section_start:]
+    github_duplicates = _duplicates(
+        [
+            match.group(1)
+            for match in PROFILE_PATTERN.finditer(contributor_section)
+        ]
+    )
+    reddit_duplicates = _duplicates(
+        [
+            match.group(1)
+            for match in REDDIT_PATTERN.finditer(contributor_section)
+        ]
+    )
+
+    duplicate_labels = [
+        *(f"GitHub @{login}" for login in github_duplicates),
+        *(f"Reddit u/{username}" for username in reddit_duplicates),
+    ]
+    if duplicate_labels:
+        raise ValueError(
+            "duplicate contributor entries found: "
+            + ", ".join(duplicate_labels)
+        )
+
+
 def sync_document(
     document: str,
     contributors: tuple[Contributor, ...],
@@ -165,7 +214,9 @@ def sync_document(
     start, end = _marker_positions(document)
     before = document[: start + len(START_MARKER)].rstrip()
     after = document[end:].lstrip()
-    return f"{before}\n{body}\n{after}"
+    updated = f"{before}\n{body}\n{after}"
+    validate_no_duplicate_contributors(updated)
+    return updated
 
 
 def run(
@@ -185,20 +236,27 @@ def run(
         if current != updated:
             print(
                 f"{contributing_file.name} is out of date; run: "
-                f"python sync_contributors.py --repository {repository}",
+                "python sync_contributors.py",
                 file=sys.stderr,
             )
             return 1
-        print(f"{contributing_file.name} is up to date")
+        print(
+            f"{contributing_file.name} is up to date; "
+            "no duplicate contributors found"
+        )
         return 0
 
     if current == updated:
-        print(f"{contributing_file.name} is already up to date")
+        print(
+            f"{contributing_file.name} is already up to date; "
+            "no duplicate contributors found"
+        )
         return 0
 
     contributing_file.write_text(updated, encoding="utf-8", newline="\n")
     print(
-        f"Updated {contributing_file.name} from GitHub repository contributors"
+        f"Updated {contributing_file.name} from GitHub repository contributors; "
+        "no duplicate contributors found"
     )
     return 0
 
