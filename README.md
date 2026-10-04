@@ -1,6 +1,5 @@
 <!-- This file is generated. Edit data/resources.json and run `python generate.py`. -->
-# Awesome Civil Engineering
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Civil Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Designing, building, and maintaining infrastructure such as buildings, bridges, roads, and water systems.
 
