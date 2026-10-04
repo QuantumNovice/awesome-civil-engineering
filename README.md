@@ -1,7 +1,7 @@
 <!-- This file is generated. Edit data/resources.json and run `python generate.py`. -->
 # Awesome Civil Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Designing, building, and maintaining infrastructure such as buildings, bridges, roads, and water systems.
+> Engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including roads, bridges, buildings, dams, tunnels, pipelines, water supply, and sewerage systems.
 
 ## Contents
 
