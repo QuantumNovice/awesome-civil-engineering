@@ -1188,6 +1188,16 @@
           "description": "Open-source construction cost estimation and project management with BOQ, 4D/5D planning, CAD/BIM takeoff, and regional cost items."
         },
         {
+          "name": "BidWright",
+          "url": "https://github.com/braedonsaunders/bidwright",
+          "description": "Open-source construction estimating with AI intake, 2D/3D/PDF/BIM takeoff, pricing, and quotes."
+        },
+        {
+          "name": "BeaconHS",
+          "url": "https://github.com/braedonsaunders/beaconhs",
+          "description": "Open-source HSE platform for industrial construction: incidents, permits, inspections, and contractor safety."
+        },
+        {
           "name": "AASHTOWare Project SiteManager",
           "url": "https://www.aashtowareproject.org/smr",
           "description": "Construction contract administration, tracking, reporting, and analysis."
