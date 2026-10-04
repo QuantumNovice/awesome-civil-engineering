@@ -154,6 +154,16 @@
           "name": "MODFLOW 6",
           "url": "https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs",
           "description": "USGS open-source modular hydrologic model for groundwater flow and groundwater/surface-water interactions."
+        },
+        {
+          "name": "Canal Design",
+          "url": "https://github.com/QuantumNovice/Canal-Design",
+          "description": "Android app for designing smooth lined concrete canals."
+        },
+        {
+          "name": "Design Unlined Canal",
+          "url": "https://github.com/QuantumNovice/Design-Unlined-Canal",
+          "description": "Unlined canal design using Kennedy's silt theory."
         }
       ]
     },
@@ -249,6 +259,11 @@
           "name": "CalculiX",
           "url": "https://www.calculix.de/",
           "description": "Free finite element package for linear and nonlinear structural, dynamic, and thermal analysis with Abaqus-compatible input."
+        },
+        {
+          "name": "ACI One-Way Beam Design",
+          "url": "https://github.com/QuantumNovice/ACI-One-Way-Beam_Design",
+          "description": "Windows tool for designing reinforced concrete one-way beams to ACI provisions."
         }
       ]
     },
@@ -379,6 +394,11 @@
           "name": "OpenGeoSys",
           "url": "https://www.opengeosys.org/stable/",
           "description": "Open-source multiphysics simulator for thermo-hydro-mechanical-chemical processes in porous and fractured media."
+        },
+        {
+          "name": "Original Cam Clay Yield Surface",
+          "url": "https://quantumnovice.github.io/Original-Cam-Clay-Yield-Surface/",
+          "description": "Interactive browser visualization of the Original Cam Clay yield surface."
         }
       ]
     },
@@ -584,6 +604,11 @@
           "name": "BlenderBIM Add-on",
           "url": "https://blenderbim.org/",
           "description": "Open-source BIM authoring add-on for Blender, now part of the Bonsai ecosystem."
+        },
+        {
+          "name": "Awesome IFC Tools",
+          "url": "https://github.com/QuantumNovice/Awesome-IFC-tools",
+          "description": "Curated list of open-source tools and libraries for IFC workflows."
         },
         {
           "name": "Solibri",
@@ -941,6 +966,11 @@
           "name": "Rhino.Inside.Revit",
           "url": "https://www.rhino3d.com/inside/revit/",
           "description": "Rhino and Grasshopper inside Revit."
+        },
+        {
+          "name": "Fint-Revit",
+          "url": "https://github.com/QuantumNovice/fint-revit",
+          "description": "Desktop utility that detects installed Revit versions and manages their add-ins."
         },
         {
           "name": "Grasshopper",
@@ -1355,6 +1385,11 @@
               "name": "GeoEq",
               "url": "https://github.com/geoeq/geoeq",
               "description": "Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis."
+            },
+            {
+              "name": "ModifiedCamClay",
+              "url": "https://github.com/QuantumNovice/ModifiedCamClay",
+              "description": "Modified Cam Clay constitutive model for drained and undrained triaxial loading."
             }
           ]
         },

@@ -66,6 +66,8 @@
 - [OpenFlows Flood](https://www.bentley.com/software/openflows-flood/) - Flood modeling for coastal, riverine, and urban systems.
 - [Flood Modeller](https://www.floodmodeller.com/) - 1D/2D hydraulic modeling for rivers, floodplains, and drainage.
 - [MODFLOW 6](https://www.usgs.gov/mission-areas/water-resources/science/modflow-and-related-programs) - USGS open-source modular hydrologic model for groundwater flow and groundwater/surface-water interactions.
+- [Canal Design](https://github.com/QuantumNovice/Canal-Design) - Android app for designing smooth lined concrete canals.
+- [Design Unlined Canal](https://github.com/QuantumNovice/Design-Unlined-Canal) - Unlined canal design using Kennedy's silt theory.
 
 ## Structural Analysis and Design Software
 
@@ -87,6 +89,7 @@
 - [IDEA StatiCa](https://www.ideastatica.com/) - Steel, concrete, and connection design and code checking.
 - [StruSoft FEM-Design](https://strusoft.com/software/fem-design/) - 3D finite element structural analysis and design.
 - [CalculiX](https://www.calculix.de/) - Free finite element package for linear and nonlinear structural, dynamic, and thermal analysis with Abaqus-compatible input.
+- [ACI One-Way Beam Design](https://github.com/QuantumNovice/ACI-One-Way-Beam_Design) - Windows tool for designing reinforced concrete one-way beams to ACI provisions.
 
 ## Structural Simulation Software
 
@@ -117,6 +120,7 @@
 - [RS2](https://www.rocscience.com/software/rs2) - 2D finite element analysis for excavation, slope, and support systems.
 - [RS3](https://www.rocscience.com/software/rs3) - 3D finite element analysis for geotechnical engineering.
 - [OpenGeoSys](https://www.opengeosys.org/stable/) - Open-source multiphysics simulator for thermo-hydro-mechanical-chemical processes in porous and fractured media.
+- [Original Cam Clay Yield Surface](https://quantumnovice.github.io/Original-Cam-Clay-Yield-Surface/) - Interactive browser visualization of the Original Cam Clay yield surface.
 
 ## Transportation Engineering
 
@@ -164,6 +168,7 @@
 - [Bonsai](https://bonsaibim.org/) - Open-source BIM authoring built around IFC workflows.
 - [IfcOpenShell](https://ifcopenshell.org/) - Open-source IFC toolkit for BIM automation and interoperability.
 - [BlenderBIM Add-on](https://blenderbim.org/) - Open-source BIM authoring add-on for Blender, now part of the Bonsai ecosystem.
+- [Awesome IFC Tools](https://github.com/QuantumNovice/Awesome-IFC-tools) - Curated list of open-source tools and libraries for IFC workflows.
 - [Solibri](https://www.solibri.com/) - Model checking, coordination, and information takeoff for BIM.
 - [Navisworks](https://www.autodesk.com/products/navisworks/overview) - Model coordination, clash detection, and 4D review.
 - [Revizto](https://revizto.com/) - BIM coordination, issue tracking, and model-based collaboration.
@@ -249,6 +254,7 @@
 - [ArchiCAD](https://graphisoft.com/solutions/archicad) - BIM software for architects.
 - [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D modeler for drafting, modeling, and engineering workflows.
 - [Rhino.Inside.Revit](https://www.rhino3d.com/inside/revit/) - Rhino and Grasshopper inside Revit.
+- [Fint-Revit](https://github.com/QuantumNovice/fint-revit) - Desktop utility that detects installed Revit versions and manages their add-ins.
 - [Grasshopper](https://www.grasshopper3d.com/) - Visual programming environment for Rhino.
 - [OpenSCAD](https://openscad.org/about.html) - Open-source script-based solid 3D CAD modeler for precise, reproducible, and parameterized geometry.
 
@@ -343,6 +349,7 @@
 - [PySAL](https://pysal.org/) - Spatial analysis and geostatistics.
 - [PyNite](https://pynite.readthedocs.io/en/stable/) - Python finite element library for beams, frames, plates, load combinations, stability, and P-Delta analysis.
 - [GeoEq](https://github.com/geoeq/geoeq) - Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis.
+- [ModifiedCamClay](https://github.com/QuantumNovice/ModifiedCamClay) - Modified Cam Clay constitutive model for drained and undrained triaxial loading.
 
 ### JavaScript
 
