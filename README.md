@@ -2,12 +2,9 @@
 # Awesome Civil Engineering
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[List of Contributors](contributing.md) ||
-[Edit/Update the list](https://github.com/QuantumNovice/awesome-civil-engineering)
+> Software, libraries, calculators, and resources used in civil engineering practice.
 
-Software, libraries, calculators, and resources used in civil engineering practice.
-
-## Content
+## Contents
 
 - [Reporting and Documentation](#reporting-and-documentation)
 - [Water Resources and Drainage](#water-resources-and-drainage)
