@@ -21,44 +21,14 @@
           "description": "PDF editing software formerly associated with PhantomPDF."
         },
         {
-          "name": "Autodesk Revit",
-          "url": "https://www.autodesk.com/products/revit/overview",
-          "description": "BIM authoring for buildings and multidisciplinary coordination."
-        },
-        {
           "name": "Bluebeam Revu",
           "url": "https://www.bluebeam.com/revu/",
           "description": "PDF markup, review, and construction document collaboration."
         },
         {
-          "name": "Procore",
-          "url": "https://www.procore.com/",
-          "description": "Construction project management, drawings, RFIs, submittals, and field workflows."
-        },
-        {
-          "name": "PlanGrid",
-          "url": "https://construction.autodesk.com/products/autodesk-build/",
-          "description": "Autodesk field collaboration workflow now part of Autodesk Build."
-        },
-        {
           "name": "Newforma Project Center",
           "url": "https://www.newforma.com/project-information-management/",
           "description": "Project information management for AEC teams."
-        },
-        {
-          "name": "Microsoft Project",
-          "url": "https://www.microsoft.com/microsoft-365/project/project-management-software",
-          "description": "Project scheduling and portfolio management."
-        },
-        {
-          "name": "Asana",
-          "url": "https://asana.com/",
-          "description": "Team work management and task tracking."
-        },
-        {
-          "name": "Trello",
-          "url": "https://trello.com/",
-          "description": "Kanban-style task tracking by Atlassian."
         },
         {
           "name": "Autodesk BIM 360",
@@ -296,44 +266,14 @@
           "description": "Finite element analysis software."
         },
         {
-          "name": "Autodesk Robot Structural Analysis Professional",
-          "url": "https://www.autodesk.com/products/robot-structural-analysis/overview",
-          "description": "Structural analysis and simulation software."
-        },
-        {
           "name": "LS-DYNA",
           "url": "https://www.ansys.com/products/structures/ansys-ls-dyna",
           "description": "Dynamic and nonlinear simulation software."
         },
         {
-          "name": "ETABS",
-          "url": "https://www.csiamerica.com/products/etabs",
-          "description": "Building analysis and design software."
-        },
-        {
-          "name": "SAP2000",
-          "url": "https://www.csiamerica.com/products/sap2000",
-          "description": "Structural analysis and design software."
-        },
-        {
           "name": "midas",
           "url": "https://www.midasoft.com/",
           "description": "Structural analysis and design software."
-        },
-        {
-          "name": "SCIA Engineer",
-          "url": "https://www.scia.net/en/products/scia-engineer",
-          "description": "Structural analysis software for design and engineering of many structure types."
-        },
-        {
-          "name": "PROKON",
-          "url": "https://www.prokon.com/",
-          "description": "Structural analysis and design software."
-        },
-        {
-          "name": "RAM Structural System",
-          "url": "https://www.bentley.com/software/ram-structural-system/",
-          "description": "Building analysis and design software."
         },
         {
           "name": "ArchCalc",
@@ -556,19 +496,9 @@
       "title": "Environmental Engineering",
       "items": [
         {
-          "name": "Wastewater Collection System Modeling Software",
-          "url": "https://www.autodesk.com/products/infoworks-icm/overview",
-          "description": "Collection system modeling, now commonly covered by Autodesk InfoWorks ICM."
-        },
-        {
           "name": "StormCAD",
           "url": "https://www.bentley.com/software/openflows-stormcad/",
           "description": "Design and analysis of stormwater conveyance systems."
-        },
-        {
-          "name": "PCSWMM",
-          "url": "https://www.pcswmm.com/",
-          "description": "Urban runoff, combined sewer overflow, and sanitary sewer modeling."
         },
         {
           "name": "Enviro.Space Air Dispersion Modeling Software",
@@ -579,11 +509,6 @@
           "name": "AQUATOX",
           "url": "https://www.epa.gov/water-research/aquatox",
           "description": "EPA model for ecological effects of pollutants and other stressors on aquatic ecosystems."
-        },
-        {
-          "name": "SWMM5",
-          "url": "https://www.epa.gov/water-research/storm-water-management-model-swmm",
-          "description": "Stormwater management model."
         },
         {
           "name": "SRH-2D",
@@ -861,11 +786,6 @@
           "title": "Structure Analysis",
           "items": [
             {
-              "name": "SkyCiv Engineering",
-              "url": "https://www.skyciv.com/structural-analysis-software/",
-              "description": "Cloud-based structural analysis software."
-            },
-            {
               "name": "BeamGuru Beam Calculator",
               "url": "https://beamguru.com/beam/",
               "description": "Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams."
@@ -915,11 +835,11 @@
               "url": "https://www.concretenetwork.com/concrete/howmuch/calculator.htm",
               "description": "Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags."
             },
-        {
-          "name": "Build Quantities",
-          "url": "https://buildquantities.com/calculators/",
-          "description": "Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations."
-        }
+            {
+              "name": "Build Quantities",
+              "url": "https://buildquantities.com/calculators/",
+              "description": "Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations."
+            }
           ]
         }
       ]
@@ -938,29 +858,9 @@
           "description": "CAD software for architecture, engineering, and construction."
         },
         {
-          "name": "Revit",
-          "url": "https://www.autodesk.com/products/revit/overview",
-          "description": "BIM software."
-        },
-        {
           "name": "BricsCAD",
           "url": "https://www.bricsys.com/bricscad/",
           "description": "CAD software for AEC."
-        },
-        {
-          "name": "SketchUp",
-          "url": "https://www.sketchup.com/",
-          "description": "3D modeling software."
-        },
-        {
-          "name": "Civil 3D",
-          "url": "https://www.autodesk.com/products/civil-3d/overview",
-          "description": "Civil engineering design and documentation software."
-        },
-        {
-          "name": "InfraWorks",
-          "url": "https://www.autodesk.com/products/infraworks/overview",
-          "description": "Infrastructure design and engineering software."
         },
         {
           "name": "AutoCAD Architecture",
@@ -968,24 +868,9 @@
           "description": "CAD software for architectural design."
         },
         {
-          "name": "ArchiCAD",
-          "url": "https://graphisoft.com/solutions/archicad",
-          "description": "BIM software for architects."
-        },
-        {
-          "name": "AutoCAD Map 3D",
-          "url": "https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d",
-          "description": "GIS and mapping software."
-        },
-        {
           "name": "nanoCAD",
           "url": "https://nanocad.com/",
           "description": "CAD platform."
-        },
-        {
-          "name": "OpenRoads Designer",
-          "url": "https://www.bentley.com/software/openroads-designer/",
-          "description": "Civil roadway design software."
         },
         {
           "name": "OpenRail Designer",
@@ -1007,11 +892,6 @@
     {
       "title": "3D Modelling",
       "items": [
-        {
-          "name": "AutoCAD",
-          "url": "https://www.autodesk.com/products/autocad/overview",
-          "description": "CAD software."
-        },
         {
           "name": "Revit",
           "url": "https://www.autodesk.com/products/revit/overview",
@@ -1053,19 +933,9 @@
           "description": "BIM software for architects."
         },
         {
-          "name": "AutoCAD Map 3D",
-          "url": "https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d",
-          "description": "GIS and mapping software."
-        },
-        {
           "name": "FreeCAD",
           "url": "https://www.freecad.org/",
           "description": "Open-source parametric 3D modeler for drafting, modeling, and engineering workflows."
-        },
-        {
-          "name": "BricsCAD",
-          "url": "https://www.bricsys.com/bricscad/",
-          "description": "CAD and BIM platform."
         },
         {
           "name": "Rhino.Inside.Revit",
@@ -1268,19 +1138,9 @@
           "description": "Residential construction management software."
         },
         {
-          "name": "Bluebeam Revu",
-          "url": "https://www.bluebeam.com/revu/",
-          "description": "Document management, markup, and collaboration."
-        },
-        {
           "name": "Fieldwire",
           "url": "https://www.fieldwire.com/",
           "description": "Construction task, plan, punch list, and field coordination software."
-        },
-        {
-          "name": "PlanGrid",
-          "url": "https://construction.autodesk.com/products/autodesk-build/",
-          "description": "Field collaboration product now part of Autodesk Build."
         },
         {
           "name": "OpenProject BIM",
@@ -1323,19 +1183,9 @@
           "description": "Database-style spreadsheet and app platform."
         },
         {
-          "name": "Smartsheet",
-          "url": "https://www.smartsheet.com/",
-          "description": "Online work management spreadsheet platform."
-        },
-        {
           "name": "Zoho Sheet",
           "url": "https://www.zoho.com/sheet/",
           "description": "Online spreadsheet software."
-        },
-        {
-          "name": "Asana Tables",
-          "url": "https://asana.com/",
-          "description": "Table views and project tracking inside Asana."
         },
         {
           "name": "Quip Spreadsheets",
@@ -1366,11 +1216,6 @@
           "name": "scikit-learn",
           "url": "https://scikit-learn.org/",
           "description": "Machine learning library for Python."
-        },
-        {
-          "name": "R",
-          "url": "https://www.r-project.org/",
-          "description": "Statistical computing and data analysis."
         },
         {
           "name": "Weka",
@@ -1506,11 +1351,11 @@
               "url": "https://pynite.readthedocs.io/en/stable/",
               "description": "Python finite element library for beams, frames, plates, load combinations, stability, and P-Delta analysis."
             },
-      {
-        "name": "GeoEq",
-        "url": "https://github.com/geoeq/geoeq",
-        "description": "Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis."
-      }
+            {
+              "name": "GeoEq",
+              "url": "https://github.com/geoeq/geoeq",
+              "description": "Onshore geotechnical workflow: soil classification, lab testing, SPT/CPT interpretation, foundation design, soil dynamics, and liquefaction analysis."
+            }
           ]
         },
         {

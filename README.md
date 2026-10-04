@@ -38,14 +38,8 @@
 - [Microsoft Word](https://www.microsoft.com/microsoft-365/word) - Word processing and report production.
 - [LaTeX](https://www.latex-project.org/) - Typesetting system widely used for technical reports, standards, and academic papers.
 - [Foxit PDF Editor](https://www.foxit.com/pdf-editor/) - PDF editing software formerly associated with PhantomPDF.
-- [Autodesk Revit](https://www.autodesk.com/products/revit/overview) - BIM authoring for buildings and multidisciplinary coordination.
 - [Bluebeam Revu](https://www.bluebeam.com/revu/) - PDF markup, review, and construction document collaboration.
-- [Procore](https://www.procore.com/) - Construction project management, drawings, RFIs, submittals, and field workflows.
-- [PlanGrid](https://construction.autodesk.com/products/autodesk-build/) - Autodesk field collaboration workflow now part of Autodesk Build.
 - [Newforma Project Center](https://www.newforma.com/project-information-management/) - Project information management for AEC teams.
-- [Microsoft Project](https://www.microsoft.com/microsoft-365/project/project-management-software) - Project scheduling and portfolio management.
-- [Asana](https://asana.com/) - Team work management and task tracking.
-- [Trello](https://trello.com/) - Kanban-style task tracking by Atlassian.
 - [Autodesk BIM 360](https://www.autodesk.com/bim-360/) - Legacy Autodesk construction management platform, now within Autodesk Construction Cloud.
 - [CoConstruct](https://www.buildertrend.com/coconstruct/) - Residential construction management product now part of Buildertrend.
 - [Autodesk Construction Cloud](https://construction.autodesk.com/) - Cloud platform for design collaboration, model coordination, build workflows, and operations handover.
@@ -99,14 +93,8 @@
 
 - [Ansys](https://www.ansys.com/) - Multiphysics simulation software.
 - [Abaqus](https://www.3ds.com/products/simulia/abaqus) - Finite element analysis software.
-- [Autodesk Robot Structural Analysis Professional](https://www.autodesk.com/products/robot-structural-analysis/overview) - Structural analysis and simulation software.
 - [LS-DYNA](https://www.ansys.com/products/structures/ansys-ls-dyna) - Dynamic and nonlinear simulation software.
-- [ETABS](https://www.csiamerica.com/products/etabs) - Building analysis and design software.
-- [SAP2000](https://www.csiamerica.com/products/sap2000) - Structural analysis and design software.
 - [midas](https://www.midasoft.com/) - Structural analysis and design software.
-- [SCIA Engineer](https://www.scia.net/en/products/scia-engineer) - Structural analysis software for design and engineering of many structure types.
-- [PROKON](https://www.prokon.com/) - Structural analysis and design software.
-- [RAM Structural System](https://www.bentley.com/software/ram-structural-system/) - Building analysis and design software.
 - [ArchCalc](http://www.archcalc.com/) - Online structural analysis calculator for architects, engineers, and construction professionals.
 - [OpenSees](https://opensees.berkeley.edu/) - Open-source framework for nonlinear structural and geotechnical simulation.
 - [Code_Aster](https://code-aster.org/) - Open-source finite element solver for structural mechanics, nonlinear analysis, thermomechanics, and coupled problems.
@@ -157,12 +145,9 @@
 
 ## Environmental Engineering
 
-- [Wastewater Collection System Modeling Software](https://www.autodesk.com/products/infoworks-icm/overview) - Collection system modeling, now commonly covered by Autodesk InfoWorks ICM.
 - [StormCAD](https://www.bentley.com/software/openflows-stormcad/) - Design and analysis of stormwater conveyance systems.
-- [PCSWMM](https://www.pcswmm.com/) - Urban runoff, combined sewer overflow, and sanitary sewer modeling.
 - [Enviro.Space Air Dispersion Modeling Software](https://www.enviro.space/products/air-dispersion-modeling-software) - Air pollutant dispersion modeling.
 - [AQUATOX](https://www.epa.gov/water-research/aquatox) - EPA model for ecological effects of pollutants and other stressors on aquatic ecosystems.
-- [SWMM5](https://www.epa.gov/water-research/storm-water-management-model-swmm) - Stormwater management model.
 - [SRH-2D](https://www.usbr.gov/tsc/techreferences/computer%20software/models/srh2d/index.html) - Two-dimensional Sedimentation and River Hydraulics solver.
 - [AERMOD](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models) - EPA-preferred steady-state plume model for air dispersion.
 - [OpenLCA](https://www.openlca.org/) - Open-source life cycle assessment software.
@@ -228,7 +213,6 @@
 
 ### Structure Analysis
 
-- [SkyCiv Engineering](https://www.skyciv.com/structural-analysis-software/) - Cloud-based structural analysis software.
 - [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams.
 - [Xarpis 2D Frame & Beam FEA](https://www.xarpis.com/calculators/frame-fea-2d) - Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes.
 
@@ -247,23 +231,15 @@
 
 - [AutoCAD](https://www.autodesk.com/products/autocad/overview) - CAD software.
 - [MicroStation](https://www.bentley.com/software/microstation/) - CAD software for architecture, engineering, and construction.
-- [Revit](https://www.autodesk.com/products/revit/overview) - BIM software.
 - [BricsCAD](https://www.bricsys.com/bricscad/) - CAD software for AEC.
-- [SketchUp](https://www.sketchup.com/) - 3D modeling software.
-- [Civil 3D](https://www.autodesk.com/products/civil-3d/overview) - Civil engineering design and documentation software.
-- [InfraWorks](https://www.autodesk.com/products/infraworks/overview) - Infrastructure design and engineering software.
 - [AutoCAD Architecture](https://www.autodesk.com/products/autocad/included-toolsets/autocad-architecture) - CAD software for architectural design.
-- [ArchiCAD](https://graphisoft.com/solutions/archicad) - BIM software for architects.
-- [AutoCAD Map 3D](https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d) - GIS and mapping software.
 - [nanoCAD](https://nanocad.com/) - CAD platform.
-- [OpenRoads Designer](https://www.bentley.com/software/openroads-designer/) - Civil roadway design software.
 - [OpenRail Designer](https://www.bentley.com/software/openrail-designer/) - Rail design software.
 - [OpenBuildings Designer](https://www.bentley.com/software/openbuildings-designer/) - BIM software for building design and documentation.
 - [QCAD](https://www.qcad.org/en/) - Open-source 2D CAD application for technical drawings, plans, details, schematics, and DXF/DWG workflows.
 
 ## 3D Modelling
 
-- [AutoCAD](https://www.autodesk.com/products/autocad/overview) - CAD software.
 - [Revit](https://www.autodesk.com/products/revit/overview) - BIM software.
 - [3ds Max](https://www.autodesk.com/products/3ds-max/overview) - 3D modeling, animation, and rendering software.
 - [SketchUp](https://www.sketchup.com/) - 3D modeling software.
@@ -272,9 +248,7 @@
 - [Civil 3D](https://www.autodesk.com/products/civil-3d/overview) - Civil engineering design and documentation software.
 - [InfraWorks](https://www.autodesk.com/products/infraworks/overview) - Infrastructure design and engineering software.
 - [ArchiCAD](https://graphisoft.com/solutions/archicad) - BIM software for architects.
-- [AutoCAD Map 3D](https://www.autodesk.com/products/autocad/included-toolsets/autocad-map-3d) - GIS and mapping software.
 - [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D modeler for drafting, modeling, and engineering workflows.
-- [BricsCAD](https://www.bricsys.com/bricscad/) - CAD and BIM platform.
 - [Rhino.Inside.Revit](https://www.rhino3d.com/inside/revit/) - Rhino and Grasshopper inside Revit.
 - [Grasshopper](https://www.grasshopper3d.com/) - Visual programming environment for Rhino.
 - [OpenSCAD](https://openscad.org/about.html) - Open-source script-based solid 3D CAD modeler for precise, reproducible, and parameterized geometry.
@@ -319,9 +293,7 @@
 - [Podio](https://www.podio.com/) - Work management and collaboration platform.
 - [Autodesk Build](https://construction.autodesk.com/products/autodesk-build/) - Construction management platform within Autodesk Construction Cloud.
 - [Buildertrend](https://www.buildertrend.com/) - Residential construction management software.
-- [Bluebeam Revu](https://www.bluebeam.com/revu/) - Document management, markup, and collaboration.
 - [Fieldwire](https://www.fieldwire.com/) - Construction task, plan, punch list, and field coordination software.
-- [PlanGrid](https://construction.autodesk.com/products/autodesk-build/) - Field collaboration product now part of Autodesk Build.
 - [OpenProject BIM](https://www.openproject.org/bim-project-management/) - Open-source construction project management with scheduling, cost tracking, IFC viewing, and BCF issue workflows.
 
 ## Spreadsheet
@@ -332,9 +304,7 @@
 - [Apple Numbers](https://www.apple.com/numbers/) - Spreadsheet software by Apple.
 - [WPS Spreadsheets](https://www.wps.com/office/spreadsheets/) - Spreadsheet software by WPS Office.
 - [Airtable](https://www.airtable.com/) - Database-style spreadsheet and app platform.
-- [Smartsheet](https://www.smartsheet.com/) - Online work management spreadsheet platform.
 - [Zoho Sheet](https://www.zoho.com/sheet/) - Online spreadsheet software.
-- [Asana Tables](https://asana.com/) - Table views and project tracking inside Asana.
 - [Quip Spreadsheets](https://quip.com/) - Collaborative spreadsheets inside Salesforce Quip.
 - [Gnumeric](https://www.gnumeric.org/) - Open-source spreadsheet focused on responsive handling of large workbooks and accurate numerical calculations.
 
@@ -343,7 +313,6 @@
 - [TensorFlow](https://www.tensorflow.org/) - Machine learning library developed by Google.
 - [PyTorch](https://pytorch.org/) - Machine learning library.
 - [scikit-learn](https://scikit-learn.org/) - Machine learning library for Python.
-- [R](https://www.r-project.org/) - Statistical computing and data analysis.
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/) - Machine learning software for data mining and analysis.
 - [KNIME](https://www.knime.com/) - Analytics and machine learning platform.
 - [Orange](https://orangedatamining.com/) - Data mining and predictive modeling.
