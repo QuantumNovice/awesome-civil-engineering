@@ -191,6 +191,7 @@ Software, libraries, calculators, and resources used in civil engineering practi
 - [DroneDeploy](https://www.dronedeploy.com/) - Reality capture, drone mapping, and site documentation.
 - [buildingSMART Data Dictionary](https://www.buildingsmart.org/users/services/buildingsmart-data-dictionary/) - Free service for shared built-environment terms, classifications, properties, and machine-readable BIM definitions.
 - [House Planner](https://github.com/egmalt/house-planner) - Open-source self-hosted web planner for a private house: true-scale 2D plan, 3D view, satellite site overlay, sewer, electrical, water and underfloor heating layouts with design checks, and a bill of materials.
+- [BIM Guard](https://bim-guard.xyz/) - Open-source BIM compliance application: upload IFC models, check them against buildingSMART IDS rules and ISO 19650 naming, and generate reports with BCF issues.
 
 ## Reality Capture and Surveying
 
