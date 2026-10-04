@@ -2,7 +2,7 @@
 # Awesome Civil Engineering
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Software, libraries, calculators, and resources used in civil engineering practice.
+> Designing, building, and maintaining infrastructure such as buildings, bridges, roads, and water systems.
 
 ## Contents
 
