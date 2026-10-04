@@ -35,6 +35,10 @@ Profiles already included in the manual acknowledgements are omitted here to
 avoid duplicates.
 
 <!-- github-contributors:start -->
+- [@braedonsaunders](https://github.com/braedonsaunders)
+- [@CodingCossack](https://github.com/CodingCossack)
+- [@egmalt](https://github.com/egmalt)
+- [@osama-ata](https://github.com/osama-ata)
 - [@QuantumNovice](https://github.com/QuantumNovice)
 - [@yvann-ba](https://github.com/yvann-ba)
 <!-- github-contributors:end -->
