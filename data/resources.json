@@ -164,6 +164,26 @@
           "name": "Design Unlined Canal",
           "url": "https://github.com/QuantumNovice/Design-Unlined-Canal",
           "description": "Unlined canal design using Kennedy's silt theory."
+        },
+        {
+          "name": "Delft3D FM",
+          "url": "https://oss.deltares.nl/web/delft3dfm",
+          "description": "Deltares open-source suite for 1D/2D/3D hydrodynamics, sediment transport, morphology, waves, and water quality."
+        },
+        {
+          "name": "TELEMAC-MASCARET",
+          "url": "https://www.opentelemac.org/",
+          "description": "Open-source suite for free-surface flow, sediment transport, waves, and water quality in rivers, estuaries, and coasts."
+        },
+        {
+          "name": "ANUGA",
+          "url": "https://github.com/anuga-community/anuga_core",
+          "description": "Open-source shallow-water solver for flood, tsunami, and storm-surge inundation modeling with a Python interface."
+        },
+        {
+          "name": "iRIC",
+          "url": "https://i-ric.org/en/",
+          "description": "Free river flow and riverbed variation simulation platform bundling multiple 2D hydraulic solvers."
         }
       ]
     },
@@ -264,6 +284,46 @@
           "name": "ACI One-Way Beam Design",
           "url": "https://github.com/QuantumNovice/ACI-One-Way-Beam_Design",
           "description": "Windows tool for designing reinforced concrete one-way beams to ACI provisions."
+        },
+        {
+          "name": "CSiBridge",
+          "url": "https://www.csiamerica.com/products/csibridge",
+          "description": "Bridge modeling, analysis, staged construction, and design by Computers and Structures, Inc."
+        },
+        {
+          "name": "SAFE",
+          "url": "https://www.csiamerica.com/products/safe",
+          "description": "Analysis and design of concrete floor slabs, mats, and foundation systems by Computers and Structures, Inc."
+        },
+        {
+          "name": "Dlubal RSTAB",
+          "url": "https://www.dlubal.com/en/products/rstab-frame-and-truss-structures/rstab-9/what-is-rstab",
+          "description": "3D frame and truss analysis and design for beam structures."
+        },
+        {
+          "name": "ProtaStructure",
+          "url": "https://www.protasoftware.com/products/protastructure",
+          "description": "Multi-material building analysis, design, and detailing with BIM integration."
+        },
+        {
+          "name": "Oasys GSA",
+          "url": "https://www.oasys-software.com/products/structural-software/gsa/",
+          "description": "Structural analysis and design for buildings, bridges, tensile structures, and form-finding."
+        },
+        {
+          "name": "LUSAS",
+          "url": "https://www.lusas.com/",
+          "description": "Finite element analysis for bridges, civil structures, and nonlinear, dynamic, and staged construction problems."
+        },
+        {
+          "name": "Strand7",
+          "url": "https://www.strand7.com/",
+          "description": "General-purpose finite element analysis for structural, dynamic, and heat transfer problems."
+        },
+        {
+          "name": "Karamba3D",
+          "url": "https://karamba3d.com/",
+          "description": "Parametric structural finite element analysis inside Rhino and Grasshopper."
         }
       ]
     },
@@ -304,6 +364,21 @@
           "name": "Code_Aster",
           "url": "https://code-aster.org/",
           "description": "Open-source finite element solver for structural mechanics, nonlinear analysis, thermomechanics, and coupled problems."
+        },
+        {
+          "name": "Kratos Multiphysics",
+          "url": "https://github.com/KratosMultiphysics/Kratos",
+          "description": "Open-source C++/Python framework for parallel multiphysics simulation, including structural, fluid, geomechanics, and DEM applications."
+        },
+        {
+          "name": "FEniCSx",
+          "url": "https://fenicsproject.org/",
+          "description": "Open-source computing platform for solving partial differential equations with the finite element method."
+        },
+        {
+          "name": "OpenFOAM",
+          "url": "https://www.openfoam.com/",
+          "description": "Open-source CFD toolbox used for wind engineering, hydraulic structures, and ventilation studies."
         }
       ]
     },
@@ -399,6 +474,21 @@
           "name": "Original Cam Clay Yield Surface",
           "url": "https://quantumnovice.github.io/Original-Cam-Clay-Yield-Surface/",
           "description": "Interactive browser visualization of the Original Cam Clay yield surface."
+        },
+        {
+          "name": "Slide2",
+          "url": "https://www.rocscience.com/software/slide2",
+          "description": "2D limit equilibrium slope stability analysis for soil and rock slopes, embankments, and retaining walls."
+        },
+        {
+          "name": "GEO5",
+          "url": "https://www.finesoftware.eu/geotechnical-software/",
+          "description": "Suite of geotechnical programs for foundations, retaining walls, slopes, piles, excavations, and tunnels."
+        },
+        {
+          "name": "Leapfrog Works",
+          "url": "https://www.seequent.com/products-solutions/leapfrog-works/",
+          "description": "3D geological modeling of ground conditions for civil and infrastructure projects."
         }
       ]
     },
@@ -509,6 +599,11 @@
           "name": "CityFlow",
           "url": "https://cityflow-project.github.io/",
           "description": "Open-source large-scale urban traffic simulator with a Python interface for traffic control and transportation research."
+        },
+        {
+          "name": "12d Model",
+          "url": "https://www.12d.com/",
+          "description": "Civil and surveying software for road design, drainage, earthworks, and terrain modeling."
         }
       ]
     },
@@ -559,6 +654,26 @@
           "name": "Brightway",
           "url": "https://docs.brightway.dev/en/latest/",
           "description": "Open-source Python framework for life-cycle inventory and environmental impact assessment using large datasets."
+        },
+        {
+          "name": "EnergyPlus",
+          "url": "https://energyplus.net/",
+          "description": "Open-source whole-building energy simulation engine funded by the US Department of Energy."
+        },
+        {
+          "name": "OpenStudio",
+          "url": "https://openstudio.net/",
+          "description": "Open-source tools for building energy modeling with EnergyPlus and daylighting analysis."
+        },
+        {
+          "name": "Ladybug Tools",
+          "url": "https://www.ladybug.tools/",
+          "description": "Open-source environmental design plugins for Grasshopper and Python covering climate, daylight, energy, and comfort analysis."
+        },
+        {
+          "name": "One Click LCA",
+          "url": "https://oneclicklca.com/",
+          "description": "Embodied carbon and life cycle assessment for buildings and infrastructure."
         }
       ]
     },
@@ -601,9 +716,34 @@
           "description": "Open-source IFC toolkit for BIM automation and interoperability."
         },
         {
+          "name": "IfcConvert",
+          "url": "https://docs.ifcopenshell.org/ifcconvert/usage.html",
+          "description": "IfcOpenShell command-line converter from IFC to OBJ, glTF, STEP, IGES, DAE, SVG floor plans, and other geometry formats."
+        },
+        {
           "name": "BlenderBIM Add-on",
           "url": "https://blenderbim.org/",
           "description": "Open-source BIM authoring add-on for Blender, now part of the Bonsai ecosystem."
+        },
+        {
+          "name": "ifcMCP",
+          "url": "https://github.com/smartaec/ifcMCP",
+          "description": "Model Context Protocol server built on IfcOpenShell that lets LLM agents query entities and properties in IFC files."
+        },
+        {
+          "name": "Bonsai-mcp",
+          "url": "https://github.com/JotaDeRodriguez/Bonsai_mcp",
+          "description": "Model Context Protocol server for Blender and Bonsai that lets LLMs inspect, query, and modify IFC models."
+        },
+        {
+          "name": "ifc-bonsai-mcp",
+          "url": "https://github.com/Show2Instruct/ifc-bonsai-mcp",
+          "description": "Model Context Protocol server that connects LLMs to IFC-based BIM authoring workflows in Blender through Bonsai."
+        },
+        {
+          "name": "ifcx-mcp",
+          "url": "https://github.com/louistrue/ifcx-mcp",
+          "description": "Model Context Protocol server for authoring IFC5/IFCX models with spatial structures, geometry, materials, classifications, validation, and glTF preview."
         },
         {
           "name": "Awesome IFC Tools",
@@ -654,6 +794,71 @@
           "name": "BIM Guard",
           "url": "https://bim-guard.xyz/",
           "description": "Open-source BIM compliance application: upload IFC models, check them against buildingSMART IDS rules and ISO 19650 naming, and generate reports with BCF issues."
+        },
+        {
+          "name": "Qonic",
+          "url": "https://qonic.com/",
+          "description": "Cloud BIM modeling platform for editing large IFC models, with automatic classification and model validation."
+        },
+        {
+          "name": "Snaptrude",
+          "url": "https://www.snaptrude.com/",
+          "description": "Browser-based collaborative BIM for early design with Revit interoperability."
+        },
+        {
+          "name": "Arcol",
+          "url": "https://arcol.io/",
+          "description": "Browser-based collaborative tool for early-stage building design and feasibility."
+        },
+        {
+          "name": "Motif",
+          "url": "https://motif.io/",
+          "description": "Cloud BIM platform for collaborative and AI-assisted building design."
+        },
+        {
+          "name": "Hypar",
+          "url": "https://hypar.io/",
+          "description": "Cloud space planning and building layout platform."
+        },
+        {
+          "name": "TestFit",
+          "url": "https://www.testfit.io/",
+          "description": "Real estate feasibility and site planning software for building and parking layouts."
+        },
+        {
+          "name": "That Open Engine",
+          "url": "https://github.com/ThatOpen/engine_components",
+          "description": "Open-source TypeScript components for building browser-based BIM and IFC applications."
+        },
+        {
+          "name": "xeokit SDK",
+          "url": "https://xeokit.io/",
+          "description": "JavaScript SDK for viewing large BIM and IFC models in the browser."
+        },
+        {
+          "name": "IfcTester",
+          "url": "https://docs.ifcopenshell.org/ifctester.html",
+          "description": "IfcOpenShell tool for authoring IDS files and checking IFC models against them, with HTML, JSON, and BCF reports."
+        },
+        {
+          "name": "buildingSMART Validation Service",
+          "url": "https://validate.buildingsmart.org/",
+          "description": "Free online service from buildingSMART that checks IFC files against the schema and normative rules."
+        },
+        {
+          "name": "BIMcollab Zoom",
+          "url": "https://www.bimcollab.com/en/products/bimcollab-zoom/",
+          "description": "IFC model viewer and checker for clash detection, smart views, and BCF issue management."
+        },
+        {
+          "name": "dRofus",
+          "url": "https://www.drofus.com/en/",
+          "description": "Planning and data management for building programs, room data, equipment, and BIM requirements."
+        },
+        {
+          "name": "Dalux",
+          "url": "https://www.dalux.com/",
+          "description": "BIM viewer and construction field management for quality, safety, handover, and facility management."
         }
       ]
     },
@@ -709,6 +914,16 @@
           "name": "OpenDroneMap",
           "url": "https://opendronemap.org/odm/",
           "description": "Open-source aerial imagery toolkit that produces orthophotos, elevation models, point clouds, and textured 3D models."
+        },
+        {
+          "name": "PDAL",
+          "url": "https://pdal.org/",
+          "description": "Open-source library and command-line tools for translating and processing point cloud data."
+        },
+        {
+          "name": "Open3D",
+          "url": "https://www.open3d.org/",
+          "description": "Open-source library for 3D data processing, including point cloud registration, meshing, and visualization."
         }
       ]
     },
@@ -981,6 +1196,21 @@
           "name": "OpenSCAD",
           "url": "https://openscad.org/about.html",
           "description": "Open-source script-based solid 3D CAD modeler for precise, reproducible, and parameterized geometry."
+        },
+        {
+          "name": "Allplan",
+          "url": "https://www.allplan.com/",
+          "description": "BIM software for architecture, structural engineering, precast, and bridge design."
+        },
+        {
+          "name": "Vectorworks Architect",
+          "url": "https://www.vectorworks.net/en-US/architect",
+          "description": "BIM and CAD software for architectural design, documentation, and visualization."
+        },
+        {
+          "name": "Twinmotion",
+          "url": "https://www.twinmotion.com/",
+          "description": "Real-time architectural and infrastructure visualization built on Unreal Engine."
         }
       ]
     },
@@ -1176,6 +1406,26 @@
           "name": "OpenProject BIM",
           "url": "https://www.openproject.org/bim-project-management/",
           "description": "Open-source construction project management with scheduling, cost tracking, IFC viewing, and BCF issue workflows."
+        },
+        {
+          "name": "Togal.AI",
+          "url": "https://www.togal.ai/",
+          "description": "AI-assisted quantity takeoff that detects and measures spaces and elements on construction drawings."
+        },
+        {
+          "name": "ALICE Technologies",
+          "url": "https://www.alicetechnologies.com/",
+          "description": "Construction schedule optimization that simulates and compares sequencing scenarios."
+        },
+        {
+          "name": "nPlan",
+          "url": "https://www.nplan.io/",
+          "description": "Schedule risk forecasting for capital projects using historical project data."
+        },
+        {
+          "name": "Trunk Tools",
+          "url": "https://trunktools.com/",
+          "description": "Natural-language search and question answering over construction documents, specs, RFIs, and submittals."
         }
       ]
     },
@@ -1390,6 +1640,46 @@
               "name": "ModifiedCamClay",
               "url": "https://github.com/QuantumNovice/ModifiedCamClay",
               "description": "Modified Cam Clay constitutive model for drained and undrained triaxial loading."
+            },
+            {
+              "name": "WNTR",
+              "url": "https://github.com/USEPA/WNTR",
+              "description": "EPA Water Network Tool for Resilience for EPANET-compatible water distribution simulation under disaster scenarios."
+            },
+            {
+              "name": "PySWMM",
+              "url": "https://www.pyswmm.org/",
+              "description": "Python interface to EPA SWMM for reading, controlling, and modifying stormwater simulations at runtime."
+            },
+            {
+              "name": "anaStruct",
+              "url": "https://github.com/anastruct/anaStruct",
+              "description": "2D frame and truss structural analysis in Python."
+            },
+            {
+              "name": "concreteproperties",
+              "url": "https://github.com/robbievanleeuwen/concrete-properties",
+              "description": "Section properties, moment-curvature, and interaction diagrams for reinforced concrete sections."
+            },
+            {
+              "name": "opstool",
+              "url": "https://opstool.readthedocs.io/",
+              "description": "Pre-processing, post-processing, and visualization tools for OpenSeesPy models."
+            },
+            {
+              "name": "OpenPile",
+              "url": "https://github.com/TchilDill/openpile",
+              "description": "Python package for laterally and axially loaded pile calculations."
+            },
+            {
+              "name": "COMPAS",
+              "url": "https://compas.dev/",
+              "description": "Open-source Python framework for computational research in architecture, engineering, fabrication, and construction."
+            },
+            {
+              "name": "topologicpy",
+              "url": "https://github.com/wassimj/topologicpy",
+              "description": "Python library for non-manifold topology and spatial modeling of buildings and graphs."
             }
           ]
         },
@@ -1420,6 +1710,11 @@
               "name": "Three.js",
               "url": "https://threejs.org/",
               "description": "3D graphics in the browser for geometry, visualization, and digital twins."
+            },
+            {
+              "name": "web-ifc",
+              "url": "https://github.com/ThatOpen/engine_web-ifc",
+              "description": "WebAssembly-powered library for reading and writing IFC files in browsers and Node.js."
             },
             {
               "name": "CesiumJS",
@@ -1615,6 +1910,16 @@
               "name": "geoarrow-rs",
               "url": "https://geoarrow.org/geoarrow-rs/",
               "description": "Rust implementation of GeoArrow for efficient geospatial vector storage, interchange, and spatial processing."
+            },
+            {
+              "name": "ifc_rs",
+              "url": "https://github.com/MetabuildDev/ifc_rs",
+              "description": "Rust implementation of IFC types for reading, creating, and writing IFC building models."
+            },
+            {
+              "name": "IFC-Lite",
+              "url": "https://github.com/LTplus-AG/ifc-lite",
+              "description": "Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering."
             }
           ]
         }
