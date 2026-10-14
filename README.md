@@ -115,6 +115,7 @@
 - [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) - Open-source C++/Python framework for parallel multiphysics simulation, including structural, fluid, geomechanics, and DEM applications.
 - [FEniCSx](https://fenicsproject.org/) - Open-source computing platform for solving partial differential equations with the finite element method.
 - [OpenFOAM](https://www.openfoam.com/) - Open-source CFD toolbox used for wind engineering, hydraulic structures, and ventilation studies.
+- [Engineering on Web FEA](https://engineeringonweb.com/fea/?lang=en) - Free browser-based finite element solver for 2D and 3D structural, thermal, fluid, and electromagnetic problems, with WebGPU acceleration and no installation.
 
 ## Geotechnical Engineering
 

@@ -379,6 +379,11 @@
           "name": "OpenFOAM",
           "url": "https://www.openfoam.com/",
           "description": "Open-source CFD toolbox used for wind engineering, hydraulic structures, and ventilation studies."
+        },
+        {
+          "name": "Engineering on Web FEA",
+          "url": "https://engineeringonweb.com/fea/?lang=en",
+          "description": "Free browser-based finite element solver for 2D and 3D structural, thermal, fluid, and electromagnetic problems, with WebGPU acceleration and no installation."
         }
       ]
     },
