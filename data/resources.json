@@ -494,6 +494,11 @@
           "name": "Leapfrog Works",
           "url": "https://www.seequent.com/products-solutions/leapfrog-works/",
           "description": "3D geological modeling of ground conditions for civil and infrastructure projects."
+        },
+        {
+          "name": "X Slope",
+          "url":"https://github.com/njones61/xslope",
+          "description": "Open-source python package for seepage and slope stability analysis"
         }
       ]
     },

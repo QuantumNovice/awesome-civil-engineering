@@ -140,6 +140,7 @@
 - [Slide2](https://www.rocscience.com/software/slide2) - 2D limit equilibrium slope stability analysis for soil and rock slopes, embankments, and retaining walls.
 - [GEO5](https://www.finesoftware.eu/geotechnical-software/) - Suite of geotechnical programs for foundations, retaining walls, slopes, piles, excavations, and tunnels.
 - [Leapfrog Works](https://www.seequent.com/products-solutions/leapfrog-works/) - 3D geological modeling of ground conditions for civil and infrastructure projects.
+- [X Slope](https://github.com/njones61/xslope) - Open-source python package for seepage and slope stability analysis
 
 ## Transportation Engineering
 
