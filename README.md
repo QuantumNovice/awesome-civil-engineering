@@ -186,6 +186,8 @@
 
 - [Bentley iTwin Platform](https://www.bentley.com/software/itwin-platform/) - Infrastructure digital twin platform for engineering data, visualization, analytics, and operations.
 - [Autodesk Forma](https://www.autodesk.com/products/forma/overview) - Cloud-based early-stage planning and design analysis for AEC.
+- [Tekla PowerFab](https://www.tekla.com/products/tekla-powerfab) - Steel fabrication management software suite providing real-time operational control and visibility.
+- [Tekla Model Sharing](https://www.tekla.com/products/tekla-model-sharing) - Cloud-based BIM collaboration tool enabling multi-user editing on Tekla Structures models.
 - [Autodesk Tandem](https://intandem.autodesk.com/) - Digital twin platform for facility handover and operations.
 - [Esri ArcGIS GeoBIM](https://www.esri.com/en-us/arcgis/products/arcgis-geobim/overview) - Connects GIS and BIM data for project and asset context.
 - [Speckle](https://speckle.systems/) - Open-source data platform for AEC interoperability and automation.
@@ -294,9 +296,11 @@
 - [Blender](https://www.blender.org/) - Open-source 3D creation software.
 - [Rhino](https://www.rhino3d.com/) - 3D modeling software for architecture, engineering, and product design.
 - [Civil 3D](https://www.autodesk.com/products/civil-3d/overview) - Civil engineering design and documentation software.
+- [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/overview) - Integrated cloud-based 3D CAD, CAM, CAE, and PCB software for product design and manufacturing.
 - [InfraWorks](https://www.autodesk.com/products/infraworks/overview) - Infrastructure design and engineering software.
 - [ArchiCAD](https://graphisoft.com/solutions/archicad) - BIM software for architects.
 - [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D modeler for drafting, modeling, and engineering workflows.
+- [Inventor](https://www.autodesk.com/products/inventor/overview) - 3D CAD software providing professional mechanical design, documentation, and product simulation tools.
 - [Rhino.Inside.Revit](https://www.rhino3d.com/inside/revit/) - Rhino and Grasshopper inside Revit.
 - [Fint-Revit](https://github.com/QuantumNovice/fint-revit) - Desktop utility that detects installed Revit versions and manages their add-ins.
 - [Grasshopper](https://www.grasshopper3d.com/) - Visual programming environment for Rhino.
@@ -304,6 +308,7 @@
 - [Allplan](https://www.allplan.com/) - BIM software for architecture, structural engineering, precast, and bridge design.
 - [Vectorworks Architect](https://www.vectorworks.net/en-US/architect) - BIM and CAD software for architectural design, documentation, and visualization.
 - [Twinmotion](https://www.twinmotion.com/) - Real-time architectural and infrastructure visualization built on Unreal Engine.
+- [Maya](https://www.autodesk.com/products/maya/overview) - 3D animation, modeling, simulation, and rendering software widely used for feature films, TV, and video games.
 
 ## GIS
 

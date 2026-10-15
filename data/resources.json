@@ -696,6 +696,16 @@
           "description": "Cloud-based early-stage planning and design analysis for AEC."
         },
         {
+          "name": "Tekla PowerFab",
+          "url": "https://www.tekla.com/products/tekla-powerfab",
+          "description": "Steel fabrication management software suite providing real-time operational control and visibility."
+        },
+        {
+          "name": "Tekla Model Sharing",
+          "url": "https://www.tekla.com/products/tekla-model-sharing",
+          "description": "Cloud-based BIM collaboration tool enabling multi-user editing on Tekla Structures models."
+        },
+        {
           "name": "Autodesk Tandem",
           "url": "https://intandem.autodesk.com/",
           "description": "Digital twin platform for facility handover and operations."
@@ -1168,6 +1178,11 @@
           "description": "Civil engineering design and documentation software."
         },
         {
+          "name": "Autodesk Fusion",
+          "url": "https://www.autodesk.com/products/fusion-360/overview",
+          "description": "Integrated cloud-based 3D CAD, CAM, CAE, and PCB software for product design and manufacturing."
+        },
+        {
           "name": "InfraWorks",
           "url": "https://www.autodesk.com/products/infraworks/overview",
           "description": "Infrastructure design and engineering software."
@@ -1181,6 +1196,11 @@
           "name": "FreeCAD",
           "url": "https://www.freecad.org/",
           "description": "Open-source parametric 3D modeler for drafting, modeling, and engineering workflows."
+        },
+        {
+          "name": "Inventor",
+          "url": "https://www.autodesk.com/products/inventor/overview",
+          "description": "3D CAD software providing professional mechanical design, documentation, and product simulation tools."
         },
         {
           "name": "Rhino.Inside.Revit",
@@ -1216,6 +1236,11 @@
           "name": "Twinmotion",
           "url": "https://www.twinmotion.com/",
           "description": "Real-time architectural and infrastructure visualization built on Unreal Engine."
+        },
+        {
+          "name": "Maya",
+          "url": "https://www.autodesk.com/products/maya/overview",
+          "description": "3D animation, modeling, simulation, and rendering software widely used for feature films, TV, and video games."
         }
       ]
     },
