@@ -1099,6 +1099,11 @@
               "name": "Build Quantities",
               "url": "https://buildquantities.com/calculators/",
               "description": "Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations."
+            },
+            {
+              "name": "Libre Calculator",
+              "url": "https://librecalculator.com/calculators/concrete/",
+              "description": "Free concrete slab volume calculator using dimensions and an adjustable allowance, with worked steps and a diagram."
             }
           ]
         }
