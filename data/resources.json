@@ -1109,6 +1109,11 @@
               "name": "Libre Calculator",
               "url": "https://librecalculator.com/calculators/concrete/",
               "description": "Free concrete slab volume calculator using dimensions and an adjustable allowance, with worked steps and a diagram."
+            },
+            {
+              "name": "TrueToolCalc",
+              "url": "https://truetoolcalc.com/",
+              "description": "Free construction calculators for concrete slab, column and footing volume, premix bag counts, brick, CMU block and mortar, plus flooring, roofing and fencing; each tool shows its formula, a worked example and its limitations."
             }
           ]
         }
