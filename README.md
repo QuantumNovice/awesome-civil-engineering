@@ -266,6 +266,7 @@
 
 - [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams.
 - [Xarpis 2D Frame & Beam FEA](https://www.xarpis.com/calculators/frame-fea-2d) - Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes.
+- [Calculadora Estructuras](https://www.calculadoraestructuras.es/) - Free browser-based structural calculators in Spanish: section properties, continuous beams, column buckling (EC3/CTE), 2D trusses and frames, Spanish CTE loads and timber beams (DB SE-M), with steel section tables; no login.
 
 ### Concrete and Construction
 

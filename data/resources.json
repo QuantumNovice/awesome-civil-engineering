@@ -1054,6 +1054,11 @@
               "name": "Xarpis 2D Frame & Beam FEA",
               "url": "https://www.xarpis.com/calculators/frame-fea-2d",
               "description": "Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes."
+            },
+            {
+              "name": "Calculadora Estructuras",
+              "url": "https://www.calculadoraestructuras.es/",
+              "description": "Free browser-based structural calculators in Spanish: section properties, continuous beams, column buckling (EC3/CTE), 2D trusses and frames, Spanish CTE loads and timber beams (DB SE-M), with steel section tables; no login."
             }
           ]
         },
