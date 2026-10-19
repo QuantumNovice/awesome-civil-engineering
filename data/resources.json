@@ -497,7 +497,7 @@
         },
         {
           "name": "X Slope",
-          "url":"https://github.com/njones61/xslope",
+          "url": "https://github.com/njones61/xslope",
           "description": "Open-source python package for seepage and slope stability analysis"
         }
       ]
@@ -1089,6 +1089,11 @@
               "name": "RoofingCalculatorHQ",
               "url": "https://roofingcalculatorhq.com",
               "description": "Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports."
+            },
+            {
+              "name": "Roof Cost Data",
+              "url": "https://roofcostdata.com/roof-replacement-cost-calculator",
+              "description": "Free U.S. roof replacement planning calculator using roof size, roofing material, tear-off, and local labor assumptions, with low-to-high installed-cost ranges; no account required."
             },
             {
               "name": "BuildRefs",
