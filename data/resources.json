@@ -1119,6 +1119,11 @@
               "name": "TrueToolCalc",
               "url": "https://truetoolcalc.com/",
               "description": "Free construction calculators for concrete slab, column and footing volume, premix bag counts, brick, CMU block and mortar, plus flooring, roofing and fencing; each tool shows its formula, a worked example and its limitations."
+            },
+            {
+              "name": "Hexvan Trade Calculators",
+              "url": "https://hexvan.com/tools",
+              "description": "Free calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing; metric or imperial, and each page shows its formula and a worked example."
             }
           ]
         }

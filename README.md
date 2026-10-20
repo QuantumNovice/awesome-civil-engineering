@@ -281,6 +281,7 @@
 - [Build Quantities](https://buildquantities.com/calculators/) - Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations.
 - [Libre Calculator](https://librecalculator.com/calculators/concrete/) - Free concrete slab volume calculator using dimensions and an adjustable allowance, with worked steps and a diagram.
 - [TrueToolCalc](https://truetoolcalc.com/) - Free construction calculators for concrete slab, column and footing volume, premix bag counts, brick, CMU block and mortar, plus flooring, roofing and fencing; each tool shows its formula, a worked example and its limitations.
+- [Hexvan Trade Calculators](https://hexvan.com/tools) - Free calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing; metric or imperial, and each page shows its formula and a worked example.
 
 ## Drafting
 
