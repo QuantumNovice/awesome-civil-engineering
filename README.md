@@ -292,6 +292,7 @@
 - [OpenRail Designer](https://www.bentley.com/software/openrail-designer/) - Rail design software.
 - [OpenBuildings Designer](https://www.bentley.com/software/openbuildings-designer/) - BIM software for building design and documentation.
 - [QCAD](https://www.qcad.org/en/) - Open-source 2D CAD application for technical drawings, plans, details, schematics, and DXF/DWG workflows.
+- [Cicada](https://hexenwerkzeug.com/tools/cicada) - Free browser-based 2D CAD that opens DWG and DXF files and saves DXF and SVG, with no install or upload.
 
 ## 3D Modelling
 

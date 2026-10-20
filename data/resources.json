@@ -1166,6 +1166,11 @@
           "name": "QCAD",
           "url": "https://www.qcad.org/en/",
           "description": "Open-source 2D CAD application for technical drawings, plans, details, schematics, and DXF/DWG workflows."
+        },
+        {
+          "name": "Cicada",
+          "url": "https://hexenwerkzeug.com/tools/cicada",
+          "description": "Free browser-based 2D CAD that opens DWG and DXF files and saves DXF and SVG, with no install or upload."
         }
       ]
     },
