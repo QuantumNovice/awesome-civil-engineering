@@ -122,12 +122,10 @@
 - [LPile](https://www.ensoftinc.com/products/lpile/) - Program for analyzing laterally loaded piles using p-y methods.
 - [PLAXIS](https://www.bentley.com/products/plaxis-2d/) - Geotechnical finite element analysis software.
 - [FLAC](https://www.itascacg.com/software/flac2d) - Fast Lagrangian Analysis of Continua.
-- [SLOPE/W](https://www.seequent.com/help-support-training-courses-slope-w-fundamentals/) - Slope stability analysis software.
+- [GeoStudio 2D](https://www.seequent.com/products-solutions/geostudio-2d/) - Geotechnical analysis software including SLOPE/W for slope stability, SEEP/W for groundwater flow, and SIGMA/W for stress-deformation analysis.
 - [FLOW-3D](https://www.flow3d.com/) - CFD software used for hydraulic and hydro-geological modeling.
-- [SEEP/W](https://www.seequent.com/help-support-training-courses-seep-w-fundamentals/) - Seepage and groundwater flow analysis software.
-- [SIGMA/W](https://www.seequent.com/help-support-training-courses-sigma-w-fundamentals/) - Stress-deformation analysis software.
-- [GeoStudio](https://www.seequent.com/products-solutions/geostudio-2d/) - Geotechnical modeling suite.
-- [gINT](https://www.seequent.com/help-support/gint-migration-openground/) - Geotechnical information management software.
+- [GeoStudio](https://www.seequent.com/products-solutions/geostudio/) - Geotechnical modeling suite.
+- [gINT](https://www.bentley.com/en/products/gint/) - Geotechnical information management software.
 - [TALREN](https://terrasol.setec.fr/logiciels/talren/) - Slope stability and retaining structure analysis software.
 - [SoilVision Systems](https://soilvision.com/) - Soil mechanics and geotechnical modeling software.
 - [UDEC](https://www.itascacg.com/software/new-in-udec-7-0) - Discrete Element Method program used for rock mechanics and unreinforced masonry analysis.

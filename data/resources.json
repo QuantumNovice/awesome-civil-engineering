@@ -406,9 +406,9 @@
           "description": "Fast Lagrangian Analysis of Continua."
         },
         {
-          "name": "SLOPE/W",
-          "url": "https://www.seequent.com/help-support-training-courses-slope-w-fundamentals/",
-          "description": "Slope stability analysis software."
+          "name": "GeoStudio 2D",
+          "url": "https://www.seequent.com/products-solutions/geostudio-2d/",
+          "description": "Geotechnical analysis software including SLOPE/W for slope stability, SEEP/W for groundwater flow, and SIGMA/W for stress-deformation analysis."
         },
         {
           "name": "FLOW-3D",
@@ -416,23 +416,13 @@
           "description": "CFD software used for hydraulic and hydro-geological modeling."
         },
         {
-          "name": "SEEP/W",
-          "url": "https://www.seequent.com/help-support-training-courses-seep-w-fundamentals/",
-          "description": "Seepage and groundwater flow analysis software."
-        },
-        {
-          "name": "SIGMA/W",
-          "url": "https://www.seequent.com/help-support-training-courses-sigma-w-fundamentals/",
-          "description": "Stress-deformation analysis software."
-        },
-        {
           "name": "GeoStudio",
-          "url": "https://www.seequent.com/products-solutions/geostudio-2d/",
+          "url": "https://www.seequent.com/products-solutions/geostudio/",
           "description": "Geotechnical modeling suite."
         },
         {
           "name": "gINT",
-          "url": "https://www.seequent.com/help-support/gint-migration-openground/",
+          "url": "https://www.bentley.com/en/products/gint/",
           "description": "Geotechnical information management software."
         },
         {
