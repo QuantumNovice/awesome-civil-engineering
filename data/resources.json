@@ -1066,24 +1066,9 @@
           "title": "Concrete and Construction",
           "items": [
             {
-              "name": "SlabCalc.co",
-              "url": "https://slabcalc.co",
-              "description": "Concrete calculator for slabs, driveways, patios, foundations, volume, and cost estimation."
-            },
-            {
-              "name": "Concrete Calculate",
-              "url": "https://concrete-calculate.com",
-              "description": "Concrete volume, bag count (40/60/80 lb), weight, and 2026 cost calculator for slabs, columns, steps, and curbs. Imperial and metric."
-            },
-            {
               "name": "Concrete Calculator Hub",
               "url": "https://concreteestimatorhub.com/",
               "description": "Free concrete calculators and reference guides for concrete volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning."
-            },
-            {
-              "name": "Asphalt Calculate",
-              "url": "https://asphalt-calculate.com",
-              "description": "Asphalt tonnage, cost, and thickness calculator for driveways, parking lots, and paths. Supports rectangle, circle, triangle, and L-shaped areas."
             },
             {
               "name": "RoofingCalculatorHQ",
@@ -1436,11 +1421,6 @@
           "name": "Basecamp",
           "url": "https://basecamp.com/",
           "description": "Project management and collaboration."
-        },
-        {
-          "name": "Achievion",
-          "url": "https://achievion.com/",
-          "description": "Construction project management and software development services."
         },
         {
           "name": "Smartsheet",
