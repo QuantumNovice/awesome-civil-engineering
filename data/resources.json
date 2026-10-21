@@ -47,7 +47,7 @@
         },
         {
           "name": "Trimble Connect",
-          "url": "https://connect.trimble.com/",
+          "url": "https://www.trimble.com/en/products/trimble-connect",
           "description": "Common data environment for BIM and construction collaboration."
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "name": "ICPR",
-          "url": "https://streamnologies.com/icpr/",
+          "url": "https://streamline.tech/stormwise",
           "description": "Hydraulic and groundwater modeling software by Streamline Technologies."
         },
         {
@@ -227,7 +227,7 @@
         },
         {
           "name": "SCIA Engineer",
-          "url": "https://www.scia.net/en/products/scia-engineer",
+          "url": "https://www.scia.net/en/scia-engineer",
           "description": "Structural analysis and design software."
         },
         {
@@ -242,7 +242,7 @@
         },
         {
           "name": "RISA-3D",
-          "url": "https://risa.com/risa-3d/",
+          "url": "https://risa.com/products/risa-3d",
           "description": "3D structural analysis software for buildings and bridges."
         },
         {
@@ -257,7 +257,7 @@
         },
         {
           "name": "SkyCiv Structural 3D",
-          "url": "https://skyciv.com/structural-analysis-software/",
+          "url": "https://skyciv.com/structural-software/s3d-structural-analysis-software/",
           "description": "Cloud structural analysis and design software."
         },
         {
@@ -397,7 +397,7 @@
         },
         {
           "name": "PLAXIS",
-          "url": "https://www.bentley.com/software/plaxis/",
+          "url": "https://www.bentley.com/products/plaxis-2d/",
           "description": "Geotechnical finite element analysis software."
         },
         {
@@ -407,7 +407,7 @@
         },
         {
           "name": "SLOPE/W",
-          "url": "https://www.geoslope.com/products/slope-w",
+          "url": "https://www.seequent.com/help-support-training-courses-slope-w-fundamentals/",
           "description": "Slope stability analysis software."
         },
         {
@@ -417,27 +417,27 @@
         },
         {
           "name": "SEEP/W",
-          "url": "https://www.geoslope.com/products/seep-w",
+          "url": "https://www.seequent.com/help-support-training-courses-seep-w-fundamentals/",
           "description": "Seepage and groundwater flow analysis software."
         },
         {
           "name": "SIGMA/W",
-          "url": "https://www.geoslope.com/products/sigma-w",
+          "url": "https://www.seequent.com/help-support-training-courses-sigma-w-fundamentals/",
           "description": "Stress-deformation analysis software."
         },
         {
           "name": "GeoStudio",
-          "url": "https://www.geoslope.com/products/geostudio",
+          "url": "https://www.seequent.com/products-solutions/geostudio-2d/",
           "description": "Geotechnical modeling suite."
         },
         {
           "name": "gINT",
-          "url": "https://www.bentley.com/software/gint/",
+          "url": "https://www.seequent.com/help-support/gint-migration-openground/",
           "description": "Geotechnical information management software."
         },
         {
           "name": "TALREN",
-          "url": "https://www.terrasol.com/software/talren-v6/",
+          "url": "https://terrasol.setec.fr/logiciels/talren/",
           "description": "Slope stability and retaining structure analysis software."
         },
         {
@@ -517,7 +517,7 @@
         },
         {
           "name": "Aimsun Next",
-          "url": "https://www.aimsun.com/aimsun-next/",
+          "url": "https://www.aimsun.com/aimsun-next-transport-modelling-software/",
           "description": "Microscopic and mesoscopic traffic simulation software."
         },
         {
@@ -532,12 +532,12 @@
         },
         {
           "name": "Highway Capacity Software",
-          "url": "https://mctrans.ce.ufl.edu/mct/index.php/hcs/",
+          "url": "https://mctrans.ce.ufl.edu/highway-capacity-software-hcs/",
           "description": "Highway Capacity Manual analysis software."
         },
         {
           "name": "CORSIM",
-          "url": "https://mctrans.ce.ufl.edu/mct/index.php/corsim/",
+          "url": "https://mctrans.ce.ufl.edu/tsis-corsim/",
           "description": "Traffic simulation software."
         },
         {
@@ -547,7 +547,7 @@
         },
         {
           "name": "PTV Vistro",
-          "url": "https://www.ptvgroup.com/en/products/ptv-vistro",
+          "url": "https://www.ptvgroup.com/en/products/traffic-engineering-software-ptv-vistro",
           "description": "Traffic engineering and analysis software."
         },
         {
@@ -632,7 +632,7 @@
         },
         {
           "name": "AQUATOX",
-          "url": "https://www.epa.gov/water-research/aquatox",
+          "url": "https://www.epa.gov/hydrowq/aquatox",
           "description": "EPA model for ecological effects of pollutants and other stressors on aquatic ecosystems."
         },
         {
@@ -657,7 +657,7 @@
         },
         {
           "name": "Sphera LCA for Experts",
-          "url": "https://sphera.com/product-sustainability-software/lca-software/",
+          "url": "https://sphera.com/solutions/product-stewardship/life-cycle-assessment-software-and-data/lca-for-experts/",
           "description": "Life cycle assessment and product sustainability software."
         },
         {
@@ -957,7 +957,7 @@
         },
         {
           "name": "Mathcad",
-          "url": "https://www.mathcad.com/en",
+          "url": "https://www.ptc.com/en/products/mathcad",
           "description": "Engineering calculation worksheet software."
         },
         {
@@ -1017,7 +1017,7 @@
         },
         {
           "name": "SymPy",
-          "url": "https://docs.sympy.org/",
+          "url": "https://docs.sympy.org/latest/index.html",
           "description": "Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics."
         },
         {
@@ -1129,7 +1129,7 @@
         },
         {
           "name": "BricsCAD",
-          "url": "https://www.bricsys.com/bricscad/",
+          "url": "https://bricscad.octave.com/bricscad",
           "description": "CAD software for AEC."
         },
         {
@@ -1224,7 +1224,7 @@
         },
         {
           "name": "Rhino.Inside.Revit",
-          "url": "https://www.rhino3d.com/inside/revit/",
+          "url": "https://www.rhino3d.com/inside/revit/1.0/",
           "description": "Rhino and Grasshopper inside Revit."
         },
         {
@@ -1484,7 +1484,7 @@
         },
         {
           "name": "Google Sheets",
-          "url": "https://www.google.com/sheets/about/",
+          "url": "https://workspace.google.com/products/sheets/",
           "description": "Online spreadsheet software by Google."
         },
         {
@@ -1499,7 +1499,7 @@
         },
         {
           "name": "WPS Spreadsheets",
-          "url": "https://www.wps.com/office/spreadsheets/",
+          "url": "https://www.wps.com/office/spreadsheet/",
           "description": "Spreadsheet software by WPS Office."
         },
         {
@@ -1579,7 +1579,7 @@
         },
         {
           "name": "Segment Anything",
-          "url": "https://segment-anything.com/",
+          "url": "https://github.com/facebookresearch/segment-anything",
           "description": "Foundation model for image segmentation workflows."
         },
         {
@@ -1793,7 +1793,7 @@
           "items": [
             {
               "name": "Julia Documentation",
-              "url": "https://docs.julialang.org/",
+              "url": "https://docs.julialang.org/en/v1/",
               "description": "Official language documentation for scientific and technical computing."
             },
             {
@@ -1818,7 +1818,7 @@
             },
             {
               "name": "DifferentialEquations.jl",
-              "url": "https://diffeq.sciml.ai/stable/",
+              "url": "https://docs.sciml.ai/DiffEqDocs/stable/",
               "description": "Numerical solvers for differential equations and simulation models."
             },
             {
@@ -1923,7 +1923,7 @@
             },
             {
               "name": "nalgebra",
-              "url": "https://nalgebra.org/",
+              "url": "https://www.nalgebra.rs/",
               "description": "Linear algebra for engineering and scientific computing."
             },
             {

@@ -42,7 +42,7 @@
 - [Autodesk BIM 360](https://www.autodesk.com/bim-360/) - Legacy Autodesk construction management platform, now within Autodesk Construction Cloud.
 - [CoConstruct](https://www.buildertrend.com/coconstruct/) - Residential construction management product now part of Buildertrend.
 - [Autodesk Construction Cloud](https://construction.autodesk.com/) - Cloud platform for design collaboration, model coordination, build workflows, and operations handover.
-- [Trimble Connect](https://connect.trimble.com/) - Common data environment for BIM and construction collaboration.
+- [Trimble Connect](https://www.trimble.com/en/products/trimble-connect) - Common data environment for BIM and construction collaboration.
 - [Typst](https://typst.app/docs/) - Open-source markup-based typesetting system for fast, reproducible technical reports with equations, references, and templates.
 
 ## Water Resources and Drainage
@@ -59,7 +59,7 @@
 - [InfoWorks ICM](https://www.autodesk.com/products/infoworks-icm/overview) - Integrated catchment modeling for drainage, sewer, and flood networks.
 - [PCSWMM](https://www.pcswmm.com/) - Stormwater, wastewater, and watershed modeling software.
 - [i-Water Flow](https://i-water.org/) - Integrated water management software.
-- [ICPR](https://streamnologies.com/icpr/) - Hydraulic and groundwater modeling software by Streamline Technologies.
+- [ICPR](https://streamline.tech/stormwise) - Hydraulic and groundwater modeling software by Streamline Technologies.
 - [InfoWater Pro](https://www.autodesk.com/products/infowater-pro/overview) - Water distribution modeling in an ArcGIS-based interface.
 - [CE-QUAL-W2](http://www.ce.pdx.edu/w2/) - 2D water quality and hydrodynamic modeling for rivers, estuaries, lakes, reservoirs, and river basin systems.
 - [OpenFlows SewerGEMS](https://www.bentley.com/software/openflows-sewergems/) - Sanitary and combined sewer modeling.
@@ -82,13 +82,13 @@
 - [PROKON](https://www.prokon.com/) - Structural analysis and design suite.
 - [Tekla Structures](https://www.tekla.com/products/tekla-structures) - Constructible BIM for steel and concrete detailing.
 - [midas Civil](https://www.midasoft.com/bridge-library/civil) - Bridge and civil structural analysis software.
-- [SCIA Engineer](https://www.scia.net/en/products/scia-engineer) - Structural analysis and design software.
+- [SCIA Engineer](https://www.scia.net/en/scia-engineer) - Structural analysis and design software.
 - [RAM Structural System](https://www.bentley.com/software/ram-structural-system/) - Building analysis and design by Bentley Systems.
 - [STAAD.Pro](https://www.bentley.com/software/staad/) - Structural analysis and design software.
-- [RISA-3D](https://risa.com/risa-3d/) - 3D structural analysis software for buildings and bridges.
+- [RISA-3D](https://risa.com/products/risa-3d) - 3D structural analysis software for buildings and bridges.
 - [Dlubal RFEM](https://www.dlubal.com/en/products/rfem-fea-software/what-is-rfem) - 3D finite element analysis software for structural analysis and design.
 - [SpaceGASS](https://spacegass.com/) - 3D analysis and design for beams, trusses, frames, buildings, towers, tanks, cable structures, and bridges.
-- [SkyCiv Structural 3D](https://skyciv.com/structural-analysis-software/) - Cloud structural analysis and design software.
+- [SkyCiv Structural 3D](https://skyciv.com/structural-software/s3d-structural-analysis-software/) - Cloud structural analysis and design software.
 - [SOFiSTiK](https://www.sofistik.com/) - Analysis, design, and BIM-integrated workflows for buildings, bridges, and infrastructure.
 - [IDEA StatiCa](https://www.ideastatica.com/) - Steel, concrete, and connection design and code checking.
 - [StruSoft FEM-Design](https://strusoft.com/software/fem-design/) - 3D finite element structural analysis and design.
@@ -120,15 +120,15 @@
 ## Geotechnical Engineering
 
 - [LPile](https://www.ensoftinc.com/products/lpile/) - Program for analyzing laterally loaded piles using p-y methods.
-- [PLAXIS](https://www.bentley.com/software/plaxis/) - Geotechnical finite element analysis software.
+- [PLAXIS](https://www.bentley.com/products/plaxis-2d/) - Geotechnical finite element analysis software.
 - [FLAC](https://www.itascacg.com/software/flac2d) - Fast Lagrangian Analysis of Continua.
-- [SLOPE/W](https://www.geoslope.com/products/slope-w) - Slope stability analysis software.
+- [SLOPE/W](https://www.seequent.com/help-support-training-courses-slope-w-fundamentals/) - Slope stability analysis software.
 - [FLOW-3D](https://www.flow3d.com/) - CFD software used for hydraulic and hydro-geological modeling.
-- [SEEP/W](https://www.geoslope.com/products/seep-w) - Seepage and groundwater flow analysis software.
-- [SIGMA/W](https://www.geoslope.com/products/sigma-w) - Stress-deformation analysis software.
-- [GeoStudio](https://www.geoslope.com/products/geostudio) - Geotechnical modeling suite.
-- [gINT](https://www.bentley.com/software/gint/) - Geotechnical information management software.
-- [TALREN](https://www.terrasol.com/software/talren-v6/) - Slope stability and retaining structure analysis software.
+- [SEEP/W](https://www.seequent.com/help-support-training-courses-seep-w-fundamentals/) - Seepage and groundwater flow analysis software.
+- [SIGMA/W](https://www.seequent.com/help-support-training-courses-sigma-w-fundamentals/) - Stress-deformation analysis software.
+- [GeoStudio](https://www.seequent.com/products-solutions/geostudio-2d/) - Geotechnical modeling suite.
+- [gINT](https://www.seequent.com/help-support/gint-migration-openground/) - Geotechnical information management software.
+- [TALREN](https://terrasol.setec.fr/logiciels/talren/) - Slope stability and retaining structure analysis software.
 - [SoilVision Systems](https://soilvision.com/) - Soil mechanics and geotechnical modeling software.
 - [UDEC](https://www.itascacg.com/software/new-in-udec-7-0) - Discrete Element Method program used for rock mechanics and unreinforced masonry analysis.
 - [Carlson Geotech](https://www.carlsones.com/product/carlson-geotech/) - Borehole, strata, and geotechnical CAD workflows.
@@ -146,13 +146,13 @@
 
 - [Synchro](https://www.trafficware.com/synchro-studio/) - Traffic signal timing and analysis software.
 - [PTV Vissim](https://www.ptvgroup.com/en/products/ptv-vissim) - Microscopic multimodal traffic simulation software.
-- [Aimsun Next](https://www.aimsun.com/aimsun-next/) - Microscopic and mesoscopic traffic simulation software.
+- [Aimsun Next](https://www.aimsun.com/aimsun-next-transport-modelling-software/) - Microscopic and mesoscopic traffic simulation software.
 - [TransModeler](https://www.caliper.com/transmodeler/) - Traffic simulation software.
 - [Paramics](https://www.paramics.co.uk/) - Microscopic traffic simulation software.
-- [Highway Capacity Software](https://mctrans.ce.ufl.edu/mct/index.php/hcs/) - Highway Capacity Manual analysis software.
-- [CORSIM](https://mctrans.ce.ufl.edu/mct/index.php/corsim/) - Traffic simulation software.
+- [Highway Capacity Software](https://mctrans.ce.ufl.edu/highway-capacity-software-hcs/) - Highway Capacity Manual analysis software.
+- [CORSIM](https://mctrans.ce.ufl.edu/tsis-corsim/) - Traffic simulation software.
 - [SIDRA INTERSECTION](https://www.sidrasolutions.com/software/sidra-intersection) - Intersection capacity and level-of-service analysis software.
-- [PTV Vistro](https://www.ptvgroup.com/en/products/ptv-vistro) - Traffic engineering and analysis software.
+- [PTV Vistro](https://www.ptvgroup.com/en/products/traffic-engineering-software-ptv-vistro) - Traffic engineering and analysis software.
 - [TransCAD](https://www.caliper.com/tcovu.htm) - GIS-based transportation planning and modeling software.
 - [GuideSign](https://www.transoftsolutions.com/signage/guidesign/) - CAD software for designing roadway and highway signs.
 - [AutoTurn](https://www.transoftsolutions.com/vehicle-swept-path/autoturn/) - Vehicle swept path analysis and turning simulation.
@@ -171,12 +171,12 @@
 
 - [StormCAD](https://www.bentley.com/software/openflows-stormcad/) - Design and analysis of stormwater conveyance systems.
 - [Enviro.Space Air Dispersion Modeling Software](https://www.enviro.space/products/air-dispersion-modeling-software) - Air pollutant dispersion modeling.
-- [AQUATOX](https://www.epa.gov/water-research/aquatox) - EPA model for ecological effects of pollutants and other stressors on aquatic ecosystems.
+- [AQUATOX](https://www.epa.gov/hydrowq/aquatox) - EPA model for ecological effects of pollutants and other stressors on aquatic ecosystems.
 - [SRH-2D](https://www.usbr.gov/tsc/techreferences/computer%20software/models/srh2d/index.html) - Two-dimensional Sedimentation and River Hydraulics solver.
 - [AERMOD](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models) - EPA-preferred steady-state plume model for air dispersion.
 - [OpenLCA](https://www.openlca.org/) - Open-source life cycle assessment software.
 - [SimaPro](https://simapro.com/) - Life cycle assessment software for sustainability and environmental product analysis.
-- [Sphera LCA for Experts](https://sphera.com/product-sustainability-software/lca-software/) - Life cycle assessment and product sustainability software.
+- [Sphera LCA for Experts](https://sphera.com/solutions/product-stewardship/life-cycle-assessment-software-and-data/lca-for-experts/) - Life cycle assessment and product sustainability software.
 - [Brightway](https://docs.brightway.dev/en/latest/) - Open-source Python framework for life-cycle inventory and environmental impact assessment using large datasets.
 - [EnergyPlus](https://energyplus.net/) - Open-source whole-building energy simulation engine funded by the US Department of Energy.
 - [OpenStudio](https://openstudio.net/) - Open-source tools for building energy modeling with EnergyPlus and daylighting analysis.
@@ -242,7 +242,7 @@
 ## Calculations
 
 - [SMath Studio](https://en.smath.com/view/SMathStudio/summary) - Free mathematical notebook program for engineering calculations.
-- [Mathcad](https://www.mathcad.com/en) - Engineering calculation worksheet software.
+- [Mathcad](https://www.ptc.com/en/products/mathcad) - Engineering calculation worksheet software.
 - [Blockpad](https://blockpad.net/) - Dynamic calculation documents that work like a spreadsheet.
 - [EngineeringPaper.xyz](https://engineeringpaper.xyz) - Free and open-source browser-based engineering calculations.
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - Numerical computing software by MathWorks.
@@ -254,7 +254,7 @@
 - [Scilab](https://www.scilab.org/) - Free and open-source numerical computing software.
 - [Julia](https://julialang.org/) - High-level programming language for numerical and scientific computing.
 - [TEDDS](https://www.tekla.com/products/tekla-tedds) - Productivity tool for repetitive structural calculations.
-- [SymPy](https://docs.sympy.org/) - Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics.
+- [SymPy](https://docs.sympy.org/latest/index.html) - Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics.
 - [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
 
 ## Web Calculators
@@ -284,7 +284,7 @@
 
 - [AutoCAD](https://www.autodesk.com/products/autocad/overview) - CAD software.
 - [MicroStation](https://www.bentley.com/software/microstation/) - CAD software for architecture, engineering, and construction.
-- [BricsCAD](https://www.bricsys.com/bricscad/) - CAD software for AEC.
+- [BricsCAD](https://bricscad.octave.com/bricscad) - CAD software for AEC.
 - [AutoCAD Architecture](https://www.autodesk.com/products/autocad/included-toolsets/autocad-architecture) - CAD software for architectural design.
 - [nanoCAD](https://nanocad.com/) - CAD platform.
 - [OpenRail Designer](https://www.bentley.com/software/openrail-designer/) - Rail design software.
@@ -305,7 +305,7 @@
 - [ArchiCAD](https://graphisoft.com/solutions/archicad) - BIM software for architects.
 - [FreeCAD](https://www.freecad.org/) - Open-source parametric 3D modeler for drafting, modeling, and engineering workflows.
 - [Inventor](https://www.autodesk.com/products/inventor/overview) - 3D CAD software providing professional mechanical design, documentation, and product simulation tools.
-- [Rhino.Inside.Revit](https://www.rhino3d.com/inside/revit/) - Rhino and Grasshopper inside Revit.
+- [Rhino.Inside.Revit](https://www.rhino3d.com/inside/revit/1.0/) - Rhino and Grasshopper inside Revit.
 - [Fint-Revit](https://github.com/QuantumNovice/fint-revit) - Desktop utility that detects installed Revit versions and manages their add-ins.
 - [Grasshopper](https://www.grasshopper3d.com/) - Visual programming environment for Rhino.
 - [OpenSCAD](https://openscad.org/about.html) - Open-source script-based solid 3D CAD modeler for precise, reproducible, and parameterized geometry.
@@ -363,10 +363,10 @@
 ## Spreadsheet
 
 - [Microsoft Excel](https://www.microsoft.com/microsoft-365/excel) - Spreadsheet software by Microsoft.
-- [Google Sheets](https://www.google.com/sheets/about/) - Online spreadsheet software by Google.
+- [Google Sheets](https://workspace.google.com/products/sheets/) - Online spreadsheet software by Google.
 - [LibreOffice Calc](https://www.libreoffice.org/discover/calc/) - Free and open-source spreadsheet software.
 - [Apple Numbers](https://www.apple.com/numbers/) - Spreadsheet software by Apple.
-- [WPS Spreadsheets](https://www.wps.com/office/spreadsheets/) - Spreadsheet software by WPS Office.
+- [WPS Spreadsheets](https://www.wps.com/office/spreadsheet/) - Spreadsheet software by WPS Office.
 - [Airtable](https://www.airtable.com/) - Database-style spreadsheet and app platform.
 - [Zoho Sheet](https://www.zoho.com/sheet/) - Online spreadsheet software.
 - [Quip Spreadsheets](https://quip.com/) - Collaborative spreadsheets inside Salesforce Quip.
@@ -384,7 +384,7 @@
 - [XGBoost](https://xgboost.ai/) - Gradient boosting library.
 - [LightGBM](https://lightgbm.readthedocs.io/) - Gradient boosting library.
 - [Ultralytics YOLO](https://www.ultralytics.com/) - Computer vision models often used for defect detection, traffic analysis, and site imagery workflows.
-- [Segment Anything](https://segment-anything.com/) - Foundation model for image segmentation workflows.
+- [Segment Anything](https://github.com/facebookresearch/segment-anything) - Foundation model for image segmentation workflows.
 - [Hugging Face](https://huggingface.co/) - Model, dataset, and machine learning application hub.
 - [LangChain](https://www.langchain.com/) - Framework for building LLM applications and retrieval workflows.
 - [LlamaIndex](https://www.llamaindex.ai/) - Data framework for LLM applications over documents and structured data.
@@ -434,12 +434,12 @@
 
 ### Julia
 
-- [Julia Documentation](https://docs.julialang.org/) - Official language documentation for scientific and technical computing.
+- [Julia Documentation](https://docs.julialang.org/en/v1/) - Official language documentation for scientific and technical computing.
 - [JuliaGeo](https://juliageo.org/) - Geospatial packages for Julia.
 - [GeoDataFrames.jl](https://github.com/evetion/GeoDataFrames.jl) - Read and write vector geospatial data.
 - [ArchGDAL.jl](https://github.com/yeesian/ArchGDAL.jl) - GDAL bindings for raster and vector geospatial workflows.
 - [JuMP](https://jump.dev/JuMP.jl/stable/) - Mathematical optimization for operations research, network design, and planning problems.
-- [DifferentialEquations.jl](https://diffeq.sciml.ai/stable/) - Numerical solvers for differential equations and simulation models.
+- [DifferentialEquations.jl](https://docs.sciml.ai/DiffEqDocs/stable/) - Numerical solvers for differential equations and simulation models.
 - [Ferrite.jl](https://ferrite-fem.github.io/Ferrite.jl/stable/) - General and performant Julia finite element toolbox for implementing custom engineering analyses.
 
 ### R
@@ -466,7 +466,7 @@
 ### Rust
 
 - [The Rust Book](https://doc.rust-lang.org/book/) - Official Rust learning resource.
-- [nalgebra](https://nalgebra.org/) - Linear algebra for engineering and scientific computing.
+- [nalgebra](https://www.nalgebra.rs/) - Linear algebra for engineering and scientific computing.
 - [geo](https://github.com/georust/geo) - Geospatial primitives, algorithms, and geometry operations.
 - [geojson](https://github.com/georust/geojson) - Read and write GeoJSON data.
 - [proj](https://github.com/georust/proj) - Coordinate projection bindings for Rust.
