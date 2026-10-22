@@ -1081,6 +1081,11 @@
               "description": "Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags."
             },
             {
+              "name": "Concrete Quantity",
+              "url": "https://concretequantity.com",
+              "description": "Free concrete calculators: 17 tools for slabs, footings, walls, columns, stairs, block walls, driveways, gravel and mortar, with imperial and metric units, bag counts and cost estimates."
+            },
+            {
               "name": "Build Quantities",
               "url": "https://buildquantities.com/calculators/",
               "description": "Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations."
@@ -1099,6 +1104,11 @@
               "name": "Hexvan Trade Calculators",
               "url": "https://hexvan.com/tools",
               "description": "Free calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing; metric or imperial, and each page shows its formula and a worked example."
+            },
+            {
+              "name": "YardCalc",
+              "url": "https://getyardcalc.com/",
+              "description": "Free construction and landscaping material calculators for concrete, asphalt, gravel and sand quantities, bag counts and costs, with worked formulas and user-supplied densities and prices."
             }
           ]
         }
