@@ -1725,6 +1725,11 @@
               "name": "topologicpy",
               "url": "https://github.com/wassimj/topologicpy",
               "description": "Python library for non-manifold topology and spatial modeling of buildings and graphs."
+            },
+            {
+              "name": "concrete-masonry-formulas",
+              "url": "https://github.com/jimny2026a/concrete-masonry-formulas",
+              "description": "Open-sourced formulas and CSV data for concrete volume, bag yields, and brick/CMU counts (JS and Python, MIT); same math as the TrueToolCalc calculators."
             }
           ]
         },

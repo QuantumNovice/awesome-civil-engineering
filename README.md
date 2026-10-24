@@ -417,6 +417,7 @@
 - [OpenPile](https://github.com/TchilDill/openpile) - Python package for laterally and axially loaded pile calculations.
 - [COMPAS](https://compas.dev/) - Open-source Python framework for computational research in architecture, engineering, fabrication, and construction.
 - [topologicpy](https://github.com/wassimj/topologicpy) - Python library for non-manifold topology and spatial modeling of buildings and graphs.
+- [concrete-masonry-formulas](https://github.com/jimny2026a/concrete-masonry-formulas) - Open-sourced formulas and CSV data for concrete volume, bag yields, and brick/CMU counts (JS and Python, MIT); same math as the TrueToolCalc calculators.
 
 ### JavaScript
 
