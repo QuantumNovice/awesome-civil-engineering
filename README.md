@@ -254,6 +254,7 @@
 - [TEDDS](https://www.tekla.com/products/tekla-tedds) - Productivity tool for repetitive structural calculations.
 - [SymPy](https://docs.sympy.org/latest/index.html) - Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics.
 - [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
+* [Level Commercial Building Value & Trade Expenditure Calculator](https://levelcfo.com/tools/building-value-calculator/) - Open commercial building replacement-value and 17-trade annual O&M/capex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties ([Dataset](https://tradesindex.org)).
 
 ## Web Calculators
 
