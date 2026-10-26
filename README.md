@@ -105,6 +105,7 @@
 
 ## Structural Simulation Software
 
+- [AgentFEM](https://github.com/haoming-luo/agentfem) - Open-source FEniCSx-based finite-element workflows for solid mechanics, thermoelasticity, and vibration, with Python models, command-line runs, and result verification.
 - [Ansys](https://www.ansys.com/) - Multiphysics simulation software.
 - [Abaqus](https://www.3ds.com/products/simulia/abaqus) - Finite element analysis software.
 - [LS-DYNA](https://www.ansys.com/products/structures/ansys-ls-dyna) - Dynamic and nonlinear simulation software.
