@@ -331,6 +331,11 @@
       "title": "Structural Simulation Software",
       "items": [
         {
+          "name": "AgentFEM",
+          "url": "https://github.com/haoming-luo/agentfem",
+          "description": "Open-source FEniCSx-based finite-element workflows for solid mechanics, thermoelasticity, and vibration, with Python models, command-line runs, and result verification."
+        },
+        {
           "name": "Ansys",
           "url": "https://www.ansys.com/",
           "description": "Multiphysics simulation software."
