@@ -255,7 +255,7 @@
 - [TEDDS](https://www.tekla.com/products/tekla-tedds) - Productivity tool for repetitive structural calculations.
 - [SymPy](https://docs.sympy.org/latest/index.html) - Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics.
 - [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
-* [Level Commercial Building Value & Trade Expenditure Calculator](https://levelcfo.com/tools/building-revenue-calculator/) - Open commercial building replacement-value and 17-trade annual O&M/capex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties ([Dataset](https://tradesindex.org)).
+- [Level Commercial Building Value & Trade Expenditure Calculator](https://levelcfo.com/tools/building-revenue-calculator/) - Open commercial building replacement-value and 17-trade annual O&M/capex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties ([Dataset](https://tradesindex.org)).
 
 ## Web Calculators
 
@@ -281,6 +281,7 @@
 - [TrueToolCalc](https://truetoolcalc.com/) - Free construction calculators for concrete slab, column and footing volume, premix bag counts, brick, CMU block and mortar, plus flooring, roofing and fencing; each tool shows its formula, a worked example and its limitations.
 - [Hexvan Trade Calculators](https://hexvan.com/tools) - Free calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing; metric or imperial, and each page shows its formula and a worked example.
 - [YardCalc](https://getyardcalc.com/) - Free construction and landscaping material calculators for concrete, asphalt, gravel and sand quantities, bag counts and costs, with worked formulas and user-supplied densities and prices.
+- [ProjectCalcs](https://projectcalcs.com/) - Free browser-based material quantity calculators for concrete, brick, mortar, rebar, flooring, roofing and other home projects; no account required.
 
 ## Drafting
 
