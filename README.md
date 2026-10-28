@@ -102,6 +102,7 @@
 - [LUSAS](https://www.lusas.com/) - Finite element analysis for bridges, civil structures, and nonlinear, dynamic, and staged construction problems.
 - [Strand7](https://www.strand7.com/) - General-purpose finite element analysis for structural, dynamic, and heat transfer problems.
 - [Karamba3D](https://karamba3d.com/) - Parametric structural finite element analysis inside Rhino and Grasshopper.
+- [RodX](https://rodxcalc.com/) - Browser-based 2D finite element analysis of beams, frames, and trusses, with published verification cases; freemium.
 
 ## Structural Simulation Software
 
@@ -267,6 +268,7 @@
 - [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams.
 - [Xarpis 2D Frame & Beam FEA](https://www.xarpis.com/calculators/frame-fea-2d) - Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes.
 - [Calculadora Estructuras](https://www.calculadoraestructuras.es/) - Free browser-based structural calculators in Spanish: section properties, continuous beams, column buckling (EC3/CTE), 2D trusses and frames, Spanish CTE loads and timber beams (DB SE-M), with steel section tables; no login.
+- [RodX Beam Calculator](https://rodxcalc.com/beam-calculator) - Free browser-based continuous beam analysis with internal hinges, point, distributed, and moment loads, user-defined E and I, reactions, and shear, moment, and deflection diagrams; no login.
 
 ### Concrete and Construction
 
