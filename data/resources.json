@@ -324,11 +324,6 @@
           "name": "Karamba3D",
           "url": "https://karamba3d.com/",
           "description": "Parametric structural finite element analysis inside Rhino and Grasshopper."
-        },
-        {
-          "name": "RodX",
-          "url": "https://rodxcalc.com/",
-          "description": "Browser-based 2D finite element analysis of beams, frames, and trusses, with published verification cases; freemium."
         }
       ]
     },

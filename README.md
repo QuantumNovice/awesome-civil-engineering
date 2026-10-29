@@ -102,7 +102,6 @@
 - [LUSAS](https://www.lusas.com/) - Finite element analysis for bridges, civil structures, and nonlinear, dynamic, and staged construction problems.
 - [Strand7](https://www.strand7.com/) - General-purpose finite element analysis for structural, dynamic, and heat transfer problems.
 - [Karamba3D](https://karamba3d.com/) - Parametric structural finite element analysis inside Rhino and Grasshopper.
-- [RodX](https://rodxcalc.com/) - Browser-based 2D finite element analysis of beams, frames, and trusses, with published verification cases; freemium.
 
 ## Structural Simulation Software
 
