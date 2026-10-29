@@ -35,12 +35,23 @@ Profiles already included in the manual acknowledgements are omitted here to
 avoid duplicates.
 
 <!-- github-contributors:start -->
+- [@aclarembeau](https://github.com/aclarembeau)
 - [@braedonsaunders](https://github.com/braedonsaunders)
 - [@CodingCossack](https://github.com/CodingCossack)
 - [@egmalt](https://github.com/egmalt)
+- [@fluorolotus](https://github.com/fluorolotus)
+- [@haoming-luo](https://github.com/haoming-luo)
+- [@jimny2026a](https://github.com/jimny2026a)
+- [@martymonero](https://github.com/martymonero)
+- [@mathus1](https://github.com/mathus1)
 - [@osama-ata](https://github.com/osama-ata)
+- [@Pablogonza97](https://github.com/Pablogonza97)
 - [@QuantumNovice](https://github.com/QuantumNovice)
+- [@samtlyoung](https://github.com/samtlyoung)
+- [@thomaspoliq](https://github.com/thomaspoliq)
+- [@tonyzedginidze](https://github.com/tonyzedginidze)
 - [@yvann-ba](https://github.com/yvann-ba)
+- [@ztao0916](https://github.com/ztao0916)
 <!-- github-contributors:end -->
 
 ### Additional GitHub acknowledgements

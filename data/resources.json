@@ -696,6 +696,11 @@
           "description": "Cloud-based early-stage planning and design analysis for AEC."
         },
         {
+          "name": "BIM Craft",
+          "description": "Open-Source BIM software for AEC workflows with support for Revit and IFC files.",
+          "url": "https://github.com/IPedrax/BIMCraft"
+        },
+        {
           "name": "Tekla PowerFab",
           "url": "https://www.tekla.com/products/tekla-powerfab",
           "description": "Steel fabrication management software suite providing real-time operational control and visibility."
