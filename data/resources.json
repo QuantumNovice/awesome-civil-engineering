@@ -1093,7 +1093,7 @@
             {
               "name": "Concrete Quantity",
               "url": "https://concretequantity.com",
-              "description": "Free concrete calculators: 17 tools for slabs, footings, walls, columns, stairs, block walls, driveways, gravel and mortar, with imperial and metric units, bag counts and cost estimates."
+              "description": "Free concrete calculators: 32 tools for slabs, footings, walls, columns, stairs, block walls, driveways, gravel and mortar, with imperial and metric units, bag counts and cost estimates."
             },
             {
               "name": "Build Quantities",
@@ -1116,9 +1116,19 @@
               "description": "Free calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing; metric or imperial, and each page shows its formula and a worked example."
             },
             {
+              "name": "Level Commercial Building Value & Trade Expenditure Calculator",
+              "url": "https://levelcfo.com/tools/building-revenue-calculator/",
+              "description": "Open commercial building replacement-value and 17-trade annual O&M/capex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties ([Dataset](https://tradesindex.org))."
+            },
+            {
               "name": "YardCalc",
               "url": "https://getyardcalc.com/",
               "description": "Free construction and landscaping material calculators for concrete, asphalt, gravel and sand quantities, bag counts and costs, with worked formulas and user-supplied densities and prices."
+            },
+            {
+              "name": "ProjectCalcs",
+              "url": "https://projectcalcs.com/",
+              "description": "Free browser-based material quantity calculators for concrete, brick, mortar, rebar, flooring, roofing and other home projects; no account required."
             }
           ]
         }
