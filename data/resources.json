@@ -1019,11 +1019,6 @@
           "name": "Construction Takeoff Practice Plans",
           "url": "https://github.com/krflol/takeoff-field-tools-practice-plans",
           "description": "Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes."
-        },
-        {
-          "name": "Level Commercial Building Value & Trade Expenditure Calculator",
-          "url": "https://levelcfo.com/tools/building-revenue-calculator/",
-          "description": "Open commercial building replacement-value and 17-trade annual O&M/capex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties ([Dataset](https://tradesindex.org))."
         }
       ]
     },
@@ -1114,6 +1109,11 @@
               "name": "Hexvan Trade Calculators",
               "url": "https://hexvan.com/tools",
               "description": "Free calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing; metric or imperial, and each page shows its formula and a worked example."
+            },
+            {
+              "name": "Level Commercial Building Value & Trade Expenditure Calculator",
+              "url": "https://levelcfo.com/tools/building-revenue-calculator/",
+              "description": "Open commercial building replacement-value and 17-trade annual O&M/capex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties ([Dataset](https://tradesindex.org))."
             },
             {
               "name": "YardCalc",
