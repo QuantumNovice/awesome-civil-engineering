@@ -1118,27 +1118,27 @@
             {
               "name": "Hexvan Trade Calculators",
               "url": "https://hexvan.com/tools",
-              "description": "Free calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing; metric or imperial, and each page shows its formula and a worked example."
+              "description": "Calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing with metric or imperial, and each page shows its formula and a worked example."
             },
             {
               "name": "Level Commercial Building Value & Trade Expenditure Calculator",
               "url": "https://levelcfo.com/tools/building-revenue-calculator/",
-              "description": "Open commercial building replacement-value and 17-trade annual O&M/capex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties ([Dataset](https://tradesindex.org))."
+              "description": "Open commercial building replacement-value and 17-trade annual O&M/ apex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties."
             },
             {
               "name": "YardCalc",
               "url": "https://getyardcalc.com/",
-              "description": "Free construction and landscaping material calculators for concrete, asphalt, gravel and sand quantities, bag counts and costs, with worked formulas and user-supplied densities and prices."
+              "description": "Construction and landscaping material calculators for concrete, asphalt, gravel and sand quantities, bag counts and costs, with worked formulas and user-supplied densities and prices."
             },
             {
               "name": "ProjectCalcs",
               "url": "https://projectcalcs.com/",
-              "description": "Free browser-based material quantity calculators for concrete, brick, mortar, rebar, flooring, roofing and other home projects; no account required."
+              "description": "Browser-based material quantity calculators for concrete, brick, mortar, rebar, flooring, roofing and other home projects; no account required."
             },
             {
               "name": "Modern CFO Cost Segregation Calculator",
               "url": "https://freecostseg.com/calculator/",
-              "description": "Free browser-based IRS MACRS building component and cost segregation allocation calculator across 45 commercial, industrial, and residential investment property types, separating 5-year non-structural building components, 15-year site improvements, and 27.5-year/39-year structural shells ([CC BY 4.0 Dataset](https://freecostseg.com/resources/cost-segregation-benchmarks/))."
+              "description": "A free calculator that helps real estate owners estimate tax savings by writing off parts of their property (like flooring and landscaping) faster instead of waiting decades (CC BY 4.0 Dataset)."
             }
           ]
         }
