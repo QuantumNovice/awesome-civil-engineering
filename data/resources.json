@@ -1134,6 +1134,11 @@
               "name": "ProjectCalcs",
               "url": "https://projectcalcs.com/",
               "description": "Free browser-based material quantity calculators for concrete, brick, mortar, rebar, flooring, roofing and other home projects; no account required."
+            },
+            {
+              "name": "Modern CFO Cost Segregation Calculator",
+              "url": "https://freecostseg.com/calculator/",
+              "description": "Free browser-based IRS MACRS building component and cost segregation allocation calculator across 45 commercial, industrial, and residential investment property types, separating 5-year non-structural building components, 15-year site improvements, and 27.5-year/39-year structural shells ([CC BY 4.0 Dataset](https://freecostseg.com/resources/cost-segregation-benchmarks/))."
             }
           ]
         }

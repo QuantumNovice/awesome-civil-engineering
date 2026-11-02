@@ -284,6 +284,7 @@
 - [Level Commercial Building Value & Trade Expenditure Calculator](https://levelcfo.com/tools/building-revenue-calculator/) - Open commercial building replacement-value and 17-trade annual O&M/capex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties ([Dataset](https://tradesindex.org)).
 - [YardCalc](https://getyardcalc.com/) - Free construction and landscaping material calculators for concrete, asphalt, gravel and sand quantities, bag counts and costs, with worked formulas and user-supplied densities and prices.
 - [ProjectCalcs](https://projectcalcs.com/) - Free browser-based material quantity calculators for concrete, brick, mortar, rebar, flooring, roofing and other home projects; no account required.
+- [Modern CFO Cost Segregation Calculator](https://freecostseg.com/calculator/) - Free browser-based IRS MACRS building component and cost segregation allocation calculator across 45 commercial, industrial, and residential investment property types, separating 5-year non-structural building components, 15-year site improvements, and 27.5-year/39-year structural shells ([CC BY 4.0 Dataset](https://freecostseg.com/resources/cost-segregation-benchmarks/)).
 
 ## Drafting
 
