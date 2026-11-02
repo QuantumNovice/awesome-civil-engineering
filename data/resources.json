@@ -1373,6 +1373,11 @@
           "name": "Modern CFO Cost Segregation Calculator",
           "url": "https://freecostseg.com/calculator/",
           "description": "Cost segregation calculator estimating accelerated depreciation tax savings."
+        },
+        {
+          "name": "Site Docs Pack Calculators",
+          "url": "https://sitedocs.bongshai.com/calculators/",
+          "description": "Concrete, footing, rebar, steel weight, stair and roof calculators, US/metric."
         }
       ],
       "sections": [

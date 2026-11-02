@@ -333,6 +333,7 @@
 - [YardCalc](https://getyardcalc.com/) - Concrete, asphalt, gravel and sand quantity and cost calculators.
 - [ProjectCalcs](https://projectcalcs.com/) - Material quantity calculators for concrete, brick, rebar, flooring and roofing.
 - [Modern CFO Cost Segregation Calculator](https://freecostseg.com/calculator/) - Cost segregation calculator estimating accelerated depreciation tax savings.
+- [Site Docs Pack Calculators](https://sitedocs.bongshai.com/calculators/) - Concrete, footing, rebar, steel weight, stair and roof calculators, US/metric.
 
 ### Structure Analysis
 
