@@ -36,11 +36,6 @@
           "description": "Legacy Autodesk construction management platform, now within Autodesk Construction Cloud."
         },
         {
-          "name": "CoConstruct",
-          "url": "https://www.buildertrend.com/coconstruct/",
-          "description": "Residential construction management product now part of Buildertrend."
-        },
-        {
           "name": "Autodesk Construction Cloud",
           "url": "https://construction.autodesk.com/",
           "description": "Cloud platform for design collaboration, model coordination, build workflows, and operations handover."
@@ -114,11 +109,6 @@
           "name": "PCSWMM",
           "url": "https://www.pcswmm.com/",
           "description": "Stormwater, wastewater, and watershed modeling software."
-        },
-        {
-          "name": "i-Water Flow",
-          "url": "https://i-water.org/",
-          "description": "Integrated water management software."
         },
         {
           "name": "ICPR",
@@ -1350,11 +1340,6 @@
           "description": "32 concrete calculators for slabs, footings, walls and stairs; metric/imperial."
         },
         {
-          "name": "Build Quantities",
-          "url": "https://buildquantities.com/calculators/",
-          "description": "Quantity calculators for concrete, gravel, rebar, earthwork and drainage."
-        },
-        {
           "name": "Libre Calculator",
           "url": "https://librecalculator.com/calculators/concrete/",
           "description": "Concrete slab volume calculator with adjustable allowance and worked steps."
@@ -1398,11 +1383,6 @@
               "name": "BeamGuru Beam Calculator",
               "url": "https://beamguru.com/beam/",
               "description": "Interactive beam analysis with reactions, axial, shear and moment diagrams."
-            },
-            {
-              "name": "Xarpis 2D Frame & Beam FEA",
-              "url": "https://www.xarpis.com/calculators/frame-fea-2d",
-              "description": "2D frame, beam and truss FEA with force diagrams, deflections and envelopes."
             },
             {
               "name": "Calculadora Estructuras",
@@ -2085,11 +2065,6 @@
         {
           "title": "Python",
           "items": [
-            {
-              "name": "Python for Civil and Structural Engineers",
-              "url": "https://github.com/DrSokac/Python-for-civil-and-structural-engineers",
-              "description": "Tutorials and examples for applying Python to civil and structural engineering problems."
-            },
             {
               "name": "NumPy",
               "url": "https://numpy.org/",

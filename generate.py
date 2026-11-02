@@ -4,7 +4,12 @@ from __future__ import annotations
 
 import argparse
 import re
+import socket
 import sys
+import urllib.error
+import urllib.request
+from collections.abc import Iterator
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Annotated
 
@@ -25,6 +30,15 @@ TEMPLATE_FILE = ROOT / "templates" / "README.md.j2"
 OUTPUT_FILE = ROOT / "README.md"
 MAX_DESCRIPTION_LENGTH = 80
 SHORT_DESCRIPTION_SECTIONS = frozenset({"Web Calculators"})
+LINK_TIMEOUT_SECONDS = 20
+LINK_WORKERS = 16
+BROWSER_RETRY_DELAY_MS = 4000
+# Many vendor sites reject scripted requests, so only these count as dead.
+DEAD_LINK_STATUSES = frozenset({404, 410})
+BROWSER_USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+)
 
 
 class CatalogModel(BaseModel):
@@ -109,6 +123,103 @@ class Catalog(CatalogModel):
         return self
 
 
+def iter_resources(sections: tuple[Section, ...]) -> Iterator[Resource]:
+    for section in sections:
+        yield from section.items
+        yield from iter_resources(section.sections)
+
+
+class LinkChecker:
+    """Request every resource URL and report the ones that are not live."""
+
+    def __init__(
+        self,
+        timeout: float = LINK_TIMEOUT_SECONDS,
+        workers: int = LINK_WORKERS,
+    ) -> None:
+        self.timeout = timeout
+        self.workers = workers
+
+    def probe(self, url: str) -> tuple[bool, str] | None:
+        """Return None if live, else (is_dead, reason)."""
+        request = urllib.request.Request(url, headers={"User-Agent": BROWSER_USER_AGENT})
+        try:
+            with urllib.request.urlopen(request, timeout=self.timeout) as response:
+                response.read(1)
+            return None
+        except urllib.error.HTTPError as error:
+            return error.code in DEAD_LINK_STATUSES, f"HTTP {error.code}"
+        except urllib.error.URLError as error:
+            # Only "no such host" is dead; temporary DNS and connection failures are not.
+            reason = error.reason
+            dead = isinstance(reason, socket.gaierror) and reason.errno == socket.EAI_NONAME
+            return dead, str(reason)
+        except (TimeoutError, OSError) as error:
+            return False, type(error).__name__
+
+    def probe_in_browser(self, urls: list[str]) -> dict[str, tuple[bool, str] | None]:
+        """Retry URLs in headless Chromium, which passes most bot filters."""
+        from playwright.sync_api import Error as PlaywrightError
+        from playwright.sync_api import sync_playwright
+
+        def visit(page, url: str) -> int:
+            response = page.goto(url, wait_until="domcontentloaded", timeout=self.timeout * 1000)
+            return response.status if response else 0
+
+        results: dict[str, tuple[bool, str] | None] = {}
+        with sync_playwright() as playwright:
+            # The full Chromium build runs the new headless mode, which fewer bot filters reject.
+            browser = playwright.chromium.launch(channel="chromium")
+            context = browser.new_context(user_agent=BROWSER_USER_AGENT, locale="en-US")
+            page = context.new_page()
+            for url in urls:
+                try:
+                    status = visit(page, url)
+                    if status >= 400:
+                        # Give challenge pages time to set their cookie, then retry once.
+                        page.wait_for_timeout(BROWSER_RETRY_DELAY_MS)
+                        status = visit(page, url)
+                except PlaywrightError as error:
+                    results[url] = False, f"browser: {str(error).splitlines()[0]}"
+                    continue
+                if status < 400:
+                    results[url] = None
+                else:
+                    results[url] = status in DEAD_LINK_STATUSES, f"browser HTTP {status}"
+            browser.close()
+        return results
+
+    def run(self, catalog: Catalog) -> int:
+        resources = list(iter_resources(catalog.sections))
+        with ThreadPoolExecutor(self.workers) as executor:
+            results = list(executor.map(lambda r: self.probe(str(r.url)), resources))
+
+        retry = [str(r.url) for r, result in zip(resources, results) if result and not result[0]]
+        if retry:
+            try:
+                browser_results = self.probe_in_browser(retry)
+            except ImportError:
+                print("note: install playwright to recheck blocked links in a browser")
+            else:
+                results = [
+                    browser_results.get(str(r.url), result)
+                    for r, result in zip(resources, results)
+                ]
+
+        dead = warned = 0
+        for resource, result in zip(resources, results):
+            if result is None:
+                continue
+            is_dead, reason = result
+            label = "dead" if is_dead else "warning"
+            print(f"{label}: {resource.name} <{resource.url}> ({reason})", file=sys.stderr)
+            dead += is_dead
+            warned += not is_dead
+
+        print(f"Checked {len(resources)} links: {dead} dead, {warned} unverified")
+        return 1 if dead else 0
+
+
 class ReadmeGenerator:
     """Load, validate, and render the JSON resource catalog."""
 
@@ -184,9 +295,16 @@ def main() -> int:
         action="store_true",
         help="fail if README.md does not match the rendered catalog",
     )
+    parser.add_argument(
+        "--check-links",
+        action="store_true",
+        help="request every resource URL and fail if any is dead (404/410/unknown host)",
+    )
     args = parser.parse_args()
 
     try:
+        if args.check_links:
+            return LinkChecker().run(ReadmeGenerator().load_catalog())
         return ReadmeGenerator().run(check=args.check)
     except (OSError, ValidationError, ValueError) as error:
         print(f"error: {error}", file=sys.stderr)

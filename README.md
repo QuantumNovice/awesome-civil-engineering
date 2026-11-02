@@ -42,7 +42,6 @@
 - [Bluebeam Revu](https://www.bluebeam.com/revu/) - PDF markup, review, and construction document collaboration.
 - [Newforma Project Center](https://www.newforma.com/project-information-management/) - Project information management for AEC teams.
 - [Autodesk BIM 360](https://www.autodesk.com/bim-360/) - Legacy Autodesk construction management platform, now within Autodesk Construction Cloud.
-- [CoConstruct](https://www.buildertrend.com/coconstruct/) - Residential construction management product now part of Buildertrend.
 - [Autodesk Construction Cloud](https://construction.autodesk.com/) - Cloud platform for design collaboration, model coordination, build workflows, and operations handover.
 - [Trimble Connect](https://www.trimble.com/en/products/trimble-connect) - Common data environment for BIM and construction collaboration.
 - [Typst](https://typst.app/docs/) - Open-source markup-based typesetting system for fast, reproducible technical reports with equations, references, and templates.
@@ -60,7 +59,6 @@
 - [MIKE FLOOD](https://www.dhigroup.com/technologies/mikepoweredbydhi) - Flood modeling software by DHI.
 - [InfoWorks ICM](https://www.autodesk.com/products/infoworks-icm/overview) - Integrated catchment modeling for drainage, sewer, and flood networks.
 - [PCSWMM](https://www.pcswmm.com/) - Stormwater, wastewater, and watershed modeling software.
-- [i-Water Flow](https://i-water.org/) - Integrated water management software.
 - [ICPR](https://streamline.tech/stormwise) - Hydraulic and groundwater modeling software by Streamline Technologies.
 - [InfoWater Pro](https://www.autodesk.com/products/infowater-pro/overview) - Water distribution modeling in an ArcGIS-based interface.
 - [CE-QUAL-W2](http://www.ce.pdx.edu/w2/) - 2D water quality and hydrodynamic modeling for rivers, estuaries, lakes, reservoirs, and river basin systems.
@@ -328,7 +326,6 @@
 - [BuildRefs](https://buildrefs.com) - Concrete, framing, NEC, Manual J and structural calculators citing their codes.
 - [Concrete Network Calculator](https://www.concretenetwork.com/concrete/howmuch/calculator.htm) - Concrete quantity calculator for slabs, footings, columns and premix bags.
 - [Concrete Quantity](https://concretequantity.com) - 32 concrete calculators for slabs, footings, walls and stairs; metric/imperial.
-- [Build Quantities](https://buildquantities.com/calculators/) - Quantity calculators for concrete, gravel, rebar, earthwork and drainage.
 - [Libre Calculator](https://librecalculator.com/calculators/concrete/) - Concrete slab volume calculator with adjustable allowance and worked steps.
 - [TrueToolCalc](https://truetoolcalc.com/) - Concrete, masonry, flooring and roofing calculators with formulas and examples.
 - [Hexvan Trade Calculators](https://hexvan.com/tools) - Trade calculators for concrete, brick, tile, paint, voltage drop and BTU sizing.
@@ -340,7 +337,6 @@
 ### Structure Analysis
 
 - [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis with reactions, axial, shear and moment diagrams.
-- [Xarpis 2D Frame & Beam FEA](https://www.xarpis.com/calculators/frame-fea-2d) - 2D frame, beam and truss FEA with force diagrams, deflections and envelopes.
 - [Calculadora Estructuras](https://www.calculadoraestructuras.es/) - Spanish structural calculators: beams, buckling (EC3/CTE), trusses, timber.
 - [RodX Beam Calculator](https://rodxcalc.com/beam-calculator) - Continuous beam analysis with hinges, reactions, shear, moment and deflection.
 
@@ -494,7 +490,6 @@
 
 ### Python
 
-- [Python for Civil and Structural Engineers](https://github.com/DrSokac/Python-for-civil-and-structural-engineers) - Tutorials and examples for applying Python to civil and structural engineering problems.
 - [NumPy](https://numpy.org/) - Numerical arrays, vector operations, and matrix manipulation.
 - [SciPy](https://scipy.org/) - Scientific computing, optimization, sparse matrices, and numerical methods.
 - [Pandas](https://pandas.pydata.org/) - Tabular data analysis for reports, inspections, monitoring data, and spreadsheets.
