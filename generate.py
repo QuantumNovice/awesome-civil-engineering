@@ -23,6 +23,8 @@ ROOT = Path(__file__).resolve().parent
 DATA_FILE = ROOT / "data" / "resources.json"
 TEMPLATE_FILE = ROOT / "templates" / "README.md.j2"
 OUTPUT_FILE = ROOT / "README.md"
+MAX_DESCRIPTION_LENGTH = 80
+SHORT_DESCRIPTION_SECTIONS = frozenset({"Web Calculators"})
 
 
 class CatalogModel(BaseModel):
@@ -81,6 +83,29 @@ class Catalog(CatalogModel):
         visit(self.sections)
         if duplicates:
             raise ValueError("duplicate resource URLs: " + "; ".join(duplicates))
+        return self
+
+    @model_validator(mode="after")
+    def check_short_descriptions(self) -> Catalog:
+        """Keep descriptions in length-limited sections to one short line."""
+        too_long: list[str] = []
+
+        def visit(sections: tuple[Section, ...]) -> None:
+            for section in sections:
+                for item in section.items:
+                    if len(item.description) > MAX_DESCRIPTION_LENGTH:
+                        too_long.append(
+                            f"{item.name!r} in {section.title!r} "
+                            f"({len(item.description)} chars)"
+                        )
+                visit(section.sections)
+
+        visit(tuple(s for s in self.sections if s.title in SHORT_DESCRIPTION_SECTIONS))
+        if too_long:
+            raise ValueError(
+                f"descriptions longer than {MAX_DESCRIPTION_LENGTH} characters: "
+                + "; ".join(too_long)
+            )
         return self
 
 

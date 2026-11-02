@@ -3,7 +3,7 @@
   "description": "Engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including roads, bridges, buildings, dams, tunnels, pipelines, water supply, and sewerage systems.",
   "sections": [
     {
-      "title": "Reporting and Documentation",
+      "title": "Reporting & Documentation",
       "items": [
         {
           "name": "Microsoft Word",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "title": "Water Resources and Drainage",
+      "title": "Water Resources & Drainage",
       "items": [
         {
           "name": "EPA SWMM",
@@ -184,11 +184,41 @@
           "name": "iRIC",
           "url": "https://i-ric.org/en/",
           "description": "Free river flow and riverbed variation simulation platform bundling multiple 2D hydraulic solvers."
+        },
+        {
+          "name": "HY-8",
+          "url": "https://www.fhwa.dot.gov/engineering/hydraulics/software/hy8/",
+          "description": "FHWA culvert hydraulic analysis and design program."
+        },
+        {
+          "name": "WMS",
+          "url": "https://aquaveo.com/software/wms/introduction",
+          "description": "Watershed delineation and hydrologic modeling interface."
+        },
+        {
+          "name": "SMS",
+          "url": "https://aquaveo.com/software/sms/introduction",
+          "description": "Surface-water modeling system for 1D and 2D hydraulics."
+        },
+        {
+          "name": "GMS",
+          "url": "https://aquaveo.com/software/gms/introduction",
+          "description": "Groundwater modeling interface for MODFLOW and related models."
+        },
+        {
+          "name": "MIKE+",
+          "url": "https://www.dhigroup.com/technologies/mikepoweredbydhi/mikeplus",
+          "description": "Integrated modeling of water distribution, sewer, and river networks."
+        },
+        {
+          "name": "HEC-ResSim",
+          "url": "https://www.hec.usace.army.mil/software/hec-ressim/",
+          "description": "USACE reservoir operations simulation."
         }
       ]
     },
     {
-      "title": "Structural Analysis and Design Software",
+      "title": "Structural Analysis & Design Software",
       "items": [
         {
           "name": "SAP2000",
@@ -324,6 +354,46 @@
           "name": "Karamba3D",
           "url": "https://karamba3d.com/",
           "description": "Parametric structural finite element analysis inside Rhino and Grasshopper."
+        },
+        {
+          "name": "Response-2000",
+          "url": "https://www.hadrianworks.com/",
+          "description": "Free sectional analysis of reinforced concrete members using the modified compression field theory."
+        },
+        {
+          "name": "StructurePoint",
+          "url": "https://structurepoint.org/",
+          "description": "spColumn, spSlab, spMats, and other reinforced concrete design programs."
+        },
+        {
+          "name": "ADAPT-Builder",
+          "url": "https://risa.com/products/adapt-builder",
+          "description": "Post-tensioned and reinforced concrete floor and foundation design."
+        },
+        {
+          "name": "RAM Concept",
+          "url": "https://www.bentley.com/products/ram-concept/",
+          "description": "Reinforced and post-tensioned concrete slab and mat design."
+        },
+        {
+          "name": "ENERCALC",
+          "url": "https://enercalc.com/",
+          "description": "Structural design calculations for beams, columns, footings, and walls."
+        },
+        {
+          "name": "SeismoStruct",
+          "url": "https://seismosoft.com/products/seismostruct/",
+          "description": "Nonlinear static and dynamic analysis of frames under seismic loading."
+        },
+        {
+          "name": "PERFORM-3D",
+          "url": "https://www.csiamerica.com/products/perform3d",
+          "description": "Nonlinear performance-based seismic analysis of structures."
+        },
+        {
+          "name": "LARSA 4D",
+          "url": "https://www.larsa4d.com/",
+          "description": "Bridge analysis and design with staged construction."
         }
       ]
     },
@@ -389,6 +459,16 @@
           "name": "Engineering on Web FEA",
           "url": "https://engineeringonweb.com/fea/?lang=en",
           "description": "Free browser-based finite element solver for 2D and 3D structural, thermal, fluid, and electromagnetic problems, with WebGPU acceleration and no installation."
+        },
+        {
+          "name": "DIANA FEA",
+          "url": "https://dianafea.com/",
+          "description": "Finite element analysis for concrete, masonry, soil, and dams."
+        },
+        {
+          "name": "ATENA",
+          "url": "https://www.cervenkaconsulting.com/products/atena/",
+          "description": "Nonlinear finite element analysis of reinforced concrete."
         }
       ]
     },
@@ -494,6 +574,56 @@
           "name": "X Slope",
           "url": "https://github.com/njones61/xslope",
           "description": "Open-source python package for seepage and slope stability analysis"
+        },
+        {
+          "name": "DEEPSOIL",
+          "url": "https://deepsoil.cee.illinois.edu/",
+          "description": "1D site response analysis in the time and frequency domains."
+        },
+        {
+          "name": "OPTUM G2/G3",
+          "url": "https://optumce.com/",
+          "description": "Geotechnical finite element and limit analysis in 2D and 3D."
+        },
+        {
+          "name": "ZSoil",
+          "url": "https://www.zsoil.com/",
+          "description": "Finite element analysis for soil-structure interaction."
+        },
+        {
+          "name": "WALLAP",
+          "url": "https://www.geosolve.co.uk/wallap1.htm",
+          "description": "Retaining wall and embedded wall analysis."
+        },
+        {
+          "name": "DeepEX",
+          "url": "https://www.deepexcavation.com/",
+          "description": "Deep excavation and shoring wall design."
+        },
+        {
+          "name": "GROUP",
+          "url": "https://www.ensoftinc.com/products/group/",
+          "description": "Analysis of pile groups under axial and lateral loads."
+        },
+        {
+          "name": "SHAFT",
+          "url": "https://www.ensoftinc.com/products/shaft/",
+          "description": "Axial capacity and settlement of drilled shafts and piles."
+        },
+        {
+          "name": "Dips",
+          "url": "https://www.rocscience.com/software/dips",
+          "description": "Stereonet analysis of rock discontinuity orientations."
+        },
+        {
+          "name": "UnWedge",
+          "url": "https://www.rocscience.com/software/unwedge",
+          "description": "Stability of wedges around underground excavations."
+        },
+        {
+          "name": "RocSlope2",
+          "url": "https://www.rocscience.com/software/rocslope2",
+          "description": "Planar and wedge stability analysis of rock slopes."
         }
       ]
     },
@@ -609,6 +739,38 @@
           "name": "12d Model",
           "url": "https://www.12d.com/",
           "description": "Civil and surveying software for road design, drainage, earthworks, and terrain modeling."
+        },
+        {
+          "name": "PTV Visum",
+          "url": "https://www.ptvgroup.com/en/products/ptv-visum",
+          "description": "Macroscopic travel demand modeling and network analysis."
+        },
+        {
+          "name": "Bentley OpenPaths",
+          "url": "https://www.bentley.com/products/openpaths/",
+          "description": "Transportation planning and travel demand modeling, formerly Cube and Emme."
+        }
+      ],
+      "sections": [
+        {
+          "title": "Pavement Design",
+          "items": [
+            {
+              "name": "AASHTOWare Pavement ME Design",
+              "url": "https://me-design.com/",
+              "description": "Mechanistic-empirical design of flexible and rigid pavements."
+            },
+            {
+              "name": "PaveXpress",
+              "url": "https://www.pavexpress.com/",
+              "description": "Free web tool for AASHTO 93 flexible and rigid pavement design."
+            },
+            {
+              "name": "HDM-4",
+              "url": "https://www.hdmglobal.com/",
+              "description": "Highway development and management for road investment analysis."
+            }
+          ]
         }
       ]
     },
@@ -679,11 +841,48 @@
           "name": "One Click LCA",
           "url": "https://oneclicklca.com/",
           "description": "Embodied carbon and life cycle assessment for buildings and infrastructure."
+        },
+        {
+          "name": "WASP",
+          "url": "https://www.epa.gov/hydrowq/water-quality-analysis-simulation-program-wasp",
+          "description": "EPA water quality simulation for rivers, lakes, and estuaries."
+        },
+        {
+          "name": "QUAL2K",
+          "url": "https://qual2k.com/",
+          "description": "River and stream water quality model."
+        },
+        {
+          "name": "CALPUFF",
+          "url": "https://src.com/",
+          "description": "Lagrangian puff model for long-range air pollutant dispersion."
+        }
+      ],
+      "sections": [
+        {
+          "title": "Wastewater Treatment",
+          "items": [
+            {
+              "name": "BioWin",
+              "url": "https://envirosim.com/",
+              "description": "Wastewater treatment plant process simulation."
+            },
+            {
+              "name": "GPS-X",
+              "url": "https://www.hydromantis.com/",
+              "description": "Modeling and simulation of municipal and industrial wastewater plants."
+            },
+            {
+              "name": "SUMO",
+              "url": "https://dynamita.com/",
+              "description": "Wastewater process simulation with open model code."
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Digital Twins, BIM, and Construction Tech",
+      "title": "BIM & Digital Twins",
       "items": [
         {
           "name": "Bentley iTwin Platform",
@@ -879,11 +1078,36 @@
           "name": "Dalux",
           "url": "https://www.dalux.com/",
           "description": "BIM viewer and construction field management for quality, safety, handover, and facility management."
+        },
+        {
+          "name": "SYNCHRO 4D",
+          "url": "https://www.bentley.com/products/synchro-4d/",
+          "description": "4D construction planning and schedule simulation linked to BIM."
+        },
+        {
+          "name": "ProjectWise",
+          "url": "https://www.bentley.com/products/projectwise/",
+          "description": "Engineering document management and project collaboration."
+        },
+        {
+          "name": "Oracle Aconex",
+          "url": "https://www.oracle.com/construction-engineering/aconex/",
+          "description": "Common data environment for document control on large projects."
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://dynamobim.org/",
+          "description": "Visual programming for Revit and Civil 3D."
+        },
+        {
+          "name": "BIMvision",
+          "url": "https://bimvision.eu/",
+          "description": "Free IFC model viewer."
         }
       ]
     },
     {
-      "title": "Reality Capture and Surveying",
+      "title": "Reality Capture & Surveying",
       "items": [
         {
           "name": "Leica Cyclone 3DR",
@@ -906,9 +1130,9 @@
           "description": "Reality capture and point cloud processing."
         },
         {
-          "name": "RealityCapture",
-          "url": "https://www.capturingreality.com/",
-          "description": "Photogrammetry software for 3D reconstruction."
+          "name": "RealityScan",
+          "url": "https://www.realityscan.com/",
+          "description": "Photogrammetry and laser-scan 3D reconstruction, formerly RealityCapture."
         },
         {
           "name": "Agisoft Metashape",
@@ -944,6 +1168,46 @@
           "name": "Open3D",
           "url": "https://www.open3d.org/",
           "description": "Open-source library for 3D data processing, including point cloud registration, meshing, and visualization."
+        },
+        {
+          "name": "FARO SCENE",
+          "url": "https://www.faro.com/en/Products/Software/SCENE-Software",
+          "description": "Laser scan registration and point cloud processing."
+        },
+        {
+          "name": "Trimble RealWorks",
+          "url": "https://geospatial.trimble.com/en/products/software/trimble-realworks",
+          "description": "Point cloud registration, analysis, and modeling."
+        },
+        {
+          "name": "iTwin Capture Modeler",
+          "url": "https://www.bentley.com/products/itwin-capture-modeler/",
+          "description": "Reality meshes from photos and point clouds, formerly ContextCapture."
+        },
+        {
+          "name": "Meshroom",
+          "url": "https://alicevision.org/#meshroom",
+          "description": "Open-source photogrammetry built on AliceVision."
+        },
+        {
+          "name": "COLMAP",
+          "url": "https://colmap.github.io/",
+          "description": "Open-source structure-from-motion and multi-view stereo."
+        },
+        {
+          "name": "LAStools",
+          "url": "https://rapidlasso.de/product-overview/",
+          "description": "Fast command-line tools for processing LiDAR point clouds."
+        },
+        {
+          "name": "Polycam",
+          "url": "https://poly.cam/",
+          "description": "Mobile LiDAR and photogrammetry scanning for phones and tablets."
+        },
+        {
+          "name": "KIRI Engine",
+          "url": "https://www.kiriengine.app/",
+          "description": "Mobile and web photogrammetry and 3D Gaussian splatting."
         }
       ]
     },
@@ -1024,6 +1288,21 @@
           "name": "Construction Takeoff Practice Plans",
           "url": "https://github.com/krflol/takeoff-field-tools-practice-plans",
           "description": "Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes."
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://jupyter.org/",
+          "description": "Interactive notebooks combining code, equations, and results."
+        },
+        {
+          "name": "Calcs.com",
+          "url": "https://calcs.com/",
+          "description": "Cloud structural calculations for beams, columns, and connections, formerly ClearCalcs."
+        },
+        {
+          "name": "CalcTree",
+          "url": "https://www.calctree.com/",
+          "description": "Collaborative engineering calculation documents."
         }
       ]
     },
@@ -1033,12 +1312,82 @@
         {
           "name": "ComplyOnSite",
           "url": "https://complyonsite.com/tools",
-          "description": "Free browser tools for UK construction site teams, including HAVS and noise exposure calculators, a RAMS builder, waste notes, and EWC code lookup; no account required."
+          "description": "Free UK site tools: HAVS and noise calculators, RAMS builder, EWC code lookup."
         },
         {
           "name": "UnitConv",
           "url": "https://unitconv.online/",
-          "description": "Free browser-based converter for engineering units across length, area, volume, mass, pressure, energy, power, temperature, and related quantities; no login required."
+          "description": "Free engineering unit converter for length, area, pressure, energy and more."
+        },
+        {
+          "name": "Concrete Calculator Hub",
+          "url": "https://concreteestimatorhub.com/",
+          "description": "Concrete volume, bag count, slab, footing and material cost calculators."
+        },
+        {
+          "name": "RoofingCalculatorHQ",
+          "url": "https://roofingcalculatorhq.com",
+          "description": "Roof area, pitch, takeoff, snow/wind load and replacement cost calculators."
+        },
+        {
+          "name": "Roof Cost Data",
+          "url": "https://roofcostdata.com/roof-replacement-cost-calculator",
+          "description": "U.S. roof replacement cost estimator by size, material, tear-off and labor."
+        },
+        {
+          "name": "BuildRefs",
+          "url": "https://buildrefs.com",
+          "description": "Concrete, framing, NEC, Manual J and structural calculators citing their codes."
+        },
+        {
+          "name": "Concrete Network Calculator",
+          "url": "https://www.concretenetwork.com/concrete/howmuch/calculator.htm",
+          "description": "Concrete quantity calculator for slabs, footings, columns and premix bags."
+        },
+        {
+          "name": "Concrete Quantity",
+          "url": "https://concretequantity.com",
+          "description": "32 concrete calculators for slabs, footings, walls and stairs; metric/imperial."
+        },
+        {
+          "name": "Build Quantities",
+          "url": "https://buildquantities.com/calculators/",
+          "description": "Quantity calculators for concrete, gravel, rebar, earthwork and drainage."
+        },
+        {
+          "name": "Libre Calculator",
+          "url": "https://librecalculator.com/calculators/concrete/",
+          "description": "Concrete slab volume calculator with adjustable allowance and worked steps."
+        },
+        {
+          "name": "TrueToolCalc",
+          "url": "https://truetoolcalc.com/",
+          "description": "Concrete, masonry, flooring and roofing calculators with formulas and examples."
+        },
+        {
+          "name": "Hexvan Trade Calculators",
+          "url": "https://hexvan.com/tools",
+          "description": "Trade calculators for concrete, brick, tile, paint, voltage drop and BTU sizing."
+        },
+        {
+          "name": "Level Commercial Building Value & Trade Expenditure Calculator",
+          "url": "https://levelcfo.com/tools/building-revenue-calculator/",
+          "description": "US commercial building replacement value and 17-trade O&M/capex cost model."
+        },
+        {
+          "name": "YardCalc",
+          "url": "https://getyardcalc.com/",
+          "description": "Concrete, asphalt, gravel and sand quantity and cost calculators."
+        },
+        {
+          "name": "ProjectCalcs",
+          "url": "https://projectcalcs.com/",
+          "description": "Material quantity calculators for concrete, brick, rebar, flooring and roofing."
+        },
+        {
+          "name": "Modern CFO Cost Segregation Calculator",
+          "url": "https://freecostseg.com/calculator/",
+          "description": "Cost segregation calculator estimating accelerated depreciation tax savings."
         }
       ],
       "sections": [
@@ -1048,97 +1397,22 @@
             {
               "name": "BeamGuru Beam Calculator",
               "url": "https://beamguru.com/beam/",
-              "description": "Interactive beam analysis for reactions and axial-force, shear-force, and bending-moment diagrams."
+              "description": "Interactive beam analysis with reactions, axial, shear and moment diagrams."
             },
             {
               "name": "Xarpis 2D Frame & Beam FEA",
               "url": "https://www.xarpis.com/calculators/frame-fea-2d",
-              "description": "Free browser-based first-order linear analysis of 2D frames, beams, columns, braces, and trusses, with reactions, force diagrams, deflections, and load-combination envelopes."
+              "description": "2D frame, beam and truss FEA with force diagrams, deflections and envelopes."
             },
             {
               "name": "Calculadora Estructuras",
               "url": "https://www.calculadoraestructuras.es/",
-              "description": "Free browser-based structural calculators in Spanish: section properties, continuous beams, column buckling (EC3/CTE), 2D trusses and frames, Spanish CTE loads and timber beams (DB SE-M), with steel section tables; no login."
+              "description": "Spanish structural calculators: beams, buckling (EC3/CTE), trusses, timber."
             },
             {
               "name": "RodX Beam Calculator",
               "url": "https://rodxcalc.com/beam-calculator",
-              "description": "Free browser-based continuous beam analysis with internal hinges, point, distributed, and moment loads, user-defined E and I, reactions, and shear, moment, and deflection diagrams; no login."
-            }
-          ]
-        },
-        {
-          "title": "Concrete and Construction",
-          "items": [
-            {
-              "name": "Concrete Calculator Hub",
-              "url": "https://concreteestimatorhub.com/",
-              "description": "Free concrete calculators and reference guides for concrete volume, bag counts, slabs, footings, post holes, shed bases, ready-mix comparisons, and material cost planning."
-            },
-            {
-              "name": "RoofingCalculatorHQ",
-              "url": "https://roofingcalculatorhq.com",
-              "description": "Free roofing calculators for area, pitch, material takeoff, snow/wind load, and replacement cost estimation. Covers 10 regional markets with local code references and CC-BY 4.0 data exports."
-            },
-            {
-              "name": "Roof Cost Data",
-              "url": "https://roofcostdata.com/roof-replacement-cost-calculator",
-              "description": "Free U.S. roof replacement planning calculator using roof size, roofing material, tear-off, and local labor assumptions, with low-to-high installed-cost ranges; no account required."
-            },
-            {
-              "name": "BuildRefs",
-              "url": "https://buildrefs.com",
-              "description": "Free construction calculators for concrete, framing, electrical (NEC), HVAC (Manual J), structural, and earthwork, plus steel section-property tables and code guides. Each tool cites the standard it implements; no login."
-            },
-            {
-              "name": "Concrete Network Calculator",
-              "url": "https://www.concretenetwork.com/concrete/howmuch/calculator.htm",
-              "description": "Concrete quantity calculator for slabs, footings, columns, cubic yards, metric volume, and premix bags."
-            },
-            {
-              "name": "Concrete Quantity",
-              "url": "https://concretequantity.com",
-              "description": "Free concrete calculators: 32 tools for slabs, footings, walls, columns, stairs, block walls, driveways, gravel and mortar, with imperial and metric units, bag counts and cost estimates."
-            },
-            {
-              "name": "Build Quantities",
-              "url": "https://buildquantities.com/calculators/",
-              "description": "Free construction quantity calculators for concrete, gravel, sand, rebar, earthwork, drainage, and landscaping, with accepted units, formulas, checked examples, and planning limitations."
-            },
-            {
-              "name": "Libre Calculator",
-              "url": "https://librecalculator.com/calculators/concrete/",
-              "description": "Free concrete slab volume calculator using dimensions and an adjustable allowance, with worked steps and a diagram."
-            },
-            {
-              "name": "TrueToolCalc",
-              "url": "https://truetoolcalc.com/",
-              "description": "Free construction calculators for concrete slab, column and footing volume, premix bag counts, brick, CMU block and mortar, plus flooring, roofing and fencing; each tool shows its formula, a worked example and its limitations."
-            },
-            {
-              "name": "Hexvan Trade Calculators",
-              "url": "https://hexvan.com/tools",
-              "description": "Calculators for concrete, bricks and mortar, tiles, plasterboard, flooring, gravel, paint and roof pitch, plus voltage drop and BTU sizing with metric or imperial, and each page shows its formula and a worked example."
-            },
-            {
-              "name": "Level Commercial Building Value & Trade Expenditure Calculator",
-              "url": "https://levelcfo.com/tools/building-revenue-calculator/",
-              "description": "Open commercial building replacement-value and 17-trade annual O&M/ apex expenditure model backed by EIA CBECS, Census, and RSMeans data across 9.08M US properties."
-            },
-            {
-              "name": "YardCalc",
-              "url": "https://getyardcalc.com/",
-              "description": "Construction and landscaping material calculators for concrete, asphalt, gravel and sand quantities, bag counts and costs, with worked formulas and user-supplied densities and prices."
-            },
-            {
-              "name": "ProjectCalcs",
-              "url": "https://projectcalcs.com/",
-              "description": "Browser-based material quantity calculators for concrete, brick, mortar, rebar, flooring, roofing and other home projects; no account required."
-            },
-            {
-              "name": "Modern CFO Cost Segregation Calculator",
-              "url": "https://freecostseg.com/calculator/",
-              "description": "A free calculator that helps real estate owners estimate tax savings by writing off parts of their property (like flooring and landscaping) faster instead of waiting decades (CC BY 4.0 Dataset)."
+              "description": "Continuous beam analysis with hinges, reactions, shear, moment and deflection."
             }
           ]
         }
@@ -1191,6 +1465,31 @@
           "name": "Cicada",
           "url": "https://hexenwerkzeug.com/tools/cicada",
           "description": "Free browser-based 2D CAD that opens DWG and DXF files and saves DXF and SVG, with no install or upload."
+        },
+        {
+          "name": "LibreCAD",
+          "url": "https://librecad.org/",
+          "description": "Open-source 2D CAD."
+        },
+        {
+          "name": "DraftSight",
+          "url": "https://www.draftsight.com/",
+          "description": "2D and 3D CAD compatible with DWG."
+        },
+        {
+          "name": "ZWCAD",
+          "url": "https://www.zwsoft.com/product/zwcad",
+          "description": "DWG-compatible CAD software."
+        },
+        {
+          "name": "GstarCAD",
+          "url": "https://www.gstarcad.net/",
+          "description": "DWG-compatible CAD software."
+        },
+        {
+          "name": "progeCAD",
+          "url": "https://www.progesoft.com/",
+          "description": "DWG-compatible CAD software."
         }
       ]
     },
@@ -1291,6 +1590,51 @@
           "name": "Maya",
           "url": "https://www.autodesk.com/products/maya/overview",
           "description": "3D animation, modeling, simulation, and rendering software widely used for feature films, TV, and video games."
+        },
+        {
+          "name": "Unreal Engine",
+          "url": "https://www.unrealengine.com/",
+          "description": "Real-time 3D engine for architectural visualization and digital twins."
+        },
+        {
+          "name": "Unity",
+          "url": "https://unity.com/",
+          "description": "Real-time 3D engine for visualization, AR/VR, and digital twins."
+        },
+        {
+          "name": "NVIDIA Omniverse",
+          "url": "https://www.nvidia.com/en-us/omniverse/",
+          "description": "OpenUSD platform for 3D collaboration, simulation, and digital twins."
+        },
+        {
+          "name": "Lumion",
+          "url": "https://lumion.com/",
+          "description": "Real-time architectural rendering."
+        },
+        {
+          "name": "Enscape",
+          "url": "https://www.chaos.com/enscape",
+          "description": "Real-time rendering plugin for Revit, SketchUp, Rhino, and Archicad."
+        },
+        {
+          "name": "D5 Render",
+          "url": "https://www.d5render.com/",
+          "description": "Real-time ray-traced architectural rendering."
+        },
+        {
+          "name": "V-Ray",
+          "url": "https://www.chaos.com/vray",
+          "description": "Photorealistic rendering for 3ds Max, SketchUp, Rhino, and Revit."
+        },
+        {
+          "name": "Chaos Vantage",
+          "url": "https://www.chaos.com/vantage",
+          "description": "Real-time ray-traced exploration of large scenes."
+        },
+        {
+          "name": "AutoCAD Plant 3D",
+          "url": "https://www.autodesk.com/products/autocad-plant-3d/overview",
+          "description": "Plant design and piping layout."
         }
       ]
     },
@@ -1386,6 +1730,36 @@
           "name": "Felt",
           "url": "https://www.felt.com/platform/web-gis",
           "description": "Collaborative cloud GIS for spatial analysis, infrastructure mapping, dashboards, and stakeholder-facing web maps."
+        },
+        {
+          "name": "GDAL",
+          "url": "https://gdal.org/",
+          "description": "Translator library and command-line tools for raster and vector geospatial formats."
+        },
+        {
+          "name": "MapInfo Pro",
+          "url": "https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro",
+          "description": "Desktop GIS for mapping and spatial analysis."
+        },
+        {
+          "name": "WhiteboxTools",
+          "url": "https://www.whiteboxgeo.com/",
+          "description": "Geospatial analysis with strong terrain and hydrology tools."
+        },
+        {
+          "name": "QField",
+          "url": "https://qfield.org/",
+          "description": "Mobile field data collection for QGIS projects."
+        },
+        {
+          "name": "ArcGIS Field Maps",
+          "url": "https://www.esri.com/en-us/arcgis/products/arcgis-field-maps/overview",
+          "description": "Mobile mapping and field data collection."
+        },
+        {
+          "name": "JOSM",
+          "url": "https://josm.openstreetmap.de/",
+          "description": "Desktop editor for OpenStreetMap."
         }
       ]
     },
@@ -1501,6 +1875,56 @@
           "name": "Trunk Tools",
           "url": "https://trunktools.com/",
           "description": "Natural-language search and question answering over construction documents, specs, RFIs, and submittals."
+        },
+        {
+          "name": "Asta Powerproject",
+          "url": "https://eleco.com/products/asta/asta-powerproject/",
+          "description": "Construction planning and scheduling."
+        },
+        {
+          "name": "ProjectLibre",
+          "url": "https://www.projectlibre.com/",
+          "description": "Open-source project scheduling compatible with Microsoft Project."
+        },
+        {
+          "name": "GanttProject",
+          "url": "https://www.ganttproject.biz/",
+          "description": "Free desktop Gantt chart scheduling."
+        }
+      ]
+    },
+    {
+      "title": "Cost Estimating & Quantity Takeoff",
+      "items": [
+        {
+          "name": "RIB CostX",
+          "url": "https://www.rib-software.com/en/rib-costx",
+          "description": "2D and BIM quantity takeoff and estimating."
+        },
+        {
+          "name": "PlanSwift",
+          "url": "https://www.planswift.com/",
+          "description": "Digital takeoff and estimating from plans."
+        },
+        {
+          "name": "On-Screen Takeoff",
+          "url": "https://www.oncenter.com/products/on-screen-takeoff/",
+          "description": "Digital quantity takeoff from construction drawings."
+        },
+        {
+          "name": "STACK",
+          "url": "https://www.stackct.com/",
+          "description": "Cloud takeoff and estimating."
+        },
+        {
+          "name": "HCSS HeavyBid",
+          "url": "https://www.hcss.com/products/construction-estimating-software/",
+          "description": "Estimating and bidding for heavy civil construction."
+        },
+        {
+          "name": "RSMeans Data",
+          "url": "https://www.rsmeans.com/",
+          "description": "Construction cost database for estimating."
         }
       ]
     },
@@ -1555,7 +1979,7 @@
       ]
     },
     {
-      "title": "Machine Learning and AI",
+      "title": "Machine Learning & AI",
       "items": [
         {
           "name": "TensorFlow",
@@ -1631,11 +2055,31 @@
           "name": "PyTorch Geometric",
           "url": "https://pytorch-geometric.readthedocs.io/en/stable/",
           "description": "Graph neural network library for infrastructure networks, meshes, point clouds, and other structured engineering data."
+        },
+        {
+          "name": "OpenCV",
+          "url": "https://opencv.org/",
+          "description": "Computer vision library for image and video processing."
+        },
+        {
+          "name": "Keras",
+          "url": "https://keras.io/",
+          "description": "High-level deep learning API."
+        },
+        {
+          "name": "Detectron2",
+          "url": "https://github.com/facebookresearch/detectron2",
+          "description": "Object detection and segmentation library."
+        },
+        {
+          "name": "MMDetection",
+          "url": "https://github.com/open-mmlab/mmdetection",
+          "description": "Object detection toolbox and model zoo."
         }
       ]
     },
     {
-      "title": "Programming Resources and Libraries",
+      "title": "Programming Resources & Libraries",
       "items": [],
       "sections": [
         {
@@ -1760,6 +2204,51 @@
               "name": "concrete-masonry-formulas",
               "url": "https://github.com/jimny2026a/concrete-masonry-formulas",
               "description": "Open-sourced formulas and CSV data for concrete volume, bag yields, and brick/CMU counts (JS and Python, MIT); same math as the TrueToolCalc calculators."
+            },
+            {
+              "name": "handcalcs",
+              "url": "https://github.com/connorferster/handcalcs",
+              "description": "Render Python calculations as hand-calculation style LaTeX."
+            },
+            {
+              "name": "forallpeople",
+              "url": "https://github.com/connorferster/forallpeople",
+              "description": "SI units for engineering calculations."
+            },
+            {
+              "name": "ezdxf",
+              "url": "https://github.com/mozman/ezdxf",
+              "description": "Read and write DXF drawings."
+            },
+            {
+              "name": "FloPy",
+              "url": "https://github.com/modflowpy/flopy",
+              "description": "Build, run, and post-process MODFLOW models."
+            },
+            {
+              "name": "PyVista",
+              "url": "https://pyvista.org/",
+              "description": "3D plotting and mesh analysis."
+            },
+            {
+              "name": "pyproj",
+              "url": "https://pyproj4.github.io/pyproj/",
+              "description": "Coordinate reference systems and transformations."
+            },
+            {
+              "name": "xarray",
+              "url": "https://xarray.dev/",
+              "description": "Labeled N-dimensional arrays for climate and hydrology data."
+            },
+            {
+              "name": "Gmsh",
+              "url": "https://gmsh.info/",
+              "description": "Finite element mesh generator with a Python API."
+            },
+            {
+              "name": "Landlab",
+              "url": "https://landlab.csdms.io/",
+              "description": "Earth-surface process and landscape modeling."
             }
           ]
         },
@@ -1820,6 +2309,11 @@
               "name": "geotiff.js",
               "url": "https://geotiffjs.github.io/geotiff.js/",
               "description": "JavaScript library for reading GeoTIFF metadata and raster data in browsers and Node.js applications."
+            },
+            {
+              "name": "MapLibre GL JS",
+              "url": "https://maplibre.org/",
+              "description": "Open-source vector tile web maps."
             }
           ]
         },
@@ -1900,11 +2394,21 @@
               "name": "tidyhydat",
               "url": "https://docs.ropensci.org/tidyhydat/articles/tidyhydat_an_introduction.html",
               "description": "R interface for Environment and Climate Change Canada hydrometric data and reproducible water-data analysis."
+            },
+            {
+              "name": "dataRetrieval",
+              "url": "https://github.com/DOI-USGS/dataRetrieval",
+              "description": "Retrieve USGS and EPA hydrology and water quality data."
+            },
+            {
+              "name": "airGR",
+              "url": "https://cran.r-project.org/package=airGR",
+              "description": "Lumped rainfall-runoff hydrological models."
             }
           ]
         },
         {
-          "title": "C# and .NET",
+          "title": "C# & .NET",
           "items": [
             {
               "name": "Microsoft C# Documentation",
