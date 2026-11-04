@@ -335,7 +335,7 @@
 - [ProjectCalcs](https://projectcalcs.com/) - Material quantity calculators for concrete, brick, rebar, flooring and roofing.
 - [Modern CFO Cost Segregation Calculator](https://freecostseg.com/calculator/) - Cost segregation calculator estimating accelerated depreciation tax savings.
 - [Site Docs Pack Calculators](https://sitedocs.bongshai.com/calculators/) - Concrete, footing, rebar, steel weight, stair and roof calculators, US/metric.
-- [Construclytic](https://construclytic.com/) - Free construction calculators with visible formulas (concrete, roofing, flooring, paint, drywall, landscaping); no sign-up.
+- [Construclytic](https://construclytic.com/) - Free construction calculators with visible formulas; no sign-up.
 
 ### Structure Analysis
 
