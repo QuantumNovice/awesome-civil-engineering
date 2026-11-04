@@ -204,6 +204,11 @@
           "name": "HEC-ResSim",
           "url": "https://www.hec.usace.army.mil/software/hec-ressim/",
           "description": "USACE reservoir operations simulation."
+        },
+        {
+          "name": "OpenFLUME",
+          "url": "https://github.com/OpenFLUME/OpenFLUME",
+          "description": "Open-source pipe network solver for steady and transient hydraulics with pumps, valves, and tanks, usable in the browser or from Python."
         }
       ]
     },
