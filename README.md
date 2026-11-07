@@ -33,6 +33,7 @@
   - [R](#r)
   - [C# & .NET](#c--net)
   - [Rust](#rust)
+- [Related Lists](#related-lists)
 
 ## Reporting & Documentation
 
@@ -586,6 +587,10 @@
 - [geoarrow-rs](https://geoarrow.org/geoarrow-rs/) - Rust implementation of GeoArrow for efficient geospatial vector storage, interchange, and spatial processing.
 - [ifc_rs](https://github.com/MetabuildDev/ifc_rs) - Rust implementation of IFC types for reading, creating, and writing IFC building models.
 - [IFC-Lite](https://github.com/LTplus-AG/ifc-lite) - Open-source IFC toolkit with Rust parsing, geometry, and clash-detection crates, WebAssembly bindings, and WebGPU rendering.
+
+## Related Lists
+
+- [Awesome Digital Civil Engineering](https://github.com/Ayberkrk/awesome-digital-civil-engineering) - Open source tools and datasets for structural, earthquake, geotechnical and water engineering, BIM, digital twins and geospatial work, with a Turkiye section.
 
 ## Contributing
 
