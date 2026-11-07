@@ -1285,6 +1285,11 @@
           "description": "Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes."
         },
         {
+          "name": "Construction Charts",
+          "url": "https://github.com/klm-labs/construction-charts",
+          "description": "CC BY 4.0 CSV and PDF tables: stair rise and run, roof pitch, board feet, concrete bags, crown angles."
+        },
+        {
           "name": "Jupyter",
           "url": "https://jupyter.org/",
           "description": "Interactive notebooks combining code, equations, and results."
