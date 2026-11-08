@@ -1203,6 +1203,11 @@
           "name": "KIRI Engine",
           "url": "https://www.kiriengine.app/",
           "description": "Mobile and web photogrammetry and 3D Gaussian splatting."
+        },
+        {
+          "name": "Mini5Planner",
+          "url": "https://www.anleggtech.no/en/mini5planner",
+          "description": "Photogrammetry flight planner for DJI Fly drones that exports WPML KMZ missions."
         }
       ]
     },
