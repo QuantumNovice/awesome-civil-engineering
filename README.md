@@ -321,6 +321,7 @@
 
 - [ComplyOnSite](https://complyonsite.com/tools) - Free UK site tools: HAVS and noise calculators, RAMS builder, EWC code lookup.
 - [UnitConv](https://unitconv.online/) - Free engineering unit converter for length, area, pressure, energy and more.
+- [Calculation Hub Concrete Volume Calculator](https://calculation-hub.com/construction/concrete-volume) - Free concrete volume and waste estimates; not structural or mix-design advice.
 - [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Concrete volume, bag count, slab, footing and material cost calculators.
 - [RoofingCalculatorHQ](https://roofingcalculatorhq.com) - Roof area, pitch, takeoff, snow/wind load and replacement cost calculators.
 - [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - U.S. roof replacement cost estimator by size, material, tear-off and labor.
