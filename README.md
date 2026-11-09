@@ -314,6 +314,7 @@
 - [TEDDS](https://www.tekla.com/products/tekla-tedds) - Productivity tool for repetitive structural calculations.
 - [SymPy](https://docs.sympy.org/latest/index.html) - Open-source Python library for symbolic algebra, equation solving, calculus, matrices, and engineering mathematics.
 - [Construction Takeoff Practice Plans](https://github.com/krflol/takeoff-field-tools-practice-plans) - Five free synthetic construction plan sets with answer schedules and a facilitator guide for practicing counts, lengths, areas, and volumes.
+- [Construction Charts](https://github.com/klm-labs/construction-charts) - CC BY 4.0 CSV and PDF tables: stair rise and run, roof pitch, board feet, concrete bags, crown angles.
 - [Jupyter](https://jupyter.org/) - Interactive notebooks combining code, equations, and results.
 - [Calcs.com](https://calcs.com/) - Cloud structural calculations for beams, columns, and connections, formerly ClearCalcs.
 - [CalcTree](https://www.calctree.com/) - Collaborative engineering calculation documents.
