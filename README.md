@@ -295,6 +295,7 @@
 - [LAStools](https://rapidlasso.de/product-overview/) - Fast command-line tools for processing LiDAR point clouds.
 - [Polycam](https://poly.cam/) - Mobile LiDAR and photogrammetry scanning for phones and tablets.
 - [KIRI Engine](https://www.kiriengine.app/) - Mobile and web photogrammetry and 3D Gaussian splatting.
+- [Mini5Planner](https://www.anleggtech.no/en/mini5planner) - Photogrammetry flight planner for DJI Fly drones that exports WPML KMZ missions.
 
 ## Calculations
 
