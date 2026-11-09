@@ -1500,6 +1500,11 @@
           "name": "progeCAD",
           "url": "https://www.progesoft.com/",
           "description": "DWG-compatible CAD software."
+        },
+        {
+          "name": "Horezmi",
+          "url": "https://horezmi.com/",
+          "description": "Converts scans, PDFs, phone photos and hand sketches of floor plans into editable DWG and DXF, with walls, rooms and dimensions on layers."
         }
       ]
     },

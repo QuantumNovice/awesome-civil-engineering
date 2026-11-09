@@ -362,6 +362,7 @@
 - [ZWCAD](https://www.zwsoft.com/product/zwcad) - DWG-compatible CAD software.
 - [GstarCAD](https://www.gstarcad.net/) - DWG-compatible CAD software.
 - [progeCAD](https://www.progesoft.com/) - DWG-compatible CAD software.
+- [Horezmi](https://horezmi.com/) - Converts scans, PDFs, phone photos and hand sketches of floor plans into editable DWG and DXF, with walls, rooms and dimensions on layers.
 
 ## 3D Modelling
 
