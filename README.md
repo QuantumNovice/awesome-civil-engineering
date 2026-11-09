@@ -363,6 +363,7 @@
 - [GstarCAD](https://www.gstarcad.net/) - DWG-compatible CAD software.
 - [progeCAD](https://www.progesoft.com/) - DWG-compatible CAD software.
 - [Horezmi](https://horezmi.com/) - Converts scans, PDFs, phone photos and hand sketches of floor plans into editable DWG and DXF, with walls, rooms and dimensions on layers.
+- [LinceCAD](https://www.lincecad.com/en/) - Commercial 2D and 3D CAD for Windows and Linux that opens and saves DWG and DXF files natively.
 
 ## 3D Modelling
 
