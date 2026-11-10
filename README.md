@@ -493,6 +493,7 @@
 - [Keras](https://keras.io/) - High-level deep learning API.
 - [Detectron2](https://github.com/facebookresearch/detectron2) - Object detection and segmentation library.
 - [MMDetection](https://github.com/open-mmlab/mmdetection) - Object detection toolbox and model zoo.
+- [AEC Pilot](https://www.aecpilot.com/) - Commercial add-in: local MCP server for LLM agents in Civil 3D, Revit and Robot.
 
 ## Programming Resources & Libraries
 

@@ -2095,6 +2095,11 @@
           "name": "MMDetection",
           "url": "https://github.com/open-mmlab/mmdetection",
           "description": "Object detection toolbox and model zoo."
+        },
+        {
+          "name": "AEC Pilot",
+          "url": "https://www.aecpilot.com/",
+          "description": "Commercial add-in: local MCP server for LLM agents in Civil 3D, Revit and Robot."
         }
       ]
     },
