@@ -1505,6 +1505,11 @@
           "name": "Horezmi",
           "url": "https://horezmi.com/",
           "description": "Converts scans, PDFs, phone photos and hand sketches of floor plans into editable DWG and DXF, with walls, rooms and dimensions on layers."
+        },
+        {
+          "name": "LinceCAD",
+          "url": "https://www.lincecad.com/en/",
+          "description": "Commercial 2D and 3D CAD for Windows and Linux that opens and saves DWG and DXF files natively."
         }
       ]
     },
