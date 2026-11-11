@@ -2523,6 +2523,16 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Related Lists",
+      "items": [
+        {
+          "name": "Awesome Digital Civil Engineering",
+          "url": "https://github.com/Ayberkrk/awesome-digital-civil-engineering",
+          "description": "Open source tools and datasets for structural, earthquake, geotechnical and water engineering, BIM, digital twins and geospatial work, with a Turkiye section."
+        }
+      ]
     }
   ]
 }
