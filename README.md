@@ -339,6 +339,7 @@
 - [Modern CFO Cost Segregation Calculator](https://freecostseg.com/calculator/) - Cost segregation calculator estimating accelerated depreciation tax savings.
 - [Site Docs Pack Calculators](https://sitedocs.bongshai.com/calculators/) - Concrete, footing, rebar, steel weight, stair and roof calculators, US/metric.
 - [Construclytic](https://construclytic.com/) - Free construction calculators with visible formulas; no sign-up.
+- [cv.cm Concrete Calculator](https://cv.cm/en/concrete/) - Slab, footing, wall, column, tube and stair volume with waste and bag counts.
 
 ### Structure Analysis
 

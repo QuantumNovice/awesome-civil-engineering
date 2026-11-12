@@ -1403,6 +1403,11 @@
           "name": "Construclytic",
           "url": "https://construclytic.com/",
           "description": "Free construction calculators with visible formulas; no sign-up."
+        },
+        {
+          "name": "cv.cm Concrete Calculator",
+          "url": "https://cv.cm/en/concrete/",
+          "description": "Slab, footing, wall, column, tube and stair volume with waste and bag counts."
         }
       ],
       "sections": [
