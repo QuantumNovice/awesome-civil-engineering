@@ -204,7 +204,6 @@
 ## Environmental Engineering
 
 - [StormCAD](https://www.bentley.com/software/openflows-stormcad/) - Design and analysis of stormwater conveyance systems.
-- [Enviro.Space Air Dispersion Modeling Software](https://www.enviro.space/products/air-dispersion-modeling-software) - Air pollutant dispersion modeling.
 - [AQUATOX](https://www.epa.gov/hydrowq/aquatox) - EPA model for ecological effects of pollutants and other stressors on aquatic ecosystems.
 - [SRH-2D](https://www.usbr.gov/tsc/techreferences/computer%20software/models/srh2d/index.html) - Two-dimensional Sedimentation and River Hydraulics solver.
 - [AERMOD](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models) - EPA-preferred steady-state plume model for air dispersion.
@@ -340,6 +339,7 @@
 - [Site Docs Pack Calculators](https://sitedocs.bongshai.com/calculators/) - Concrete, footing, rebar, steel weight, stair and roof calculators, US/metric.
 - [Construclytic](https://construclytic.com/) - Free construction calculators with visible formulas; no sign-up.
 - [Build Calculator](https://www.buildcalculator.org/) - Cubic yard and tonnage calculators for gravel, concrete, mulch and asphalt.
+- [cv.cm Concrete Calculator](https://cv.cm/en/concrete/) - Slab, footing, wall, column, tube and stair volume with waste and bag counts.
 
 ### Structure Analysis
 
