@@ -18,4 +18,11 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt playwright
       - run: python -m playwright install --with-deps chromium
-      - run: python generate.py --check-links
+      - name: Check links added by the pull request
+        if: github.event_name == 'pull_request'
+        run: |
+          git fetch --no-tags --depth=1 origin "${{ github.base_ref }}"
+          python generate.py --check-links --since "origin/${{ github.base_ref }}"
+      - name: Check all links
+        if: github.event_name != 'pull_request'
+        run: python generate.py --check-links

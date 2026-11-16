@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import re
 import socket
+import subprocess
 import sys
 import urllib.error
 import urllib.request
@@ -189,8 +190,15 @@ class LinkChecker:
             browser.close()
         return results
 
-    def run(self, catalog: Catalog) -> int:
+    def run(self, catalog: Catalog, baseline: Catalog | None = None) -> int:
         resources = list(iter_resources(catalog.sections))
+        if baseline is not None:
+            # Only check what changed, so old outages do not fail unrelated pull requests.
+            known = {(str(r.url), r.name) for r in iter_resources(baseline.sections)}
+            resources = [r for r in resources if (str(r.url), r.name) not in known]
+            if not resources:
+                print("No new or changed links to check")
+                return 0
         with ThreadPoolExecutor(self.workers) as executor:
             results = list(executor.map(lambda r: self.probe(str(r.url)), resources))
 
@@ -300,12 +308,31 @@ def main() -> int:
         action="store_true",
         help="request every resource URL and fail if any is dead (404/410/unknown host)",
     )
+    parser.add_argument(
+        "--since",
+        metavar="REF",
+        help="with --check-links, only check links that are new or changed since this git ref",
+    )
     args = parser.parse_args()
 
     try:
         if args.check_links:
-            return LinkChecker().run(ReadmeGenerator().load_catalog())
+            baseline = None
+            if args.since:
+                old = subprocess.run(
+                    ["git", "show", f"{args.since}:{DATA_FILE.relative_to(ROOT).as_posix()}"],
+                    cwd=ROOT,
+                    capture_output=True,
+                    text=True,
+                    encoding="utf-8",
+                    check=True,
+                ).stdout
+                baseline = Catalog.model_validate_json(old)
+            return LinkChecker().run(ReadmeGenerator().load_catalog(), baseline)
         return ReadmeGenerator().run(check=args.check)
+    except subprocess.CalledProcessError as error:
+        print(f"error: git show failed: {error.stderr.strip()}", file=sys.stderr)
+        return 2
     except (OSError, ValidationError, ValueError) as error:
         print(f"error: {error}", file=sys.stderr)
         return 2
