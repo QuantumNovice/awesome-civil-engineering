@@ -1335,6 +1335,11 @@
           "description": "Roof area, pitch, takeoff, snow/wind load and replacement cost calculators."
         },
         {
+          "name": "PitchCalc",
+          "url": "https://pitchcalc.com/?utm_source=github&utm_medium=github&utm_campaign=QuantumNovice_awesome-civil-engineering",
+          "description": "Free browser roof-math tools for pitch, area, rafters, and shingle bundles."
+        },
+        {
           "name": "Roof Cost Data",
           "url": "https://roofcostdata.com/roof-replacement-cost-calculator",
           "description": "U.S. roof replacement cost estimator by size, material, tear-off and labor."
