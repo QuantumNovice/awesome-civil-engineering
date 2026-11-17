@@ -619,6 +619,11 @@
           "name": "RocSlope2",
           "url": "https://www.rocscience.com/software/rocslope2",
           "description": "Planar and wedge stability analysis of rock slopes."
+        },
+        {
+          "name": "JointLIB",
+          "url": "https://jointlib.com/en/geotechnics/solver",
+          "description": "Browser-based geotechnical finite element analysis with staged models and calculation reports."
         }
       ]
     },
