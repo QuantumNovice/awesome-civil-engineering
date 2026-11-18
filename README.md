@@ -325,6 +325,7 @@
 - [Calculation Hub Concrete Volume Calculator](https://calculation-hub.com/construction/concrete-volume) - Free concrete volume and waste estimates; not structural or mix-design advice.
 - [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Concrete volume, bag count, slab, footing and material cost calculators.
 - [RoofingCalculatorHQ](https://roofingcalculatorhq.com) - Roof area, pitch, takeoff, snow/wind load and replacement cost calculators.
+- [PitchCalc](https://pitchcalc.com/?utm_source=github&utm_medium=github&utm_campaign=QuantumNovice_awesome-civil-engineering) - Free browser roof-math tools for pitch, area, rafters, and shingle bundles.
 - [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - U.S. roof replacement cost estimator by size, material, tear-off and labor.
 - [BuildRefs](https://buildrefs.com) - Concrete, framing, NEC, Manual J and structural calculators citing their codes.
 - [Concrete Network Calculator](https://www.concretenetwork.com/concrete/howmuch/calculator.htm) - Concrete quantity calculator for slabs, footings, columns and premix bags.
