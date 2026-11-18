@@ -547,6 +547,7 @@
 - [Plotly.js](https://plotly.com/javascript/) - Interactive charts for calculations and engineering reports.
 - [geotiff.js](https://geotiffjs.github.io/geotiff.js/) - JavaScript library for reading GeoTIFF metadata and raster data in browsers and Node.js applications.
 - [MapLibre GL JS](https://maplibre.org/) - Open-source vector tile web maps.
+- [jobsite-math](https://github.com/johnski9000/jobsite-math) - US-unit TypeScript calculators for roofs, concrete, gravel, brick and drywall.
 
 ### Julia
 
