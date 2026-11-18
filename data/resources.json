@@ -1408,6 +1408,11 @@
           "name": "cv.cm Concrete Calculator",
           "url": "https://cv.cm/en/concrete/",
           "description": "Slab, footing, wall, column, tube and stair volume with waste and bag counts."
+        },
+        {
+          "name": "ProofGrit CMT Calculators",
+          "url": "https://proofgrit.com/tools",
+          "description": "Free materials testing calculators: ASTM C39, ACI 318, Proctor, sieve, USCS."
         }
       ],
       "sections": [
