@@ -1340,6 +1340,11 @@
           "description": "Free browser roof-math tools for pitch, area, rafters, and shingle bundles."
         },
         {
+          "name": "Roof Pitch Tool",
+          "url": "https://roofpitchtool.com/",
+          "description": "Browser roof pitch, area, shingle, and rafter calculators with formula notes."
+        },
+        {
           "name": "Roof Cost Data",
           "url": "https://roofcostdata.com/roof-replacement-cost-calculator",
           "description": "U.S. roof replacement cost estimator by size, material, tear-off and labor."
