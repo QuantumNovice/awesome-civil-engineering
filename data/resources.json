@@ -209,6 +209,11 @@
           "name": "OpenFLUME",
           "url": "https://github.com/OpenFLUME/OpenFLUME",
           "description": "Open-source pipe network solver for steady and transient hydraulics with pumps, valves, and tanks, usable in the browser or from Python."
+        },
+        {
+          "name": "Fluid Network Studio",
+          "url": "https://www.fluidnetworkstudio.com",
+          "description": "Browser-based pipe network solver for water, gas and heat transfer, free for liquid networks, with 31 public verification cases."
         }
       ]
     },
