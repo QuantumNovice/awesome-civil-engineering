@@ -955,6 +955,11 @@
           "description": "Model Context Protocol server for authoring IFC5/IFCX models with spatial structures, geometry, materials, classifications, validation, and glTF preview."
         },
         {
+          "name": "Model MCP",
+          "url": "https://github.com/sharafutdinovdi/revit-model-mcp",
+          "description": "Model Context Protocol server for Autodesk Revit 2022-2027 that lets LLM agents read, audit, and edit live models, with one undo step per change."
+        },
+        {
           "name": "Awesome IFC Tools",
           "url": "https://github.com/QuantumNovice/Awesome-IFC-tools",
           "description": "Curated list of open-source tools and libraries for IFC workflows."

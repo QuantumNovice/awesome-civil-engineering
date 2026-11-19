@@ -243,6 +243,7 @@
 - [Bonsai-mcp](https://github.com/JotaDeRodriguez/Bonsai_mcp) - Model Context Protocol server for Blender and Bonsai that lets LLMs inspect, query, and modify IFC models.
 - [ifc-bonsai-mcp](https://github.com/Show2Instruct/ifc-bonsai-mcp) - Model Context Protocol server that connects LLMs to IFC-based BIM authoring workflows in Blender through Bonsai.
 - [ifcx-mcp](https://github.com/louistrue/ifcx-mcp) - Model Context Protocol server for authoring IFC5/IFCX models with spatial structures, geometry, materials, classifications, validation, and glTF preview.
+- [Model MCP](https://github.com/sharafutdinovdi/revit-model-mcp) - Model Context Protocol server for Autodesk Revit 2022-2027 that lets LLM agents read, audit, and edit live models, with one undo step per change.
 - [Awesome IFC Tools](https://github.com/QuantumNovice/Awesome-IFC-tools) - Curated list of open-source tools and libraries for IFC workflows.
 - [Solibri](https://www.solibri.com/) - Model checking, coordination, and information takeoff for BIM.
 - [Navisworks](https://www.autodesk.com/products/navisworks/overview) - Model coordination, clash detection, and 4D review.
