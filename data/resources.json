@@ -1418,6 +1418,11 @@
           "name": "ProofGrit CMT Calculators",
           "url": "https://proofgrit.com/tools",
           "description": "Free materials testing calculators: ASTM C39, ACI 318, Proctor, sieve, USCS."
+        },
+        {
+          "name": "EstimatorSuite Construction Calculators",
+          "url": "https://estimatorsuite.com/calculators/",
+          "description": "Free construction calculators for concrete, roofing, HVAC, drywall, and more."
         }
       ],
       "sections": [
