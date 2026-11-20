@@ -1418,6 +1418,11 @@
           "name": "ProofGrit CMT Calculators",
           "url": "https://proofgrit.com/tools",
           "description": "Free materials testing calculators: ASTM C39, ACI 318, Proctor, sieve, USCS."
+        },
+        {
+          "name": "Alsaba Cloud Rebar Weight Calculator",
+          "url": "https://alsaba.cloud/en/tools/rebar-weight",
+          "description": "Rebar weight per meter for 8-32 mm bars and total weight by count and length."
         }
       ],
       "sections": [
