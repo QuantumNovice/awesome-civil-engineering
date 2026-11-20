@@ -79,6 +79,7 @@
 - [MIKE+](https://www.dhigroup.com/technologies/mikepoweredbydhi/mikeplus) - Integrated modeling of water distribution, sewer, and river networks.
 - [HEC-ResSim](https://www.hec.usace.army.mil/software/hec-ressim/) - USACE reservoir operations simulation.
 - [OpenFLUME](https://github.com/OpenFLUME/OpenFLUME) - Open-source pipe network solver for steady and transient hydraulics with pumps, valves, and tanks, usable in the browser or from Python.
+- [Fluid Network Studio](https://www.fluidnetworkstudio.com) - Browser-based pipe network solver for water, gas and heat transfer, free for liquid networks up to 50 elements, with 31 public verification cases.
 
 ## Structural Analysis & Design Software
 
