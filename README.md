@@ -342,6 +342,7 @@
 - [Build Calculator](https://www.buildcalculator.org/) - Cubic yard and tonnage calculators for gravel, concrete, mulch and asphalt.
 - [cv.cm Concrete Calculator](https://cv.cm/en/concrete/) - Slab, footing, wall, column, tube and stair volume with waste and bag counts.
 - [ProofGrit CMT Calculators](https://proofgrit.com/tools) - Free materials testing calculators: ASTM C39, ACI 318, Proctor, sieve, USCS.
+- [ArchitecturesAI House Cost Calculator](https://architecturesai.com/cost-to-build-a-house-calculator) - US house build cost by size, quality, location, garage and utilities; free.
 
 ### Structure Analysis
 
