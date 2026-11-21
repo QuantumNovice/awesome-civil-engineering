@@ -167,6 +167,7 @@
 - [Dips](https://www.rocscience.com/software/dips) - Stereonet analysis of rock discontinuity orientations.
 - [UnWedge](https://www.rocscience.com/software/unwedge) - Stability of wedges around underground excavations.
 - [RocSlope2](https://www.rocscience.com/software/rocslope2) - Planar and wedge stability analysis of rock slopes.
+- [JointLIB](https://jointlib.com/en/geotechnics/solver) - Browser-based geotechnical finite element analysis with staged models and calculation reports.
 
 ## Transportation Engineering
 
