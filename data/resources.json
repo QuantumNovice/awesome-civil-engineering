@@ -1418,6 +1418,11 @@
           "name": "ProofGrit CMT Calculators",
           "url": "https://proofgrit.com/tools",
           "description": "Free materials testing calculators: ASTM C39, ACI 318, Proctor, sieve, USCS."
+        },
+        {
+          "name": "ArchitecturesAI House Cost Calculator",
+          "url": "https://architecturesai.com/cost-to-build-a-house-calculator",
+          "description": "US house build cost by size, quality, location, garage and utilities; free."
         }
       ],
       "sections": [
