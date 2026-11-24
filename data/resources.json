@@ -2344,6 +2344,11 @@
               "name": "MapLibre GL JS",
               "url": "https://maplibre.org/",
               "description": "Open-source vector tile web maps."
+            },
+            {
+              "name": "jobsite-math",
+              "url": "https://github.com/johnski9000/jobsite-math",
+              "description": "US-unit TypeScript calculators for roofs, concrete, gravel, brick and drywall."
             }
           ]
         },
