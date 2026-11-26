@@ -350,6 +350,7 @@
 
 - [BeamGuru Beam Calculator](https://beamguru.com/beam/) - Interactive beam analysis with reactions, axial, shear and moment diagrams.
 - [Calculadora Estructuras](https://www.calculadoraestructuras.es/) - Spanish structural calculators: beams, buckling (EC3/CTE), trusses, timber.
+- [EduBeam](https://run.edubeam.app/) - Open-source 2D beam, frame and truss analysis with moment, shear and deflection.
 - [RodX Beam Calculator](https://rodxcalc.com/beam-calculator) - Continuous beam analysis with hinges, reactions, shear, moment and deflection.
 
 ## Drafting

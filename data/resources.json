@@ -1450,6 +1450,11 @@
               "description": "Spanish structural calculators: beams, buckling (EC3/CTE), trusses, timber."
             },
             {
+              "name": "EduBeam",
+              "url": "https://run.edubeam.app/",
+              "description": "Open-source 2D beam, frame and truss analysis with moment, shear and deflection."
+            },
+            {
               "name": "RodX Beam Calculator",
               "url": "https://rodxcalc.com/beam-calculator",
               "description": "Continuous beam analysis with hinges, reactions, shear, moment and deflection."
