@@ -1433,6 +1433,11 @@
           "name": "Alsaba Cloud Rebar Weight Calculator",
           "url": "https://alsaba.cloud/en/tools/rebar-weight",
           "description": "Rebar weight per meter for 8-32 mm bars and total weight by count and length."
+        },
+        {
+          "name": "PolyCalc",
+          "url": "https://www.polycalc.online/beam-calculator",
+          "description": "Free beam, truss and Mohr's circle calculators with diagrams; no signup."
         }
       ],
       "sections": [
