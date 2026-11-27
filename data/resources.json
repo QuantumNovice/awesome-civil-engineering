@@ -1540,6 +1540,11 @@
           "name": "LinceCAD",
           "url": "https://www.lincecad.com/en/",
           "description": "Commercial 2D and 3D CAD for Windows and Linux that opens and saves DWG and DXF files natively."
+        },
+        {
+          "name": "ArchLang",
+          "url": "https://archlang.uk/",
+          "description": "Open-source (MIT) text language for floor plans: a plain-text .arch file, written by hand or by an AI assistant, compiles to a dimensioned plan in SVG, DXF or PDF, with a validator that reports what is wrong."
         }
       ]
     },

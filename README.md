@@ -370,6 +370,7 @@
 - [progeCAD](https://www.progesoft.com/) - DWG-compatible CAD software.
 - [Horezmi](https://horezmi.com/) - Converts scans, PDFs, phone photos and hand sketches of floor plans into editable DWG and DXF, with walls, rooms and dimensions on layers.
 - [LinceCAD](https://www.lincecad.com/en/) - Commercial 2D and 3D CAD for Windows and Linux that opens and saves DWG and DXF files natively.
+- [ArchLang](https://archlang.uk/) - Open-source (MIT) text language for floor plans: a plain-text .arch file, written by hand or by an AI assistant, compiles to a dimensioned plan in SVG, DXF or PDF, with a validator that reports what is wrong.
 
 ## 3D Modelling
 
