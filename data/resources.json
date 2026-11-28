@@ -1433,6 +1433,16 @@
           "name": "Alsaba Cloud Rebar Weight Calculator",
           "url": "https://alsaba.cloud/en/tools/rebar-weight",
           "description": "Rebar weight per meter for 8-32 mm bars and total weight by count and length."
+        },
+        {
+          "name": "Home Materials Calculator",
+          "url": "https://homematerialscalc.com",
+          "description": "Concrete, paint, mulch, gravel and tile quantity calculators with formulas."
+        },
+        {
+          "name": "U.S. Electrical and HVAC Calculators",
+          "url": "https://uselectricalhvac.com",
+          "description": "Voltage drop, wire size, BTU, R-value and heating-fuel calculators."
         }
       ],
       "sections": [

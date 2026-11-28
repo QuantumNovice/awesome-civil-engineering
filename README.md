@@ -345,6 +345,8 @@
 - [cv.cm Concrete Calculator](https://cv.cm/en/concrete/) - Slab, footing, wall, column, tube and stair volume with waste and bag counts.
 - [ProofGrit CMT Calculators](https://proofgrit.com/tools) - Free materials testing calculators: ASTM C39, ACI 318, Proctor, sieve, USCS.
 - [Alsaba Cloud Rebar Weight Calculator](https://alsaba.cloud/en/tools/rebar-weight) - Rebar weight per meter for 8-32 mm bars and total weight by count and length.
+- [Home Materials Calculator](https://homematerialscalc.com) - Concrete, paint, mulch, gravel and tile quantity calculators with formulas.
+- [U.S. Electrical and HVAC Calculators](https://uselectricalhvac.com) - Voltage drop, wire size, BTU, R-value and heating-fuel calculators.
 
 ### Structure Analysis
 
